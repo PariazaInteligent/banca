@@ -1,0 +1,74 @@
+
+[
+  {
+    "id": "txn_init_admin_create",
+    "timestamp": "2025-04-27T09:59:00.000Z",
+    "userId": "admin_initial_001",
+    "type": "USER_CREATED",
+    "status": "COMPLETED",
+    "description": "Cont Admin (Admin Principal) creat."
+  },
+  {
+    "id": "txn_init_user1_create",
+    "timestamp": "2025-04-27T11:59:00.000Z",
+    "userId": "user_demo_001",
+    "adminId": "admin_initial_001",
+    "type": "USER_CREATED",
+    "status": "COMPLETED",
+    "description": "Cont Investitor (Pariaza Inteligent) creat de admin Admin Principal."
+  },
+  {
+    "id": "txn_init_user1_invest",
+    "timestamp": "2025-04-27T12:00:00.000Z",
+    "userId": "user_demo_001",
+    "type": "INVESTMENT_APPROVAL",
+    "status": "COMPLETED",
+    "amount": 700,
+    "description": "Investiție inițială de Investitor Pariaza Inteligent aprobată."
+  },
+  {
+    "id": "txn_init_user2_create",
+    "timestamp": "2025-04-28T08:59:00.000Z",
+    "userId": "user_demo_002",
+    "adminId": "admin_initial_001",
+    "type": "USER_CREATED",
+    "status": "COMPLETED",
+    "description": "Cont Investitor (Investitor Demo) creat de admin Admin Principal."
+  },
+  {
+    "id": "txn_init_user2_invest",
+    "timestamp": "2025-04-28T09:00:00.000Z",
+    "userId": "user_demo_002",
+    "type": "INVESTMENT_APPROVAL",
+    "status": "COMPLETED",
+    "amount": 1,
+    "description": "Investiție inițială de Investitor Demo aprobată."
+  },
+  {
+    "id": "txn_init_profit_dist_day1",
+    "timestamp": "2025-05-18T18:00:00.000Z",
+    "type": "PROFIT_DISTRIBUTION",
+    "status": "COMPLETED",
+    "adminId": "admin_initial_001",
+    "description": "Distribuire profit pentru ziua 2025-05-18. Profit total distribuit: 79 EUR. Taxe colectate: 3 EUR.",
+    "details": { "totalDistributed": 79, "totalFees": 3 }
+  },
+    {
+    "id": "txn_init_profit_dist_day2",
+    "timestamp": "2025-05-19T18:00:00.000Z",
+    "type": "PROFIT_DISTRIBUTION",
+    "status": "COMPLETED",
+    "adminId": "admin_initial_001",
+    "description": "Distribuire profit pentru ziua 2025-05-19. Profit total distribuit: 80 EUR. Taxe colectate: 2 EUR.",
+    "details": { "totalDistributed": 80, "totalFees": 2 }
+  },
+  {
+    "id": "txn_pending_withdrawal_user1",
+    "timestamp": "2025-06-07T10:00:00.000Z",
+    "userId": "user_demo_001",
+    "type": "WITHDRAWAL_REQUEST",
+    "status": "PENDING",
+    "amount": 1,
+    "description": "Cerere de retragere de la Investitor Demo în valoare de 1 EUR."
+  }
+]
