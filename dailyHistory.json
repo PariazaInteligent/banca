@@ -1,0 +1,28 @@
+
+[
+  {
+    "day": 1,
+    "date": "2024-07-27",
+    "dailyGrossProfit": 150,
+    "turnover": 8000,
+    "numBets": 50,
+    "totalBankValueStart": 3000,
+    "totalBankValueEnd": 3150,
+    "notes": "Zi bună, profit peste așteptări.",
+    "distributedNetProfit": 147,
+    "collectedFees": 3
+  },
+  {
+    "day": 2,
+    "date": "2024-07-28",
+    "dailyGrossProfit": 100,
+    "turnover": 7000,
+    "numBets": 70,
+    "totalBankValueStart": 5150,
+    "totalBankValueEnd": 5250,
+    "notes": "Activitate constantă.",
+    "distributedNetProfit": 98,
+    "collectedFees": 2
+  }
+]
+    
