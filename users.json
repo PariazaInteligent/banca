@@ -1,0 +1,64 @@
+
+[
+  {
+    "id": "admin_initial_001",
+    "email": "admin@pariazainteligent.ro",
+    "password": "adminpassword",
+    "role": "ADMIN",
+    "name": "Admin Principal",
+    "avatar": "https://picsum.photos/seed/admin_initial_001/100/100",
+    "isGlobalAdmin": true,
+    "isActive": true,
+    "profileData": {
+      "investedAmount": 0,
+      "totalProfitEarned": 0,
+      "joinDate": "2025-05-27T10:00:00.000Z",
+      "investmentHistory": []
+    }
+  },
+  {
+    "id": "user_demo_001",
+    "email": "investitor1@example.com",
+    "password": "userpassword",
+    "role": "USER",
+    "name": "Investitor Demo 1",
+    "avatar": "https://picsum.photos/seed/investitor1@example.com/100/100",
+    "isActive": true,
+    "profileData": {
+      "investedAmount": 700,
+      "totalProfitEarned": 159,
+      "currentGrossProfit": 0,
+      "platformFeePaid": 5,
+      "currentNetProfit": 0,
+      "joinDate": "2024-07-27T12:00:00.000Z",
+      "investmentHistory": [
+        { "date": "2025-05-27T12:00:00.000Z", "amount": 700, "type": "DEPOSIT" },
+        { "date": "2025-05-27T18:00:00.000Z", "amount": 159, "type": "PROFIT_PAYOUT" },
+        { "date": "2025-05-27T18:00:00.000Z", "amount": -1.5, "type": "FEE" } 
+      ]
+    }
+  },
+  {
+    "id": "user_demo_002",
+    "email": "investitor2@example.com",
+    "password": "userpassword",
+    "role": "USER",
+    "name": "Investitor Demo",
+    "avatar": "https://picsum.photos/seed/investitor2@example.com/100/100",
+    "isActive": true,
+    "profileData": {
+      "investedAmount": 1,
+      "totalProfitEarned": 1,
+      "currentGrossProfit": 0,
+      "platformFeePaid": 0,
+      "currentNetProfit": 0,
+      "joinDate": "2025-05-28T09:00:00.000Z",
+      "investmentHistory": [
+        { "date": "2025-05-28T09:00:00.000Z", "amount": 1, "type": "DEPOSIT" },
+        { "date": "2025-05-28T18:00:00.000Z", "amount": 1, "type": "PROFIT_PAYOUT" },
+        { "date": "2025-05-28T18:00:00.000Z", "amount": 0, "type": "FEE" }
+      ]
+    }
+  }
+]
+    
