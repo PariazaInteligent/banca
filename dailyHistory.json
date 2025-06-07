@@ -2,26 +2,26 @@
 [
   {
     "day": 1,
-    "date": "2024-07-27",
-    "dailyGrossProfit": 150,
-    "turnover": 8000,
-    "numBets": 50,
-    "totalBankValueStart": 3000,
-    "totalBankValueEnd": 3150,
-    "notes": "Zi bună, profit peste așteptări.",
-    "distributedNetProfit": 147,
+    "date": "2025-05-18",
+    "dailyGrossProfit": 82,
+    "turnover": 360,
+    "numBets": 38,
+    "totalBankValueStart": 700,
+    "totalBankValueEnd": 782,
+    "notes": "Start!",
+    "distributedNetProfit": 79,
     "collectedFees": 3
   },
   {
     "day": 2,
-    "date": "2024-07-28",
-    "dailyGrossProfit": 100,
-    "turnover": 7000,
-    "numBets": 70,
-    "totalBankValueStart": 5150,
-    "totalBankValueEnd": 5250,
-    "notes": "Activitate constantă.",
-    "distributedNetProfit": 98,
+    "date": "2025-05-19",
+    "dailyGrossProfit": 82,
+    "turnover": 361,
+    "numBets": 38,
+    "totalBankValueStart": 782,
+    "totalBankValueEnd": 864,
+    "notes": "Zi bună, profit peste așteptări.",
+    "distributedNetProfit": 80,
     "collectedFees": 2
   }
 ]
