@@ -214,5 +214,17 @@
     "notes": "Fiecare zi inseamna consistenta.",
     "distributedNetProfit": 45,
     "collectedFees": 0
+  },
+  {
+    "day": 19,
+    "date": "2025-06-08",
+    "dailyGrossProfit": 219,
+    "turnover": 570,
+    "numBets": 10,
+    "totalBankValueStart": 1521,
+    "totalBankValueEnd": 1740,
+    "notes": "-",
+    "distributedNetProfit": 219,
+    "collectedFees": 0
   }
 ]
