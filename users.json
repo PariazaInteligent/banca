@@ -1,12 +1,11 @@
-
 [
   {
-    "id": "admin_initial_001",
+    "id": "admin_global_001",
     "email": "admin@pariazainteligent.ro",
-    "password": "adminpassword",
+    "password": "admin",
     "role": "ADMIN",
     "name": "Admin Principal",
-    "avatar": "https://picsum.photos/seed/admin_initial_001/100/100",
+    "avatar": "https://i.ibb.co/zgtmkSY/IMG-4094-1.webp",
     "isGlobalAdmin": true,
     "isActive": true,
     "profileData": {
@@ -14,15 +13,16 @@
       "totalProfitEarned": 0,
       "joinDate": "2025-05-27T10:00:00.000Z",
       "investmentHistory": []
-    }
+    },
+    "adminPermissions": {}
   },
   {
-    "id": "user_demo_001",
-    "email": "investitor1@example.com",
-    "password": "userpassword",
+    "id": "user_001",
+    "email": "tomizeimihaita@gmail.com",
+    "password": "user",
     "role": "USER",
-    "name": "Investitor Demo 1",
-    "avatar": "https://picsum.photos/seed/investitor1@example.com/100/100",
+    "name": "Pariaza Inteligent",
+    "avatar": "https://i.ibb.co/zgtmkSY/IMG-4094-1.webp",
     "isActive": true,
     "profileData": {
       "investedAmount": 700,
@@ -32,33 +32,22 @@
       "currentNetProfit": 0,
       "joinDate": "2024-07-27T12:00:00.000Z",
       "investmentHistory": [
-        { "date": "2025-05-27T12:00:00.000Z", "amount": 700, "type": "DEPOSIT" },
-        { "date": "2025-05-27T18:00:00.000Z", "amount": 159, "type": "PROFIT_PAYOUT" },
-        { "date": "2025-05-27T18:00:00.000Z", "amount": -1.5, "type": "FEE" } 
-      ]
-    }
-  },
-  {
-    "id": "user_demo_002",
-    "email": "investitor2@example.com",
-    "password": "userpassword",
-    "role": "USER",
-    "name": "Investitor Demo",
-    "avatar": "https://picsum.photos/seed/investitor2@example.com/100/100",
-    "isActive": true,
-    "profileData": {
-      "investedAmount": 1,
-      "totalProfitEarned": 1,
-      "currentGrossProfit": 0,
-      "platformFeePaid": 0,
-      "currentNetProfit": 0,
-      "joinDate": "2025-05-28T09:00:00.000Z",
-      "investmentHistory": [
-        { "date": "2025-05-28T09:00:00.000Z", "amount": 1, "type": "DEPOSIT" },
-        { "date": "2025-05-28T18:00:00.000Z", "amount": 1, "type": "PROFIT_PAYOUT" },
-        { "date": "2025-05-28T18:00:00.000Z", "amount": 0, "type": "FEE" }
+        {
+          "date": "2025-05-27T12:00:00.000Z",
+          "amount": 700,
+          "type": "DEPOSIT"
+        },
+        {
+          "date": "2025-05-27T18:00:00.000Z",
+          "amount": 159,
+          "type": "PROFIT_PAYOUT"
+        },
+        {
+          "date": "2025-05-27T18:00:00.000Z",
+          "amount": -1.5,
+          "type": "FEE"
+        }
       ]
     }
   }
 ]
-    
