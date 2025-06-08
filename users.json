@@ -27,12 +27,82 @@
     "isActive": true,
     "profileData": {
       "investedAmount": 700,
-      "totalProfitEarned": 840,
+      "totalProfitEarned": 1195,
       "currentGrossProfit": 0,
       "platformFeePaid": 0,
       "currentNetProfit": 0,
       "joinDate": "2024-07-27T12:00:00.000Z",
       "investmentHistory": [
+        {
+          "date": "2025-05-18T23:59:59.999Z",
+          "amount": 82,
+          "type": "PROFIT_PAYOUT"
+        },
+        {
+          "date": "2025-05-18T23:59:59.999Z",
+          "amount": 0,
+          "type": "FEE"
+        },
+        {
+          "date": "2025-05-19T23:59:59.999Z",
+          "amount": 82,
+          "type": "PROFIT_PAYOUT"
+        },
+        {
+          "date": "2025-05-19T23:59:59.999Z",
+          "amount": 0,
+          "type": "FEE"
+        },
+        {
+          "date": "2025-05-20T23:59:59.999Z",
+          "amount": 20,
+          "type": "PROFIT_PAYOUT"
+        },
+        {
+          "date": "2025-05-20T23:59:59.999Z",
+          "amount": 0,
+          "type": "FEE"
+        },
+        {
+          "date": "2025-05-21T23:59:59.999Z",
+          "amount": 148,
+          "type": "PROFIT_PAYOUT"
+        },
+        {
+          "date": "2025-05-21T23:59:59.999Z",
+          "amount": 0,
+          "type": "FEE"
+        },
+        {
+          "date": "2025-05-22T23:59:59.999Z",
+          "amount": 30,
+          "type": "PROFIT_PAYOUT"
+        },
+        {
+          "date": "2025-05-22T23:59:59.999Z",
+          "amount": 0,
+          "type": "FEE"
+        },
+        {
+          "date": "2025-05-24T23:59:59.999Z",
+          "amount": 63,
+          "type": "PROFIT_PAYOUT"
+        },
+        {
+          "date": "2025-05-24T23:59:59.999Z",
+          "amount": 0,
+          "type": "FEE"
+        },
+        {
+          "date": "2025-05-26T23:59:59.999Z",
+          "amount": -70,
+          "type": "PROFIT_PAYOUT"
+        },
+        {
+          "date": "2025-05-26T23:59:59.999Z",
+          "amount": 0,
+          "type": "FEE"
+        },
         {
           "date": "2025-05-27T12:00:00.000Z",
           "amount": 700,
