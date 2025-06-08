@@ -1,5 +1,42 @@
 [
   {
+    "type": "DATA_EXPORT",
+    "status": "COMPLETED",
+    "description": "Datele de tip users au fost exportate.",
+    "id": "txn_1749419977209_c9ec8fac88bb2",
+    "timestamp": "2025-06-08T21:59:37.209Z"
+  },
+  {
+    "type": "DATA_EXPORT",
+    "status": "COMPLETED",
+    "description": "Datele de tip globalStats au fost exportate.",
+    "id": "txn_1749419973304_df5c6f7366d7c",
+    "timestamp": "2025-06-08T21:59:33.304Z"
+  },
+  {
+    "adminId": "admin_global_001",
+    "type": "ADMIN_ACTION",
+    "status": "COMPLETED",
+    "description": "Înregistrarea zilnică pentru 8 iunie 2025 a fost ștearsă.",
+    "details": {
+      "recordDate": "2025-06-08",
+      "deletedRecord": {
+        "day": 19,
+        "date": "2025-06-08",
+        "dailyGrossProfit": 219,
+        "turnover": 570,
+        "numBets": 10,
+        "totalBankValueStart": 1521,
+        "totalBankValueEnd": 1740,
+        "notes": "Consistenta bate intensitatea.",
+        "distributedNetProfit": 219,
+        "collectedFees": 0
+      }
+    },
+    "id": "txn_1749419913652_5bbd272fc35f8",
+    "timestamp": "2025-06-08T21:58:33.652Z"
+  },
+  {
     "adminId": "admin_global_001",
     "userId": "user_demo_001",
     "type": "WITHDRAWAL_REJECTION",
