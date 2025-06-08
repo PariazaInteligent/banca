@@ -2,6 +2,48 @@
   {
     "type": "DATA_EXPORT",
     "status": "COMPLETED",
+    "description": "Datele de tip globalStats au fost exportate.",
+    "id": "txn_1749420748819_489c5efe6cb2b",
+    "timestamp": "2025-06-08T22:12:28.819Z"
+  },
+  {
+    "type": "DATA_EXPORT",
+    "status": "COMPLETED",
+    "description": "Datele de tip users au fost exportate.",
+    "id": "txn_1749420526831_d577d815ede1f",
+    "timestamp": "2025-06-08T22:08:46.831Z"
+  },
+  {
+    "adminId": "admin_global_001",
+    "type": "PROFIT_DISTRIBUTION",
+    "status": "COMPLETED",
+    "description": "Profit distribuit pentru 8 iunie 2025. Total Net: 219,00 EUR, Taxe Colectate: 0,00 EUR.",
+    "details": {
+      "recordDate": "2025-06-08",
+      "totalDistributedNetProfit": 219,
+      "totalCollectedFees": 0,
+      "platformFeeRate": 0
+    },
+    "id": "txn_1749420502956_8ecca4c947325",
+    "timestamp": "2025-06-08T22:08:22.956Z"
+  },
+  {
+    "adminId": "admin_global_001",
+    "type": "DAILY_DATA_INPUT",
+    "status": "COMPLETED",
+    "description": "Datele zilnice pentru 8 iunie 2025 au fost introduse. Profit brut: 219,00 EUR.",
+    "details": {
+      "recordDate": "2025-06-08",
+      "grossProfit": 219,
+      "turnover": 570,
+      "numBets": 10
+    },
+    "id": "txn_1749420502956_09667dab08252",
+    "timestamp": "2025-06-08T22:08:22.956Z"
+  },
+  {
+    "type": "DATA_EXPORT",
+    "status": "COMPLETED",
     "description": "Datele de tip users au fost exportate.",
     "id": "txn_1749419977209_c9ec8fac88bb2",
     "timestamp": "2025-06-08T21:59:37.209Z"
