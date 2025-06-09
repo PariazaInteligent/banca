@@ -226,5 +226,17 @@
     "notes": "-",
     "distributedNetProfit": 219,
     "collectedFees": 0
+  },
+  {
+    "day": 20,
+    "date": "2025-06-09",
+    "dailyGrossProfit": -55,
+    "turnover": 203,
+    "numBets": 5,
+    "totalBankValueStart": 1740,
+    "totalBankValueEnd": 1685,
+    "notes": "Un pas înapoi pentru un salt înainte!",
+    "distributedNetProfit": -55,
+    "collectedFees": 0
   }
 ]
