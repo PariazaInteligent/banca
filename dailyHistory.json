@@ -192,18 +192,6 @@
     "collectedFees": 0
   },
   {
-    "day": 17,
-    "date": "2025-06-06",
-    "dailyGrossProfit": 45,
-    "turnover": 73,
-    "numBets": 3,
-    "totalBankValueStart": 1476,
-    "totalBankValueEnd": 1521,
-    "notes": "Fiecare zi înseamnă consistență.",
-    "distributedNetProfit": 45,
-    "collectedFees": 0
-  },
-  {
     "day": 18,
     "date": "2025-06-05",
     "dailyGrossProfit": 155,
@@ -213,6 +201,18 @@
     "totalBankValueEnd": 1676,
     "notes": "Progresul constant, oricât de mic, duce la rezultate uriașe.",
     "distributedNetProfit": 155,
+    "collectedFees": 0
+  },
+  {
+    "day": 17,
+    "date": "2025-06-06",
+    "dailyGrossProfit": 45,
+    "turnover": 73,
+    "numBets": 3,
+    "totalBankValueStart": 1476,
+    "totalBankValueEnd": 1521,
+    "notes": "Fiecare zi înseamnă consistență.",
+    "distributedNetProfit": 45,
     "collectedFees": 0
   },
   {
@@ -249,6 +249,18 @@
     "totalBankValueEnd": 1943,
     "notes": "Profit cu pași constanți!",
     "distributedNetProfit": 103,
+    "collectedFees": 0
+  },
+  {
+    "day": 22,
+    "date": "2025-06-11",
+    "dailyGrossProfit": -271,
+    "turnover": 966,
+    "numBets": 37,
+    "totalBankValueStart": 1943,
+    "totalBankValueEnd": 1672,
+    "notes": "Corectitudine, transparenta, realitate!",
+    "distributedNetProfit": -271,
     "collectedFees": 0
   }
 ]
