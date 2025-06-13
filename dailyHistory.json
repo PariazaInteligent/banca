@@ -262,5 +262,29 @@
     "notes": "Corectitudine, transparenta, realitate!",
     "distributedNetProfit": -271,
     "collectedFees": 0
+  },
+  {
+    "day": 23,
+    "date": "2025-06-12",
+    "dailyGrossProfit": 63,
+    "turnover": 616,
+    "numBets": 23,
+    "totalBankValueStart": 1672,
+    "totalBankValueEnd": 1735,
+    "notes": "Un nou pas inainte!",
+    "distributedNetProfit": 63,
+    "collectedFees": 0
+  },
+  {
+    "day": 24,
+    "date": "2025-06-13",
+    "dailyGrossProfit": -130,
+    "turnover": 827,
+    "numBets": 39,
+    "totalBankValueStart": 1735,
+    "totalBankValueEnd": 1605,
+    "notes": "O zi de reglaj vin",
+    "distributedNetProfit": -130,
+    "collectedFees": 0
   }
 ]
