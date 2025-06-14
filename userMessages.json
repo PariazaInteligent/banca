@@ -1,0 +1,33 @@
+[
+  {
+    "userId": "user_001",
+    "title": "Ecuson Nou Câștigat!",
+    "content": "Felicitări! Ai câștigat ecusonul: Veteran (30 Zile). Vezi-l pe profilul tău. (Activ de 322 zile)",
+    "type": "BADGE",
+    "linkTo": "/user/profil",
+    "relatedBadgeType": "PLATFORM_VETERAN_30_DAYS",
+    "id": "usermsg_1749937465862_z30maj9",
+    "createdAt": "2025-06-14T21:44:25.862Z",
+    "isRead": true
+  },
+  {
+    "id": "usermsg_1749937341581_wml97ug",
+    "userId": "user_demo_001",
+    "title": "Cererea de Retragere Aprobată",
+    "content": "Cererea ta de retragere în valoare de 200 EUR a fost aprobată și procesată.",
+    "createdAt": "2025-06-13T21:42:21.581Z",
+    "isRead": false,
+    "type": "SUCCESS",
+    "linkTo": "/user/retrageri"
+  },
+  {
+    "id": "usermsg_1749937341581_dutbwv2",
+    "userId": "user_demo_001",
+    "title": "Investiție Confirmată",
+    "content": "Investiția ta de 500 EUR a fost confirmată și adăugată în cont.",
+    "createdAt": "2025-06-09T21:42:21.581Z",
+    "isRead": true,
+    "type": "SUCCESS",
+    "linkTo": "/user/investitii"
+  }
+]
