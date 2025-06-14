@@ -3,6 +3,70 @@
     "type": "DATA_EXPORT",
     "status": "COMPLETED",
     "description": "Datele de tip globalStats au fost exportate.",
+    "id": "txn_1749927863993_gxliw16",
+    "timestamp": "2025-06-14T19:04:23.993Z"
+  },
+  {
+    "type": "DATA_EXPORT",
+    "status": "COMPLETED",
+    "description": "Datele de tip users au fost exportate.",
+    "id": "txn_1749927863880_g3tp4r1",
+    "timestamp": "2025-06-14T19:04:23.880Z"
+  },
+  {
+    "type": "DATA_EXPORT",
+    "status": "COMPLETED",
+    "description": "Datele de tip dailyHistory au fost exportate.",
+    "id": "txn_1749927863813_k9ctr32",
+    "timestamp": "2025-06-14T19:04:23.813Z"
+  },
+  {
+    "adminId": "admin_global_001",
+    "type": "PROFIT_DISTRIBUTION",
+    "status": "COMPLETED",
+    "description": "Profit distribuit pentru 14 iunie 2025. Total Net: -251,00 EUR, Taxe Colectate: 0,00 EUR.",
+    "details": {
+      "recordDate": "2025-06-14",
+      "totalDistributedNetProfit": -251,
+      "totalCollectedFees": 0,
+      "platformFeeRate": 0
+    },
+    "id": "txn_1749927863811_hjodxs5",
+    "timestamp": "2025-06-14T19:04:23.811Z"
+  },
+  {
+    "adminId": "admin_global_001",
+    "type": "DAILY_DATA_INPUT",
+    "status": "COMPLETED",
+    "description": "Datele zilnice pentru 14 iunie 2025 au fost introduse. Profit brut: -251,00 EUR.",
+    "details": {
+      "recordDate": "2025-06-14",
+      "grossProfit": -251,
+      "turnover": 564,
+      "numBets": 20
+    },
+    "id": "txn_1749927863810_dsgitnj",
+    "timestamp": "2025-06-14T19:04:23.810Z"
+  },
+  {
+    "type": "ANNOUNCEMENT_CREATED",
+    "status": "COMPLETED",
+    "adminId": "admin_global_001",
+    "description": "Anunț nou creat: \"test anunt\"",
+    "id": "txn_1749927567162_3l7qius",
+    "timestamp": "2025-06-14T18:59:27.162Z"
+  },
+  {
+    "type": "DATA_EXPORT",
+    "status": "COMPLETED",
+    "description": "Datele de tip announcements au fost exportate.",
+    "id": "txn_1749927567162_pbwc4h6",
+    "timestamp": "2025-06-14T18:59:27.162Z"
+  },
+  {
+    "type": "DATA_EXPORT",
+    "status": "COMPLETED",
+    "description": "Datele de tip globalStats au fost exportate.",
     "id": "txn_1749828617421_6e8f613f4639b",
     "timestamp": "2025-06-13T15:30:17.421Z"
   },
