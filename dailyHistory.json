@@ -286,5 +286,17 @@
     "notes": "O zi de reglaj vin",
     "distributedNetProfit": -130,
     "collectedFees": 0
+  },
+  {
+    "day": 25,
+    "date": "2025-06-14",
+    "dailyGrossProfit": -251,
+    "turnover": 564,
+    "numBets": 20,
+    "totalBankValueStart": 1605,
+    "totalBankValueEnd": 1354,
+    "notes": "O zi de recalibrare",
+    "distributedNetProfit": -251,
+    "collectedFees": 0
   }
 ]
