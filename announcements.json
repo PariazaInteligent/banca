@@ -1,10 +1,26 @@
 [
   {
-    "title": "test",
-    "content": "test",
-    "targetAudience": "ALL",
-    "authorId": "admin_global_001",
-    "id": "ann__1749841198002_pf6s5gg",
-    "createdAt": "2025-06-13T18:59:58.002Z"
+    "title": "test anunt",
+    "content": "test continut anunt",
+    "importance": "LOW",
+    "createdBy": "admin_global_001",
+    "id": "announcement_1749927567040_r22oq8v",
+    "createdAt": "2025-06-14T18:59:27.040Z"
+  },
+  {
+    "id": "announcement_1749927339980_wep29oc",
+    "title": "Mentenanță Programată Duminică",
+    "content": "Platforma va fi indisponibilă duminică, între orele 02:00 și 04:00 AM, pentru lucrări de mentenanță. Vă mulțumim pentru înțelegere!",
+    "createdAt": "2025-06-13T18:55:39.980Z",
+    "createdBy": "admin_initial_001",
+    "importance": "HIGH"
+  },
+  {
+    "id": "announcement_1749927339980_nkuk68k",
+    "title": "Actualizare Termeni și Condiții",
+    "content": "Am actualizat Termenii și Condițiile platformei. Vă rugăm să îi revizuiți în secțiunea dedicată.",
+    "createdAt": "2025-06-11T18:55:39.980Z",
+    "createdBy": "admin_initial_001",
+    "importance": "MEDIUM"
   }
 ]
