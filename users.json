@@ -298,9 +298,9 @@
           "order": 8
         },
         {
-          "id": "PERSONAL_PROFIT_CHART",
+          "id": "FINANCIAL_PROJECTIONS",
           "isVisible": true,
-          "order": 11
+          "order": 9
         },
         {
           "id": "GEMINI_ADVANCED_ANALYSIS",
@@ -308,9 +308,9 @@
           "order": 10
         },
         {
-          "id": "FINANCIAL_PROJECTIONS",
+          "id": "PERSONAL_PROFIT_CHART",
           "isVisible": true,
-          "order": 9
+          "order": 11
         },
         {
           "id": "RECENT_TRANSACTIONS",
