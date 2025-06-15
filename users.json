@@ -298,7 +298,7 @@
           "order": 8
         },
         {
-          "id": "FINANCIAL_PROJECTIONS",
+          "id": "PERSONAL_PROFIT_CHART",
           "isVisible": true,
           "order": 9
         },
@@ -308,7 +308,7 @@
           "order": 10
         },
         {
-          "id": "PERSONAL_PROFIT_CHART",
+          "id": "FINANCIAL_PROJECTIONS",
           "isVisible": true,
           "order": 11
         },
