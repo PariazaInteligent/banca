@@ -1,6 +1,17 @@
 [
   {
     "userId": "user_001",
+    "title": "Alertă de Investiție Declanșată!",
+    "content": "Profitul tău a atins sau depășit 10% (este 78.43%) din investiția de referință 700,00 EUR. Profit actual: 549,00 EUR.",
+    "type": "ALERT",
+    "linkTo": "/user/alerte",
+    "relatedAlertId": "alert_1749932002155_ue1iv2m",
+    "id": "usermsg_1749991327881_j9hbcth",
+    "createdAt": "2025-06-15T12:42:07.881Z",
+    "isRead": true
+  },
+  {
+    "userId": "user_001",
     "title": "Ecuson Nou Câștigat!",
     "content": "Felicitări! Ai câștigat ecusonul: Veteran (30 Zile). Vezi-l pe profilul tău. (Activ de 322 zile)",
     "type": "BADGE",
