@@ -258,37 +258,37 @@
       ],
       "dashboardWidgetsConfig": [
         {
-          "id": "SUMMARY_INVESTED_AMOUNT",
+          "id": "SUMMARY_FUND_GROWTH_PERCENTAGE",
           "isVisible": true,
           "order": 1
         },
         {
-          "id": "SUMMARY_TOTAL_BALANCE",
+          "id": "SUMMARY_TOTAL_PROFIT",
           "isVisible": true,
           "order": 2
         },
         {
-          "id": "SUMMARY_FUND_GROWTH_PERCENTAGE",
+          "id": "SUMMARY_INVESTED_AMOUNT",
           "isVisible": true,
           "order": 3
         },
         {
-          "id": "PLATFORM_FEE_INFO",
+          "id": "PROFIT_SHARE_INFO",
           "isVisible": true,
           "order": 4
         },
         {
-          "id": "PROFIT_SHARE_INFO",
+          "id": "QUICK_ACTIONS",
           "isVisible": true,
           "order": 5
         },
         {
-          "id": "SUMMARY_TOTAL_PROFIT",
+          "id": "SUMMARY_TOTAL_BALANCE",
           "isVisible": true,
           "order": 6
         },
         {
-          "id": "QUICK_ACTIONS",
+          "id": "PLATFORM_FEE_INFO",
           "isVisible": true,
           "order": 7
         },
