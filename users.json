@@ -26,12 +26,48 @@
     "isActive": true,
     "profileData": {
       "investedAmount": 700,
-      "totalProfitEarned": 654,
-      "currentGrossProfit": -322,
+      "totalProfitEarned": 549,
+      "currentGrossProfit": -427,
       "platformFeePaid": 0,
-      "currentNetProfit": -322,
+      "currentNetProfit": -427,
       "joinDate": "2024-07-27T12:00:00.000Z",
       "investmentHistory": [
+        {
+          "date": "2025-06-14T19:04:23.806Z",
+          "amount": -251,
+          "type": "PROFIT_PAYOUT"
+        },
+        {
+          "date": "2025-06-13T15:30:17.280Z",
+          "amount": -130,
+          "type": "PROFIT_PAYOUT"
+        },
+        {
+          "date": "2025-06-13T15:29:23.748Z",
+          "amount": 63,
+          "type": "PROFIT_PAYOUT"
+        },
+        {
+          "date": "2025-06-11T16:31:31.088Z",
+          "amount": -271,
+          "type": "PROFIT_PAYOUT"
+        },
+        {
+          "date": "2025-06-10T16:01:08.865Z",
+          "amount": 103,
+          "type": "PROFIT_PAYOUT"
+        },
+        {
+          "date": "2025-06-09T19:11:13.455Z",
+          "amount": -55,
+          "type": "PROFIT_PAYOUT"
+        },
+        {
+          "date": "2025-06-08T22:08:22.955Z",
+          "amount": 219,
+          "type": "PROFIT_PAYOUT",
+          "sourceDate": "2025-06-08"
+        },
         {
           "date": "2025-06-06T23:59:59.999Z",
           "amount": 45,
@@ -208,39 +244,8 @@
           "type": "FEE"
         },
         {
-          "date": "2025-06-08T22:08:22.955Z",
-          "amount": 219,
-          "type": "PROFIT_PAYOUT",
-          "sourceDate": "2025-06-08"
-        },
-        {
-          "date": "2025-06-09T19:11:13.455Z",
-          "amount": -55,
-          "type": "PROFIT_PAYOUT"
-        },
-        {
-          "date": "2025-06-10T16:01:08.865Z",
-          "amount": 103,
-          "type": "PROFIT_PAYOUT"
-        },
-        {
-          "date": "2025-06-11T16:31:31.088Z",
-          "amount": -271,
-          "type": "PROFIT_PAYOUT"
-        },
-        {
-          "date": "2025-06-13T15:29:23.748Z",
-          "amount": 63,
-          "type": "PROFIT_PAYOUT"
-        },
-        {
-          "date": "2025-06-13T15:30:17.280Z",
-          "amount": -130,
-          "type": "PROFIT_PAYOUT"
-        },
-        {
-          "date": "2025-06-14T19:04:23.806Z",
-          "amount": -251,
+          "date": "2025-06-15T12:42:07.877Z",
+          "amount": -105,
           "type": "PROFIT_PAYOUT"
         }
       ],
