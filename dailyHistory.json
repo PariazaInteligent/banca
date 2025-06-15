@@ -298,5 +298,17 @@
     "notes": "O zi de recalibrare",
     "distributedNetProfit": -251,
     "collectedFees": 0
+  },
+  {
+    "day": 26,
+    "date": "2025-06-15",
+    "dailyGrossProfit": -105,
+    "turnover": 283,
+    "numBets": 12,
+    "totalBankValueStart": 1354,
+    "totalBankValueEnd": 1249,
+    "notes": "Inca o zi de corectie",
+    "distributedNetProfit": -105,
+    "collectedFees": 0
   }
 ]
