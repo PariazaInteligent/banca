@@ -255,6 +255,68 @@
           "earnedAt": "2025-06-14T21:44:25.705Z",
           "details": "Activ de 322 zile"
         }
+      ],
+      "dashboardWidgetsConfig": [
+        {
+          "id": "SUMMARY_INVESTED_AMOUNT",
+          "isVisible": true,
+          "order": 1
+        },
+        {
+          "id": "SUMMARY_TOTAL_BALANCE",
+          "isVisible": true,
+          "order": 2
+        },
+        {
+          "id": "SUMMARY_FUND_GROWTH_PERCENTAGE",
+          "isVisible": true,
+          "order": 3
+        },
+        {
+          "id": "PLATFORM_FEE_INFO",
+          "isVisible": true,
+          "order": 4
+        },
+        {
+          "id": "PROFIT_SHARE_INFO",
+          "isVisible": true,
+          "order": 5
+        },
+        {
+          "id": "SUMMARY_TOTAL_PROFIT",
+          "isVisible": true,
+          "order": 6
+        },
+        {
+          "id": "QUICK_ACTIONS",
+          "isVisible": true,
+          "order": 7
+        },
+        {
+          "id": "FUND_GROWTH_CHART",
+          "isVisible": true,
+          "order": 8
+        },
+        {
+          "id": "FINANCIAL_PROJECTIONS",
+          "isVisible": true,
+          "order": 9
+        },
+        {
+          "id": "GEMINI_ADVANCED_ANALYSIS",
+          "isVisible": true,
+          "order": 10
+        },
+        {
+          "id": "PERSONAL_PROFIT_CHART",
+          "isVisible": true,
+          "order": 11
+        },
+        {
+          "id": "RECENT_TRANSACTIONS",
+          "isVisible": true,
+          "order": 12
+        }
       ]
     }
   }
