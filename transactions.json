@@ -3,6 +3,75 @@
     "type": "DATA_EXPORT",
     "status": "COMPLETED",
     "description": "Datele de tip globalStats au fost exportate.",
+    "id": "txn_1750091502190_3ivey1a",
+    "timestamp": "2025-06-16T16:31:42.190Z"
+  },
+  {
+    "type": "DATA_EXPORT",
+    "status": "COMPLETED",
+    "description": "Datele de tip users au fost exportate.",
+    "id": "txn_1750091500831_etgau7o",
+    "timestamp": "2025-06-16T16:31:40.831Z"
+  },
+  {
+    "type": "DATA_EXPORT",
+    "status": "COMPLETED",
+    "description": "Datele de tip dailyHistory au fost exportate.",
+    "id": "txn_1750091500388_cir2wmw",
+    "timestamp": "2025-06-16T16:31:40.388Z"
+  },
+  {
+    "adminId": "admin_global_001",
+    "type": "PROFIT_DISTRIBUTION",
+    "status": "COMPLETED",
+    "description": "Profit distribuit pentru 16 iunie 2025. Total Net: 58,00 EUR, Taxe Colectate: 0,00 EUR.",
+    "details": {
+      "recordDate": "2025-06-16",
+      "totalDistributedNetProfit": 58,
+      "totalCollectedFees": 0,
+      "platformFeeRate": 0
+    },
+    "id": "txn_1750091500058_nd85vpk",
+    "timestamp": "2025-06-16T16:31:40.058Z"
+  },
+  {
+    "adminId": "admin_global_001",
+    "type": "DAILY_DATA_INPUT",
+    "status": "COMPLETED",
+    "description": "Datele zilnice pentru 16 iunie 2025 au fost introduse. Profit brut: 58,00 EUR.",
+    "details": {
+      "recordDate": "2025-06-16",
+      "grossProfit": 58,
+      "turnover": 244,
+      "numBets": 12
+    },
+    "id": "txn_1750091500057_1elasip",
+    "timestamp": "2025-06-16T16:31:40.057Z"
+  },
+  {
+    "type": "DATA_EXPORT",
+    "status": "COMPLETED",
+    "description": "Datele de tip investmentAlerts au fost exportate.",
+    "id": "txn_1750091499990_qxx4ymj",
+    "timestamp": "2025-06-16T16:31:39.990Z"
+  },
+  {
+    "type": "USER_ALERT_TRIGGERED",
+    "status": "COMPLETED",
+    "userId": "user_001",
+    "description": "Alertă declanșată: PROFIT_GAIN_PERCENT - Prag: 10. Detaliu: Profitul tău a atins sau depășit 10% (este 86.71%) din investiția de referință 700,00 EUR. Profit ac...",
+    "details": {
+      "alertId": "alert_1749932002155_ue1iv2m",
+      "triggeredValue": 1307,
+      "profit": 607
+    },
+    "id": "txn_1750091499905_yr1u8ca",
+    "timestamp": "2025-06-16T16:31:39.905Z"
+  },
+  {
+    "type": "DATA_EXPORT",
+    "status": "COMPLETED",
+    "description": "Datele de tip globalStats au fost exportate.",
     "id": "txn_1749991329082_ygauqg2",
     "timestamp": "2025-06-15T12:42:09.082Z"
   },
