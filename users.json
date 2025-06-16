@@ -26,10 +26,10 @@
     "isActive": true,
     "profileData": {
       "investedAmount": 700,
-      "totalProfitEarned": 549,
-      "currentGrossProfit": -427,
+      "totalProfitEarned": 607,
+      "currentGrossProfit": -369,
       "platformFeePaid": 0,
-      "currentNetProfit": -427,
+      "currentNetProfit": -369,
       "joinDate": "2024-07-27T12:00:00.000Z",
       "investmentHistory": [
         {
@@ -246,6 +246,11 @@
         {
           "date": "2025-06-15T12:42:07.877Z",
           "amount": -105,
+          "type": "PROFIT_PAYOUT"
+        },
+        {
+          "date": "2025-06-16T16:31:39.904Z",
+          "amount": 58,
           "type": "PROFIT_PAYOUT"
         }
       ],
