@@ -310,5 +310,17 @@
     "notes": "Inca o zi de corectie",
     "distributedNetProfit": -105,
     "collectedFees": 0
+  },
+  {
+    "day": 27,
+    "date": "2025-06-16",
+    "dailyGrossProfit": 58,
+    "turnover": 244,
+    "numBets": 12,
+    "totalBankValueStart": 1249,
+    "totalBankValueEnd": 1307,
+    "notes": "O zi pozitiva si curata.",
+    "distributedNetProfit": 58,
+    "collectedFees": 0
   }
 ]
