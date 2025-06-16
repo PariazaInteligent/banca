@@ -2,6 +2,17 @@
   {
     "userId": "user_001",
     "title": "Alertă de Investiție Declanșată!",
+    "content": "Profitul tău a atins sau depășit 10% (este 86.71%) din investiția de referință 700,00 EUR. Profit actual: 607,00 EUR.",
+    "type": "ALERT",
+    "linkTo": "/user/alerte",
+    "relatedAlertId": "alert_1749932002155_ue1iv2m",
+    "id": "usermsg_1750091499906_y5cpgku",
+    "createdAt": "2025-06-16T16:31:39.906Z",
+    "isRead": true
+  },
+  {
+    "userId": "user_001",
+    "title": "Alertă de Investiție Declanșată!",
     "content": "Profitul tău a atins sau depășit 10% (este 78.43%) din investiția de referință 700,00 EUR. Profit actual: 549,00 EUR.",
     "type": "ALERT",
     "linkTo": "/user/alerte",
