@@ -1,5 +1,4 @@
-[
-  {
+{
     "id": "admin_global_001",
     "email": "admin@pariazainteligent.ro",
     "password": "admin",
@@ -8,7 +7,6 @@
     "avatar": "https://i.ibb.co/zgtmkSY/IMG-4094-1.webp",
     "isGlobalAdmin": true,
     "isActive": true,
-    "referralCode": "PARIA__1750",
     "profileData": {
       "investedAmount": 0,
       "totalProfitEarned": 0,
