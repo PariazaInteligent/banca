@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "id": "ref_1750182286849_hi2ynfl",
+    "referrerUserId": "admin_global_001",
+    "referredUserId": "user_1750182286847_zup82zw",
+    "referralCodeUsed": "PARIA__1750",
+    "status": "PENDING_INVESTMENT",
+    "timestamp": "2025-06-17T17:44:46.849Z",
+    "rewardApplied": false
+  }
+]
