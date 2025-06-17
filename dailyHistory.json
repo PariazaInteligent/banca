@@ -322,5 +322,17 @@
     "notes": "O zi pozitiva si curata.",
     "distributedNetProfit": 58,
     "collectedFees": 0
+  },
+  {
+    "day": 28,
+    "date": "2025-06-17",
+    "dailyGrossProfit": -68,
+    "turnover": 198,
+    "numBets": 6,
+    "totalBankValueStart": 1307,
+    "totalBankValueEnd": 1239,
+    "notes": "Un pas inapoi face parte don drum.",
+    "distributedNetProfit": -68,
+    "collectedFees": 0
   }
 ]
