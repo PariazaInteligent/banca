@@ -330,5 +330,29 @@
       ]
     },
     "referralCode": "PARIA__1750"
+  },
+  {
+    "id": "user_1750184862661_2r7nzea",
+    "name": "Test Investitor",
+    "email": "test@test.com",
+    "avatar": "https://picsum.photos/seed/default/100/100",
+    "role": "USER",
+    "isActive": true,
+    "password": "test",
+    "isGlobalAdmin": false,
+    "profileData": {
+      "investedAmount": 100,
+      "totalProfitEarned": 0,
+      "joinDate": "2025-06-17T18:27:42.661Z",
+      "investmentHistory": [
+        {
+          "date": "2025-06-17T18:27:42.661Z",
+          "amount": 100,
+          "type": "DEPOSIT"
+        }
+      ],
+      "badges": []
+    },
+    "referredByCode": "PARIA__1750"
   }
 ]
