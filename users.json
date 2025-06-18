@@ -26,10 +26,10 @@
     "isActive": true,
     "profileData": {
       "investedAmount": 700,
-      "totalProfitEarned": 539,
-      "currentGrossProfit": -437,
+      "totalProfitEarned": 425.25,
+      "currentGrossProfit": -550.75,
       "platformFeePaid": 0,
-      "currentNetProfit": -437,
+      "currentNetProfit": -550.75,
       "joinDate": "2024-07-27T12:00:00.000Z",
       "investmentHistory": [
         {
@@ -257,6 +257,11 @@
           "date": "2025-06-17T15:09:50.655Z",
           "amount": -68,
           "type": "PROFIT_PAYOUT"
+        },
+        {
+          "date": "2025-06-18T18:13:14.976Z",
+          "amount": -113.75,
+          "type": "PROFIT_PAYOUT"
         }
       ],
       "badges": [
@@ -342,16 +347,24 @@
     "isGlobalAdmin": false,
     "profileData": {
       "investedAmount": 100,
-      "totalProfitEarned": 0,
+      "totalProfitEarned": -16.25,
       "joinDate": "2025-06-17T18:27:42.661Z",
       "investmentHistory": [
         {
           "date": "2025-06-17T18:27:42.661Z",
           "amount": 100,
           "type": "DEPOSIT"
+        },
+        {
+          "date": "2025-06-18T18:13:14.976Z",
+          "amount": -16.25,
+          "type": "PROFIT_PAYOUT"
         }
       ],
-      "badges": []
+      "badges": [],
+      "currentGrossProfit": -16.25,
+      "platformFeePaid": 0,
+      "currentNetProfit": -16.25
     },
     "referredByCode": "PARIA__1750"
   }
