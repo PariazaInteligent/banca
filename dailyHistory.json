@@ -334,5 +334,17 @@
     "notes": "Un pas inapoi face parte don drum.",
     "distributedNetProfit": -68,
     "collectedFees": 0
+  },
+  {
+    "day": 29,
+    "date": "2025-06-18",
+    "dailyGrossProfit": -130,
+    "turnover": 684,
+    "numBets": 47,
+    "totalBankValueStart": 1239,
+    "totalBankValueEnd": 1109,
+    "notes": "Rabdarea trece prin testul timpului.",
+    "distributedNetProfit": -130,
+    "collectedFees": 0
   }
 ]
