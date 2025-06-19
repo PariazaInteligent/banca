@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Test",
+    "goalType": "TARGET_BALANCE",
+    "targetAmount": 1500,
+    "notes": "test",
+    "userId": "user_001",
+    "id": "goal_1750362372902_ii114jx",
+    "startDate": "2025-06-19T19:46:12.902Z",
+    "status": "ACTIVE"
+  }
+]
