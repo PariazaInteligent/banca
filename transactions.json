@@ -3,6 +3,62 @@
     "type": "DATA_EXPORT",
     "status": "COMPLETED",
     "description": "Datele de tip globalStats au fost exportate.",
+    "id": "txn_1750349324744_kdkjncf",
+    "timestamp": "2025-06-19T16:08:44.744Z"
+  },
+  {
+    "type": "DATA_EXPORT",
+    "status": "COMPLETED",
+    "description": "Datele de tip users au fost exportate.",
+    "id": "txn_1750349323184_xicjlqt",
+    "timestamp": "2025-06-19T16:08:43.184Z"
+  },
+  {
+    "type": "DATA_EXPORT",
+    "status": "COMPLETED",
+    "description": "Datele de tip dailyHistory au fost exportate.",
+    "id": "txn_1750349322919_tepb4i7",
+    "timestamp": "2025-06-19T16:08:42.919Z"
+  },
+  {
+    "adminId": "admin_global_001",
+    "type": "PROFIT_DISTRIBUTION",
+    "status": "COMPLETED",
+    "description": "Profit distribuit pentru 19 iunie 2025. Total Net: -37,00 EUR, Taxe Colectate: 0,00 EUR.",
+    "details": {
+      "recordDate": "2025-06-19",
+      "totalDistributedNetProfit": -37,
+      "totalCollectedFees": 0,
+      "platformFeeRate": 0.01
+    },
+    "id": "txn_1750349322910_ucgg07o",
+    "timestamp": "2025-06-19T16:08:42.910Z"
+  },
+  {
+    "adminId": "admin_global_001",
+    "type": "DAILY_DATA_INPUT",
+    "status": "COMPLETED",
+    "description": "Datele zilnice pentru 19 iunie 2025 au fost introduse. Profit brut: -37,00 EUR.",
+    "details": {
+      "recordDate": "2025-06-19",
+      "grossProfit": -37,
+      "turnover": 63,
+      "numBets": 2
+    },
+    "id": "txn_1750349322909_tkooh71",
+    "timestamp": "2025-06-19T16:08:42.909Z"
+  },
+  {
+    "type": "DATA_EXPORT",
+    "status": "COMPLETED",
+    "description": "Datele de tip investmentAlerts au fost exportate.",
+    "id": "txn_1750349322855_mwrepd6",
+    "timestamp": "2025-06-19T16:08:42.855Z"
+  },
+  {
+    "type": "DATA_EXPORT",
+    "status": "COMPLETED",
+    "description": "Datele de tip globalStats au fost exportate.",
     "id": "txn_1750270396535_tgu7dp5",
     "timestamp": "2025-06-18T18:13:16.535Z"
   },
