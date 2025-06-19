@@ -346,5 +346,17 @@
     "notes": "Rabdarea trece prin testul timpului.",
     "distributedNetProfit": -130,
     "collectedFees": 0
+  },
+  {
+    "day": 30,
+    "date": "2025-06-19",
+    "dailyGrossProfit": -37,
+    "turnover": 63,
+    "numBets": 2,
+    "totalBankValueStart": 1109,
+    "totalBankValueEnd": 1072,
+    "notes": "Final de luna, cu lectii si planuri!",
+    "distributedNetProfit": -37,
+    "collectedFees": 0
   }
 ]
