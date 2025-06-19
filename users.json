@@ -26,10 +26,10 @@
     "isActive": true,
     "profileData": {
       "investedAmount": 700,
-      "totalProfitEarned": 425.25,
-      "currentGrossProfit": -550.75,
+      "totalProfitEarned": 392.875,
+      "currentGrossProfit": -583.125,
       "platformFeePaid": 0,
-      "currentNetProfit": -550.75,
+      "currentNetProfit": -583.125,
       "joinDate": "2024-07-27T12:00:00.000Z",
       "investmentHistory": [
         {
@@ -262,6 +262,11 @@
           "date": "2025-06-18T18:13:14.976Z",
           "amount": -113.75,
           "type": "PROFIT_PAYOUT"
+        },
+        {
+          "date": "2025-06-19T16:08:42.699Z",
+          "amount": -32.375,
+          "type": "PROFIT_PAYOUT"
         }
       ],
       "badges": [
@@ -347,7 +352,7 @@
     "isGlobalAdmin": false,
     "profileData": {
       "investedAmount": 100,
-      "totalProfitEarned": -16.25,
+      "totalProfitEarned": -20.875,
       "joinDate": "2025-06-17T18:27:42.661Z",
       "investmentHistory": [
         {
@@ -359,12 +364,17 @@
           "date": "2025-06-18T18:13:14.976Z",
           "amount": -16.25,
           "type": "PROFIT_PAYOUT"
+        },
+        {
+          "date": "2025-06-19T16:08:42.699Z",
+          "amount": -4.625,
+          "type": "PROFIT_PAYOUT"
         }
       ],
       "badges": [],
-      "currentGrossProfit": -16.25,
+      "currentGrossProfit": -20.875,
       "platformFeePaid": 0,
-      "currentNetProfit": -16.25
+      "currentNetProfit": -20.875
     },
     "referredByCode": "PARIA__1750"
   }
