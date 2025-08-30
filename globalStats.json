@@ -1,9 +1,9 @@
 {
-  "totalInvested": 800,
-  "totalProfitDistributed": 372,
+  "totalInvested": 900,
+  "totalProfitDistributed": 0,
   "activeInvestors": 2,
-  "currentTurnover": 14560,
-  "totalBetsPlaced": 689,
+  "currentTurnover": 0,
+  "totalBetsPlaced": 0,
   "platformFeeRate": 0.01,
   "lastProfitUpdateTime": "2025-06-19T16:08:42.700Z"
 }
