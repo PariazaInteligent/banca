@@ -2,8 +2,45 @@
   {
     "date": "2025-08-30",
     "sport": "Tenis",
+    "league": "Liga Prom 2025/2026",
+    "event": "Herrera Reserves - Udelas FC",
+    "createdByAdminId": "admin_global_001",
+    "market": "Asian hcp +0.25 (Herrera Reserves) - Ordinary Time",
+    "selection": "Asian hcp +0.25 (Herrera Reserves) - Ordinary Time",
+    "odds": 2.3,
+    "stake": 26,
+    "id": "bet_1756587110523_jwu2315",
+    "groupId": "grp_1756587110523_v0dyko8",
+    "betType": "VALUE",
+    "status": "PENDING",
+    "processedInDailyHistory": false
+  },
+  {
+    "date": "2025-08-30",
+    "sport": "Tenis",
+    "league": "Liga Prom 2025/2026",
+    "event": "Herrera Reserves - Udelas FC",
+    "createdByAdminId": "admin_global_001",
+    "market": "Asian hcp +0.25 (Herrera Reserves) - Ordinary Time",
+    "selection": "Asian hcp +1.5 (Udelas FC)",
+    "odds": 1.917,
+    "stake": 31.2,
+    "middleDetails": {
+      "p1": 2.600000000000005,
+      "p2": 2.6000000000000014,
+      "pb": 62.4
+    },
+    "id": "bet_1756587110523_ob0u1ln",
+    "groupId": "grp_1756587110523_v0dyko8",
+    "betType": "MIDDLE",
+    "status": "PENDING",
+    "processedInDailyHistory": false
+  },
+  {
+    "date": "2025-08-30",
+    "sport": "Tenis",
     "league": "United States: US Open 2025",
-    "event": "Daniel Altmaier vsAlex De Minaur",
+    "event": "Daniel Altmaier vs Alex De Minaur",
     "createdByAdminId": "admin_global_001",
     "market": "Total game-uri",
     "selection": "Under 30.5",
@@ -13,7 +50,8 @@
     "groupId": "grp_1756583449119_yl18iuw",
     "betType": "VALUE",
     "status": "PENDING",
-    "processedInDailyHistory": false
+    "processedInDailyHistory": false,
+    "notes": ""
   },
   {
     "date": "2025-08-30",
