@@ -1,6 +1,43 @@
 [
   {
     "date": "2025-08-30",
+    "sport": "Fotbal",
+    "league": "Premier League 2025/2026",
+    "event": "Akron Tolyatti - FK Baltika Kaliningrad ",
+    "createdByAdminId": "admin_global_001",
+    "market": "1x2 (FK Baltika Kaliningrad) - Ordinary Time",
+    "selection": "1x2 (FK Baltika Kaliningrad) - Ordinary Time",
+    "odds": 2.3,
+    "stake": 19,
+    "id": "bet_1756589567639_pfd0diq",
+    "groupId": "grp_1756589567639_kimyhry",
+    "betType": "VALUE",
+    "status": "PENDING",
+    "processedInDailyHistory": false
+  },
+  {
+    "date": "2025-08-30",
+    "sport": "Fotbal",
+    "league": "Premier League 2025/2026",
+    "event": "Akron Tolyatti - FK Baltika Kaliningrad ",
+    "createdByAdminId": "admin_global_001",
+    "market": "1x2 (FK Baltika Kaliningrad) - Ordinary Time",
+    "selection": "Handicap +1.5 (Akron Tolyatti)",
+    "odds": 1.917,
+    "stake": 22.8,
+    "middleDetails": {
+      "p1": 1.8999999999999986,
+      "p2": 1.8999999999999986,
+      "pb": 45.599999999999994
+    },
+    "id": "bet_1756589567639_gq2nc06",
+    "groupId": "grp_1756589567639_kimyhry",
+    "betType": "MIDDLE",
+    "status": "PENDING",
+    "processedInDailyHistory": false
+  },
+  {
+    "date": "2025-08-30",
     "sport": "Tenis",
     "league": "Liga Prom 2025/2026",
     "event": "Herrera Reserves - Udelas FC",
