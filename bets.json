@@ -1,1 +1,54 @@
-
+[
+  {
+    "date": "2025-08-30",
+    "sport": "Fotbal",
+    "league": "Australia: Northern NSW Reserves League 2025",
+    "event": "Newcastle Olympic Reserves vs Cooks Hill United FC Reserves",
+    "createdByAdminId": "admin_global_001",
+    "market": "Asian handicap",
+    "selection": "Asian hcp +1 (Cooks Hill United FC Reserves)",
+    "odds": 1.8,
+    "stake": 53,
+    "id": "bet_1756583140225_y232ge7",
+    "groupId": "grp_1756583140224_5x1at5l",
+    "betType": "VALUE",
+    "status": "PENDING",
+    "processedInDailyHistory": false
+  },
+  {
+    "date": "2025-08-30",
+    "sport": "Fotbal",
+    "league": "Australia: Northern NSW Reserves League 2025",
+    "event": "Newcastle Olympic Reserves vs Cooks Hill United FC Reserves",
+    "createdByAdminId": "admin_global_001",
+    "market": "Asian handicap",
+    "selection": "Sub 3.5 goluri",
+    "odds": 2.571,
+    "stake": 37.1,
+    "middleDetails": {
+      "p1": 5.300000000000004,
+      "p2": 5.29999999999999,
+      "pb": 100.69999999999999
+    },
+    "id": "bet_1756583140225_sjj7zne",
+    "groupId": "grp_1756583140224_5x1at5l",
+    "betType": "MIDDLE",
+    "status": "PENDING",
+    "processedInDailyHistory": false
+  },
+  {
+    "id": "bet_1756582278520_tzk693t",
+    "groupId": "grp_init_002",
+    "date": "2025-08-30",
+    "sport": "Tenis",
+    "league": "ATP Finals",
+    "event": "Djokovic vs Alcaraz",
+    "market": "Total Game-uri",
+    "selection": "Peste 22.5",
+    "odds": 1.85,
+    "stake": 50,
+    "betType": "MIDDLE",
+    "status": "PENDING",
+    "createdByAdminId": "admin_initial_001"
+  }
+]
