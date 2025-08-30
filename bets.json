@@ -1,6 +1,44 @@
 [
   {
     "date": "2025-08-30",
+    "sport": "Tenis",
+    "league": "United States: US Open 2025",
+    "event": "Daniel Altmaier vsAlex De Minaur",
+    "createdByAdminId": "admin_global_001",
+    "market": "Total game-uri",
+    "selection": "Under 30.5",
+    "odds": 1.97,
+    "stake": 8,
+    "id": "bet_1756583449119_olfu45g",
+    "groupId": "grp_1756583449119_yl18iuw",
+    "betType": "VALUE",
+    "status": "PENDING",
+    "processedInDailyHistory": false
+  },
+  {
+    "date": "2025-08-30",
+    "sport": "Tenis",
+    "league": "United States: US Open 2025",
+    "event": "Daniel Altmaier vsAlex De Minaur",
+    "createdByAdminId": "admin_global_001",
+    "market": "Total game-uri",
+    "selection": "Over 30",
+    "odds": 2.364,
+    "stake": 6.45,
+    "middleDetails": {
+      "p1": 1.310126368997472,
+      "p2": 0.8000000000000007,
+      "pb": 16.560000000000002
+    },
+    "id": "bet_1756583449119_ws853xm",
+    "groupId": "grp_1756583449119_yl18iuw",
+    "betType": "MIDDLE",
+    "status": "PENDING",
+    "processedInDailyHistory": false,
+    "notes": ""
+  },
+  {
+    "date": "2025-08-30",
     "sport": "Fotbal",
     "league": "Australia: Northern NSW Reserves League 2025",
     "event": "Newcastle Olympic Reserves vs Cooks Hill United FC Reserves",
