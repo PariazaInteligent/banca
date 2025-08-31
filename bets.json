@@ -1,8 +1,80 @@
-
 [
   {
+    "date": "2025-08-31",
+    "sport": "Fotbal",
+    "league": "3.SNL 2025/2026",
+    "event": "NK Smartno - NK Carda ",
+    "createdByAdminId": "admin_global_001",
+    "market": "Peste 3 goluri",
+    "selection": "Peste 3 goluri",
+    "odds": 1.58,
+    "stake": 46,
+    "id": "bet_1756652640608_qewcct6",
+    "groupId": "grp_1756652640608_qwfgraz",
+    "betType": "VALUE",
+    "status": "PENDING",
+    "processedInDailyHistory": false
+  },
+  {
+    "date": "2025-08-31",
+    "sport": "Fotbal",
+    "league": "3.SNL 2025/2026",
+    "event": "NK Smartno - NK Carda ",
+    "createdByAdminId": "admin_global_001",
+    "market": "Peste 3 goluri",
+    "selection": "Sub 3.5 goluri",
+    "odds": 3.292,
+    "stake": 22.08,
+    "middleDetails": {
+      "p1": 4.600000000000001,
+      "p2": 4.600000000000001,
+      "pb": 77.28
+    },
+    "id": "bet_1756652640608_qyc7vu4",
+    "groupId": "grp_1756652640608_qwfgraz",
+    "betType": "MIDDLE",
+    "status": "PENDING",
+    "processedInDailyHistory": false
+  },
+  {
+    "date": "2025-08-31",
+    "sport": "Fotbal",
+    "league": "Serie A 2025/2026",
+    "event": "SS Lazio - Hellas Verona ",
+    "createdByAdminId": "admin_global_001",
+    "market": "Sub 1.5 goluri",
+    "selection": "Sub 1.5 goluri",
+    "odds": 2.95,
+    "stake": 16,
+    "id": "bet_1756652386243_e2tkbzg",
+    "groupId": "grp_1756652386243_21z4gop",
+    "betType": "VALUE",
+    "status": "PENDING",
+    "processedInDailyHistory": false
+  },
+  {
+    "date": "2025-08-31",
+    "sport": "Fotbal",
+    "league": "Serie A 2025/2026",
+    "event": "SS Lazio - Hellas Verona ",
+    "createdByAdminId": "admin_global_001",
+    "market": "Sub 1.5 goluri",
+    "selection": "Peste 0.5 goluri",
+    "odds": 1.595,
+    "stake": 29.6,
+    "middleDetails": {
+      "p1": 1.6000000000000085,
+      "p2": 1.6000000000000014,
+      "pb": 48.800000000000004
+    },
+    "id": "bet_1756652386243_q0mqv74",
+    "groupId": "grp_1756652386243_21z4gop",
+    "betType": "MIDDLE",
+    "status": "PENDING",
+    "processedInDailyHistory": false
+  },
+  {
     "date": "2025-08-30",
-    "eventTimestamp": "2025-08-30T18:00:00.000Z",
     "sport": "Fotbal",
     "league": "Premier League 2025/2026",
     "event": "Akron Tolyatti - FK Baltika Kaliningrad ",
@@ -21,7 +93,6 @@
   },
   {
     "date": "2025-08-30",
-    "eventTimestamp": "2025-08-30T18:00:00.000Z",
     "sport": "Fotbal",
     "league": "Premier League 2025/2026",
     "event": "Akron Tolyatti - FK Baltika Kaliningrad ",
@@ -45,7 +116,6 @@
   },
   {
     "date": "2025-08-30",
-    "eventTimestamp": "2025-08-30T21:00:00.000Z",
     "sport": "Tenis",
     "league": "Liga Prom 2025/2026",
     "event": "Herrera Reserves - Udelas FC",
@@ -64,7 +134,6 @@
   },
   {
     "date": "2025-08-30",
-    "eventTimestamp": "2025-08-30T21:00:00.000Z",
     "sport": "Tenis",
     "league": "Liga Prom 2025/2026",
     "event": "Herrera Reserves - Udelas FC",
@@ -88,7 +157,6 @@
   },
   {
     "date": "2025-08-30",
-    "eventTimestamp": "2025-08-30T15:30:00.000Z",
     "sport": "Tenis",
     "league": "United States: US Open 2025",
     "event": "Daniel Altmaier vs Alex De Minaur",
@@ -108,7 +176,6 @@
   },
   {
     "date": "2025-08-30",
-    "eventTimestamp": "2025-08-30T15:30:00.000Z",
     "sport": "Tenis",
     "league": "United States: US Open 2025",
     "event": "Daniel Altmaier vsAlex De Minaur",
@@ -132,7 +199,6 @@
   },
   {
     "date": "2025-08-30",
-    "eventTimestamp": "2025-08-30T14:00:00.000Z",
     "sport": "Fotbal",
     "league": "Australia: Northern NSW Reserves League 2025",
     "event": "Newcastle Olympic Reserves vs Cooks Hill United FC Reserves",
@@ -151,7 +217,6 @@
   },
   {
     "date": "2025-08-30",
-    "eventTimestamp": "2025-08-30T14:00:00.000Z",
     "sport": "Fotbal",
     "league": "Australia: Northern NSW Reserves League 2025",
     "event": "Newcastle Olympic Reserves vs Cooks Hill United FC Reserves",
@@ -178,7 +243,6 @@
     "id": "bet_1756582278520_tzk693t",
     "groupId": "grp_init_002",
     "date": "2025-08-30",
-    "eventTimestamp": "2025-08-30T19:45:00.000Z",
     "sport": "Tenis",
     "league": "ATP Finals",
     "event": "Djokovic vs Alcaraz",
