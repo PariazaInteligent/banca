@@ -57,8 +57,10 @@
     "id": "bet_1756652386243_e2tkbzg",
     "groupId": "grp_1756652386243_21z4gop",
     "betType": "VALUE",
-    "status": "PENDING",
-    "processedInDailyHistory": false
+    "status": "LOST",
+    "processedInDailyHistory": false,
+    "profit": -16,
+    "resolvedAt": "2025-08-31T18:58:47.075Z"
   },
   {
     "date": "2025-08-31",
@@ -78,8 +80,10 @@
     "id": "bet_1756652386243_q0mqv74",
     "groupId": "grp_1756652386243_21z4gop",
     "betType": "MIDDLE",
-    "status": "PENDING",
-    "processedInDailyHistory": false
+    "status": "VOID",
+    "processedInDailyHistory": false,
+    "profit": 0,
+    "resolvedAt": "2025-08-31T18:58:53.680Z"
   },
   {
     "date": "2025-08-30",
