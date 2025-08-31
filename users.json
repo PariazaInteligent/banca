@@ -25,14 +25,259 @@
     "avatar": "https://i.ibb.co/zgtmkSY/IMG-4094-1.webp",
     "isActive": true,
     "profileData": {
-      "investedAmount": 800,
-      "totalProfitEarned": 0,
-      "currentGrossProfit": 0,
-      "platformFeePaid": 0,
-      "currentNetProfit": 0,
+      "investedAmount": 900,
+      "totalProfitEarned": 82.02,
+      "currentGrossProfit": -500.2734375,
+      "platformFeePaid": 0.828515625,
+      "currentNetProfit": -501.101953125,
       "joinDate": "2024-07-27T12:00:00.000Z",
       "investmentHistory": [
-        
+        {
+          "date": "2025-06-14T19:04:23.806Z",
+          "amount": -251,
+          "type": "PROFIT_PAYOUT"
+        },
+        {
+          "date": "2025-06-13T15:30:17.280Z",
+          "amount": -130,
+          "type": "PROFIT_PAYOUT"
+        },
+        {
+          "date": "2025-06-13T15:29:23.748Z",
+          "amount": 63,
+          "type": "PROFIT_PAYOUT"
+        },
+        {
+          "date": "2025-06-11T16:31:31.088Z",
+          "amount": -271,
+          "type": "PROFIT_PAYOUT"
+        },
+        {
+          "date": "2025-06-10T16:01:08.865Z",
+          "amount": 103,
+          "type": "PROFIT_PAYOUT"
+        },
+        {
+          "date": "2025-06-09T19:11:13.455Z",
+          "amount": -55,
+          "type": "PROFIT_PAYOUT"
+        },
+        {
+          "date": "2025-06-08T22:08:22.955Z",
+          "amount": 219,
+          "type": "PROFIT_PAYOUT",
+          "sourceDate": "2025-06-08"
+        },
+        {
+          "date": "2025-06-06T23:59:59.999Z",
+          "amount": 45,
+          "type": "PROFIT_PAYOUT"
+        },
+        {
+          "date": "2025-06-06T23:59:59.999Z",
+          "amount": 0,
+          "type": "FEE"
+        },
+        {
+          "date": "2025-06-05T23:59:59.999Z",
+          "amount": 155,
+          "type": "PROFIT_PAYOUT"
+        },
+        {
+          "date": "2025-06-05T23:59:59.999Z",
+          "amount": 0,
+          "type": "FEE"
+        },
+        {
+          "date": "2025-06-04T23:59:59.999Z",
+          "amount": -109,
+          "type": "PROFIT_PAYOUT"
+        },
+        {
+          "date": "2025-06-04T23:59:59.999Z",
+          "amount": 0,
+          "type": "FEE"
+        },
+        {
+          "date": "2025-06-03T23:59:59.999Z",
+          "amount": 216,
+          "type": "PROFIT_PAYOUT"
+        },
+        {
+          "date": "2025-06-03T23:59:59.999Z",
+          "amount": 0,
+          "type": "FEE"
+        },
+        {
+          "date": "2025-06-02T23:59:59.999Z",
+          "amount": -91,
+          "type": "PROFIT_PAYOUT"
+        },
+        {
+          "date": "2025-06-02T23:59:59.999Z",
+          "amount": 0,
+          "type": "FEE"
+        },
+        {
+          "date": "2025-06-01T23:59:59.999Z",
+          "amount": 245,
+          "type": "PROFIT_PAYOUT"
+        },
+        {
+          "date": "2025-06-01T23:59:59.999Z",
+          "amount": 0,
+          "type": "FEE"
+        },
+        {
+          "date": "2025-05-31T23:59:59.999Z",
+          "amount": -80,
+          "type": "PROFIT_PAYOUT"
+        },
+        {
+          "date": "2025-05-31T23:59:59.999Z",
+          "amount": 0,
+          "type": "FEE"
+        },
+        {
+          "date": "2025-05-30T23:59:59.999Z",
+          "amount": -85,
+          "type": "PROFIT_PAYOUT"
+        },
+        {
+          "date": "2025-05-30T23:59:59.999Z",
+          "amount": 0,
+          "type": "FEE"
+        },
+        {
+          "date": "2025-05-29T23:59:59.999Z",
+          "amount": 99,
+          "type": "PROFIT_PAYOUT"
+        },
+        {
+          "date": "2025-05-29T23:59:59.999Z",
+          "amount": 0,
+          "type": "FEE"
+        },
+        {
+          "date": "2025-05-28T23:59:59.999Z",
+          "amount": 226,
+          "type": "PROFIT_PAYOUT"
+        },
+        {
+          "date": "2025-05-28T23:59:59.999Z",
+          "amount": 0,
+          "type": "FEE"
+        },
+        {
+          "date": "2025-05-27T12:00:00.000Z",
+          "amount": 700,
+          "type": "DEPOSIT"
+        },
+        {
+          "date": "2025-05-26T23:59:59.999Z",
+          "amount": -70,
+          "type": "PROFIT_PAYOUT"
+        },
+        {
+          "date": "2025-05-26T23:59:59.999Z",
+          "amount": 0,
+          "type": "FEE"
+        },
+        {
+          "date": "2025-05-24T23:59:59.999Z",
+          "amount": 63,
+          "type": "PROFIT_PAYOUT"
+        },
+        {
+          "date": "2025-05-24T23:59:59.999Z",
+          "amount": 0,
+          "type": "FEE"
+        },
+        {
+          "date": "2025-05-22T23:59:59.999Z",
+          "amount": 30,
+          "type": "PROFIT_PAYOUT"
+        },
+        {
+          "date": "2025-05-22T23:59:59.999Z",
+          "amount": 0,
+          "type": "FEE"
+        },
+        {
+          "date": "2025-05-21T23:59:59.999Z",
+          "amount": 148,
+          "type": "PROFIT_PAYOUT"
+        },
+        {
+          "date": "2025-05-21T23:59:59.999Z",
+          "amount": 0,
+          "type": "FEE"
+        },
+        {
+          "date": "2025-05-20T23:59:59.999Z",
+          "amount": 20,
+          "type": "PROFIT_PAYOUT"
+        },
+        {
+          "date": "2025-05-20T23:59:59.999Z",
+          "amount": 0,
+          "type": "FEE"
+        },
+        {
+          "date": "2025-05-19T23:59:59.999Z",
+          "amount": 82,
+          "type": "PROFIT_PAYOUT"
+        },
+        {
+          "date": "2025-05-19T23:59:59.999Z",
+          "amount": 0,
+          "type": "FEE"
+        },
+        {
+          "date": "2025-05-18T23:59:59.999Z",
+          "amount": 82,
+          "type": "PROFIT_PAYOUT"
+        },
+        {
+          "date": "2025-05-18T23:59:59.999Z",
+          "amount": 0,
+          "type": "FEE"
+        },
+        {
+          "date": "2025-06-15T12:42:07.877Z",
+          "amount": -105,
+          "type": "PROFIT_PAYOUT"
+        },
+        {
+          "date": "2025-06-16T16:31:39.904Z",
+          "amount": 58,
+          "type": "PROFIT_PAYOUT"
+        },
+        {
+          "date": "2025-06-17T15:09:50.655Z",
+          "amount": -68,
+          "type": "PROFIT_PAYOUT"
+        },
+        {
+          "date": "2025-06-18T18:13:14.976Z",
+          "amount": -113.75,
+          "type": "PROFIT_PAYOUT"
+        },
+        {
+          "date": "2025-06-19T16:08:42.699Z",
+          "amount": -32.375,
+          "type": "PROFIT_PAYOUT"
+        },
+        {
+          "date": "2025-08-31T13:47:24.860Z",
+          "amount": 82.023046875,
+          "type": "PROFIT_PAYOUT"
+        },
+        {
+          "date": "2025-08-31T13:47:24.860Z",
+          "amount": -0.828515625,
+          "type": "FEE"
+        }
       ],
       "badges": [
         {
@@ -117,7 +362,7 @@
     "isGlobalAdmin": false,
     "profileData": {
       "investedAmount": 100,
-      "totalProfitEarned": -20.875,
+      "totalProfitEarned": -9.157421875,
       "joinDate": "2025-06-17T18:27:42.661Z",
       "investmentHistory": [
         {
@@ -125,12 +370,31 @@
           "amount": 100,
           "type": "DEPOSIT"
         },
-        
+        {
+          "date": "2025-06-18T18:13:14.976Z",
+          "amount": -16.25,
+          "type": "PROFIT_PAYOUT"
+        },
+        {
+          "date": "2025-06-19T16:08:42.699Z",
+          "amount": -4.625,
+          "type": "PROFIT_PAYOUT"
+        },
+        {
+          "date": "2025-08-31T13:47:24.860Z",
+          "amount": 11.717578125,
+          "type": "PROFIT_PAYOUT"
+        },
+        {
+          "date": "2025-08-31T13:47:24.860Z",
+          "amount": -0.118359375,
+          "type": "FEE"
+        }
       ],
       "badges": [],
-      "currentGrossProfit": 0,
-      "platformFeePaid": 0,
-      "currentNetProfit": 0
+      "currentGrossProfit": -9.0390625,
+      "platformFeePaid": 0.118359375,
+      "currentNetProfit": -9.157421875
     },
     "referredByCode": "PARIA__1750"
   }
