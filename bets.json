@@ -30,16 +30,16 @@
     "odds": 3.6,
     "stake": 22.08,
     "middleDetails": {
-      "p1": 4.600000000000001,
-      "p2": 4.600000000000001,
-      "pb": 77.28
+      "p1": 4.600000000000005,
+      "p2": 11.407999999999994,
+      "pb": 84.088
     },
     "id": "bet_1756652640608_qyc7vu4",
     "groupId": "grp_1756652640608_qwfgraz",
     "betType": "MIDDLE",
     "status": "WON",
     "processedInDailyHistory": false,
-    "eventTimestamp": "2025-08-31T17:00",
+    "eventTimestamp": "2025-08-31T15:00",
     "notes": "",
     "profit": 57.407999999999994,
     "resolvedAt": "2025-08-31T17:00:17.469Z"
