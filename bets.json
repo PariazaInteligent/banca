@@ -1,3 +1,4 @@
+
 [
   {
     "date": "2025-08-30",
@@ -13,7 +14,7 @@
     "groupId": "grp_1756589567639_kimyhry",
     "betType": "VALUE",
     "status": "VOID",
-    "processedInDailyHistory": false,
+    "processedInDailyHistory": true,
     "profit": 0,
     "resolvedAt": "2025-08-31T13:47:06.294Z"
   },
@@ -36,7 +37,7 @@
     "groupId": "grp_1756589567639_kimyhry",
     "betType": "MIDDLE",
     "status": "VOID",
-    "processedInDailyHistory": false,
+    "processedInDailyHistory": true,
     "profit": 0,
     "resolvedAt": "2025-08-31T13:47:09.301Z"
   },
@@ -54,7 +55,7 @@
     "groupId": "grp_1756587110523_v0dyko8",
     "betType": "VALUE",
     "status": "VOID",
-    "processedInDailyHistory": false,
+    "processedInDailyHistory": true,
     "profit": 0,
     "resolvedAt": "2025-08-31T04:13:37.904Z"
   },
@@ -77,7 +78,7 @@
     "groupId": "grp_1756587110523_v0dyko8",
     "betType": "MIDDLE",
     "status": "VOID",
-    "processedInDailyHistory": false,
+    "processedInDailyHistory": true,
     "profit": 0,
     "resolvedAt": "2025-08-31T04:07:35.938Z"
   },
@@ -95,7 +96,7 @@
     "groupId": "grp_1756583449119_yl18iuw",
     "betType": "VALUE",
     "status": "LOST",
-    "processedInDailyHistory": false,
+    "processedInDailyHistory": true,
     "notes": "",
     "profit": -8,
     "resolvedAt": "2025-08-31T04:10:38.026Z"
@@ -119,8 +120,7 @@
     "groupId": "grp_1756583449119_yl18iuw",
     "betType": "MIDDLE",
     "status": "VOID",
-    "processedInDailyHistory": false,
-    "notes": "",
+    "processedInDailyHistory": true,
     "profit": 0,
     "resolvedAt": "2025-08-31T04:11:50.255Z"
   },
@@ -138,7 +138,7 @@
     "groupId": "grp_1756583140224_5x1at5l",
     "betType": "VALUE",
     "status": "WON",
-    "processedInDailyHistory": false,
+    "processedInDailyHistory": true,
     "profit": 42.400000000000006,
     "resolvedAt": "2025-08-31T04:09:51.448Z"
   },
@@ -161,7 +161,7 @@
     "groupId": "grp_1756583140224_5x1at5l",
     "betType": "MIDDLE",
     "status": "WON",
-    "processedInDailyHistory": false,
+    "processedInDailyHistory": true,
     "profit": 60.2875,
     "resolvedAt": "2025-08-31T04:09:57.114Z",
     "notes": ""
@@ -179,6 +179,7 @@
     "stake": 50,
     "betType": "MIDDLE",
     "status": "PENDING",
-    "createdByAdminId": "admin_initial_001"
+    "createdByAdminId": "admin_initial_001",
+    "processedInDailyHistory": false
   }
 ]
