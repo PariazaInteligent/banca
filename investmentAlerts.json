@@ -1,13 +1,2 @@
-[
-  {
-    "userId": "user_001",
-    "type": "PROFIT_GAIN_PERCENT",
-    "thresholdValue": 10,
-    "isActive": true,
-    "notes": "test",
-    "referenceInvestedAmount": 700,
-    "id": "alert_1749932002155_ue1iv2m",
-    "createdAt": "2025-06-14T20:13:22.155Z",
-    "lastTriggeredAt": "2025-06-18T18:13:14.976Z"
-  }
-]
+
+[]
