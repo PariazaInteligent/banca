@@ -1,5 +1,44 @@
 [
   {
+    "date": "2025-09-01",
+    "eventTimestamp": "2025-09-01T02:00",
+    "sport": "Tenis",
+    "league": "United States: US Open Women 2025",
+    "event": "Novak Djokovic - Jan Lennard Struff",
+    "createdByAdminId": "admin_global_001",
+    "market": "Game hcp -6.5 (Novak Djokovic) - Whole Match",
+    "selection": "Game hcp -6.5 (Novak Djokovic) - Whole Match",
+    "odds": 2.04,
+    "stake": 31,
+    "id": "bet_1756679164461_heksc7r",
+    "groupId": "grp_1756679164460_4n053rz",
+    "betType": "VALUE",
+    "status": "PENDING",
+    "processedInDailyHistory": false
+  },
+  {
+    "date": "2025-09-01",
+    "eventTimestamp": "2025-09-01T02:00",
+    "sport": "Tenis",
+    "league": "United States: US Open Women 2025",
+    "event": "Novak Djokovic - Jan Lennard Struff",
+    "createdByAdminId": "admin_global_001",
+    "market": "Game hcp -6.5 (Novak Djokovic) - Whole Match",
+    "selection": "Game hcp +7.5 (Jan Lennard Struff) - Whole Match",
+    "odds": 2.17,
+    "stake": 29.14,
+    "middleDetails": {
+      "p1": 3.1000000000000085,
+      "p2": 3.1000000000000014,
+      "pb": 66.34
+    },
+    "id": "bet_1756679164461_4canbe9",
+    "groupId": "grp_1756679164460_4n053rz",
+    "betType": "MIDDLE",
+    "status": "PENDING",
+    "processedInDailyHistory": false
+  },
+  {
     "date": "2025-08-31",
     "eventTimestamp": "2025-09-01T01:30",
     "sport": "Fotbal",
