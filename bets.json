@@ -1,6 +1,45 @@
 [
   {
     "date": "2025-08-31",
+    "eventTimestamp": "2025-08-31T21:30",
+    "sport": "Fotbal",
+    "league": "Primeira Liga 2025/2026",
+    "event": "Santa Clara - Estrela Amadora",
+    "createdByAdminId": "admin_global_001",
+    "market": "Sub 1.5 goluri",
+    "selection": "Sub 1.5 goluri",
+    "odds": 2.185,
+    "stake": 10,
+    "id": "bet_1756668062106_nctpq8r",
+    "groupId": "grp_1756668062106_x8jasvc",
+    "betType": "VALUE",
+    "status": "PENDING",
+    "processedInDailyHistory": false
+  },
+  {
+    "date": "2025-08-31",
+    "eventTimestamp": "2025-08-31T21:30",
+    "sport": "Fotbal",
+    "league": "Primeira Liga 2025/2026",
+    "event": "Santa Clara - Estrela Amadora",
+    "createdByAdminId": "admin_global_001",
+    "market": "Sub 1.5 goluri",
+    "selection": "Peste 0.5 goluri",
+    "odds": 2.014,
+    "stake": 10.85,
+    "middleDetails": {
+      "p1": 1,
+      "p2": 0.9999999999999964,
+      "pb": 22.849999999999998
+    },
+    "id": "bet_1756668062106_133wfcz",
+    "groupId": "grp_1756668062106_x8jasvc",
+    "betType": "MIDDLE",
+    "status": "PENDING",
+    "processedInDailyHistory": false
+  },
+  {
+    "date": "2025-08-31",
     "sport": "Fotbal",
     "league": "3.SNL 2025/2026",
     "event": "NK Smartno - NK Carda ",
