@@ -1,6 +1,45 @@
 [
   {
     "date": "2025-08-31",
+    "eventTimestamp": "2025-09-01T01:30",
+    "sport": "Fotbal",
+    "league": "Serie A 2025",
+    "event": "SC Internacional RS - Fortaleza CE",
+    "createdByAdminId": "admin_global_001",
+    "market": "Asian hcp +1 (Fortaleza CE)",
+    "selection": "Asian hcp +1 (Fortaleza CE)",
+    "odds": 1.69,
+    "stake": 7,
+    "id": "bet_1756677189826_z3sn4ke",
+    "groupId": "grp_1756677189826_ir3e0bl",
+    "betType": "VALUE",
+    "status": "PENDING",
+    "processedInDailyHistory": false
+  },
+  {
+    "date": "2025-08-31",
+    "eventTimestamp": "2025-09-01T01:30",
+    "sport": "Fotbal",
+    "league": "Serie A 2025",
+    "event": "SC Internacional RS - Fortaleza CE",
+    "createdByAdminId": "admin_global_001",
+    "market": "Asian hcp +1 (Fortaleza CE)",
+    "selection": "Asian hcp -1 (SC Internacional RS)",
+    "odds": 2.864,
+    "stake": 4.13,
+    "middleDetails": {
+      "p1": 0.7000000000000011,
+      "p2": 0.6999999999999993,
+      "pb": 12.53
+    },
+    "id": "bet_1756677189826_9dwoz89",
+    "groupId": "grp_1756677189826_ir3e0bl",
+    "betType": "MIDDLE",
+    "status": "PENDING",
+    "processedInDailyHistory": false
+  },
+  {
+    "date": "2025-08-31",
     "eventTimestamp": "2025-08-31T21:30",
     "sport": "Fotbal",
     "league": "Primeira Liga 2025/2026",
