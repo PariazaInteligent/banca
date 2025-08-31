@@ -53,7 +53,7 @@
     "groupId": "grp_1756668062106_x8jasvc",
     "betType": "VALUE",
     "status": "WON",
-    "processedInDailyHistory": false,
+    "processedInDailyHistory": true,
     "profit": 11.850000000000001,
     "resolvedAt": "2025-08-31T21:36:38.848Z",
     "notes": "Scor: 0-0."
@@ -78,7 +78,7 @@
     "groupId": "grp_1756668062106_x8jasvc",
     "betType": "MIDDLE",
     "status": "LOST",
-    "processedInDailyHistory": false,
+    "processedInDailyHistory": true,
     "profit": -10.85,
     "resolvedAt": "2025-08-31T21:36:53.057Z",
     "notes": "Scor: 0-0."
@@ -97,7 +97,7 @@
     "groupId": "grp_1756652640608_qwfgraz",
     "betType": "VALUE",
     "status": "VOID",
-    "processedInDailyHistory": false,
+    "processedInDailyHistory": true,
     "eventTimestamp": "2025-08-31T17:00",
     "notes": "Scor: 2 - 1.",
     "profit": 0,
@@ -122,7 +122,7 @@
     "groupId": "grp_1756652640608_qwfgraz",
     "betType": "MIDDLE",
     "status": "WON",
-    "processedInDailyHistory": false,
+    "processedInDailyHistory": true,
     "eventTimestamp": "2025-08-31T15:00",
     "notes": "",
     "profit": 57.407999999999994,
@@ -142,7 +142,7 @@
     "groupId": "grp_1756652386243_21z4gop",
     "betType": "VALUE",
     "status": "LOST",
-    "processedInDailyHistory": false,
+    "processedInDailyHistory": true,
     "profit": -16,
     "resolvedAt": "2025-08-31T18:58:47.075Z"
   },
@@ -165,7 +165,7 @@
     "groupId": "grp_1756652386243_21z4gop",
     "betType": "MIDDLE",
     "status": "VOID",
-    "processedInDailyHistory": false,
+    "processedInDailyHistory": true,
     "profit": 0,
     "resolvedAt": "2025-08-31T18:58:53.680Z"
   },
