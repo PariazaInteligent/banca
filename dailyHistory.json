@@ -1,13 +1,14 @@
+
 [
   {
     "day": 1,
     "date": "2025-08-30",
     "dailyGrossProfit": 94.6875,
-    "turnover": 203.54999999999998,
+    "turnover": 203.55,
     "numBets": 8,
-    "totalBankValueStart": 993.74062500000001,
-    "totalBankValueEnd": 3204.6875,
-    "distributedNetProfit": 93.74062500000001,
+    "totalBankValueStart": 900,
+    "totalBankValueEnd": 994.6875,
+    "distributedNetProfit": 93.740625,
     "collectedFees": 0.946875,
     "notes": "Zi generată automat din pariuri rezolvate."
   }
