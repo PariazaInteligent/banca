@@ -13,7 +13,9 @@
     "groupId": "grp_1756652640608_qwfgraz",
     "betType": "VALUE",
     "status": "PENDING",
-    "processedInDailyHistory": false
+    "processedInDailyHistory": false,
+    "eventTimestamp": "2025-08-31T17:00",
+    "notes": ""
   },
   {
     "date": "2025-08-31",
