@@ -383,21 +383,5 @@
       "profit": 60.2875,
       "resolvedAt": "2025-08-31T04:09:57.114Z",
       "notes": ""
-   },
-   {
-      "id": "bet_1756582278520_tzk693t",
-      "groupId": "grp_init_002",
-      "date": "2025-08-30",
-      "sport": "Tenis",
-      "league": "ATP Finals",
-      "event": "Djokovic vs Alcaraz",
-      "market": "Total Game-uri",
-      "selection": "Peste 22.5",
-      "odds": 1.85,
-      "stake": 50,
-      "betType": "MIDDLE",
-      "status": "PENDING",
-      "createdByAdminId": "admin_initial_001",
-      "processedInDailyHistory": false
    }
 ]
