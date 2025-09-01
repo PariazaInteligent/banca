@@ -1,6 +1,45 @@
 [
   {
     "date": "2025-09-01",
+    "eventTimestamp": "2025-09-01T20:15",
+    "sport": "Baschet",
+    "league": "EuroBasket 2025",
+    "event": "Serbia - Czech Republic",
+    "createdByAdminId": "admin_global_001",
+    "market": "Asian hcp +25.5 (Czech Republic) ",
+    "selection": "Asian hcp +25.5 (Czech Republic) ",
+    "odds": 2.38,
+    "stake": 71,
+    "id": "bet_1756750856925_exfm3cv",
+    "groupId": "grp_1756750856924_nzbv11v",
+    "betType": "VALUE",
+    "status": "PENDING",
+    "processedInDailyHistory": false
+  },
+  {
+    "date": "2025-09-01",
+    "eventTimestamp": "2025-09-01T20:15",
+    "sport": "Baschet",
+    "league": "EuroBasket 2025",
+    "event": "Serbia - Czech Republic",
+    "createdByAdminId": "admin_global_001",
+    "market": "Asian hcp +25.5 (Czech Republic) ",
+    "selection": "Asian hcp -24.5 (Serbia) ",
+    "odds": 1.859,
+    "stake": 90.88,
+    "middleDetails": {
+      "p1": 7.099999999999994,
+      "p2": 7.099999999999994,
+      "pb": 176.07999999999998
+    },
+    "id": "bet_1756750856925_3vagdj8",
+    "groupId": "grp_1756750856924_nzbv11v",
+    "betType": "MIDDLE",
+    "status": "PENDING",
+    "processedInDailyHistory": false
+  },
+  {
+    "date": "2025-09-01",
     "eventTimestamp": "2025-09-01T20:30",
     "sport": "Tenis",
     "league": "United States: US Open 2025",
