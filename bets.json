@@ -40,7 +40,7 @@
   },
   {
     "date": "2025-09-01",
-    "eventTimestamp": "2025-09-01T20:30",
+    "eventTimestamp": "2025-09-01T18:30",
     "sport": "Tenis",
     "league": "United States: US Open 2025",
     "event": "Lorenzo Musetti - Jaume Antoni Munar Clar",
@@ -52,8 +52,11 @@
     "id": "bet_1756750465134_0w1vefy",
     "groupId": "grp_1756750465134_s9cj0u8",
     "betType": "VALUE",
-    "status": "PENDING",
-    "processedInDailyHistory": false
+    "status": "LOST",
+    "processedInDailyHistory": false,
+    "profit": -25,
+    "resolvedAt": "2025-09-01T19:17:01.947Z",
+    "notes": "Scor: 6-3 - 1st. Scor: 6-3 - 1st"
   },
   {
     "date": "2025-09-01",
@@ -68,14 +71,16 @@
     "stake": 63,
     "middleDetails": {
       "p1": 2.5,
-      "p2": 2.5,
-      "pb": 93
+      "p2": 2.5310000000000024,
+      "pb": 93.031
     },
     "id": "bet_1756750465134_ylrj7ph",
     "groupId": "grp_1756750465134_s9cj0u8",
     "betType": "MIDDLE",
-    "status": "PENDING",
-    "processedInDailyHistory": false
+    "status": "VOID",
+    "processedInDailyHistory": false,
+    "profit": 0,
+    "resolvedAt": "2025-09-01T19:17:25.609Z"
   },
   {
     "date": "2025-09-01",
