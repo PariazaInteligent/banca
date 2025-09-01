@@ -1,6 +1,45 @@
 [
   {
     "date": "2025-09-01",
+    "eventTimestamp": "2025-09-01T22:10",
+    "sport": "Baseball",
+    "league": "United States: MLB 2025",
+    "event": "Colorado Rockies - San Francisco Giants",
+    "createdByAdminId": "admin_global_001",
+    "market": "Asian hcp -2.5 (San Francisco Giants)",
+    "selection": "Asian hcp -2.5 (San Francisco Giants)",
+    "odds": 2.34,
+    "stake": 23,
+    "id": "bet_1756749965813_xxqkhv4",
+    "groupId": "grp_1756749965813_nkk4cil",
+    "betType": "VALUE",
+    "status": "PENDING",
+    "processedInDailyHistory": false
+  },
+  {
+    "date": "2025-09-01",
+    "eventTimestamp": "2025-09-01T22:10",
+    "sport": "Baseball",
+    "league": "United States: MLB 2025",
+    "event": "Colorado Rockies - San Francisco Giants",
+    "createdByAdminId": "admin_global_001",
+    "market": "Asian hcp -2.5 (San Francisco Giants)",
+    "selection": "Asian hcp +3 (Colorado Rockies)",
+    "odds": 1.887,
+    "stake": 28.52,
+    "middleDetails": {
+      "p1": 2.3000000000000007,
+      "p2": 2.3000000000000007,
+      "pb": 56.12
+    },
+    "id": "bet_1756749965813_8z9bzz4",
+    "groupId": "grp_1756749965813_nkk4cil",
+    "betType": "MIDDLE",
+    "status": "PENDING",
+    "processedInDailyHistory": false
+  },
+  {
+    "date": "2025-09-01",
     "eventTimestamp": "2025-09-02T01:35",
     "sport": "Baseball",
     "league": "MLB 2025",
