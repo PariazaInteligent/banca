@@ -1,5 +1,44 @@
 [
   {
+    "date": "2025-09-02",
+    "eventTimestamp": "2025-09-02T20:45",
+    "sport": "Fotbal",
+    "league": "FA Cup 2025/2026",
+    "event": "Prescot Cables - Hyde United FC",
+    "createdByAdminId": "admin_global_001",
+    "market": "Under 2.5 goluri",
+    "selection": "Under 2.5 goluri",
+    "odds": 2.24,
+    "stake": 18,
+    "id": "bet_1756831390767_yz0c6kf",
+    "groupId": "grp_1756831390767_fmotj8o",
+    "betType": "VALUE",
+    "status": "PENDING",
+    "processedInDailyHistory": false
+  },
+  {
+    "date": "2025-09-02",
+    "eventTimestamp": "2025-09-02T20:45",
+    "sport": "Fotbal",
+    "league": "FA Cup 2025/2026",
+    "event": "Prescot Cables - Hyde United FC",
+    "createdByAdminId": "admin_global_001",
+    "market": "Under 2.5 goluri",
+    "selection": "Peste 1.5 goluri",
+    "odds": 1.965,
+    "stake": 20.52,
+    "middleDetails": {
+      "p1": 1.8000000000000007,
+      "p2": 1.8000000000000007,
+      "pb": 42.120000000000005
+    },
+    "id": "bet_1756831390767_j1dr97i",
+    "groupId": "grp_1756831390767_fmotj8o",
+    "betType": "MIDDLE",
+    "status": "PENDING",
+    "processedInDailyHistory": false
+  },
+  {
     "date": "2025-09-01",
     "eventTimestamp": "2025-09-01T20:15",
     "sport": "Baschet",
