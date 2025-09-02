@@ -96,25 +96,26 @@
   },
   {
     "date": "2025-09-02",
-    "eventTimestamp": "2025-09-02T19:00",
+    "eventTimestamp": "2025-09-02T17:00",
     "sport": "Tenis",
     "league": "US Open 2025",
     "event": "Jiri Lehecka - Carlos Alcaraz ",
     "createdByAdminId": "admin_global_001",
     "market": "Sub 30.5 game-uri",
     "selection": "Peste 29.5 game-uri",
-    "odds": 2.028,
+    "odds": 2.056,
     "stake": 54.57,
     "middleDetails": {
-      "p1": 5.100000000000001,
-      "p2": 5.099999999999987,
-      "pb": 115.76999999999998
+      "p1": 5.099999999999994,
+      "p2": 6.625920000000001,
+      "pb": 117.29592
     },
     "id": "bet_1756831657035_f8hhsf1",
     "groupId": "grp_1756831657035_4l6pdzb",
     "betType": "MIDDLE",
     "status": "PENDING",
-    "processedInDailyHistory": false
+    "processedInDailyHistory": false,
+    "notes": ""
   },
   {
     "date": "2025-09-02",
