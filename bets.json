@@ -14,7 +14,7 @@
     "groupId": "grp_1756750856924_nzbv11v",
     "betType": "VALUE",
     "status": "WON",
-    "processedInDailyHistory": false,
+    "processedInDailyHistory": true,
     "profit": 97.97999999999999,
     "resolvedAt": "2025-09-01T20:08:47.890Z",
     "notes": "Scor: 82-60."
@@ -39,7 +39,7 @@
     "groupId": "grp_1756750856924_nzbv11v",
     "betType": "MIDDLE",
     "status": "LOST",
-    "processedInDailyHistory": false,
+    "processedInDailyHistory": true,
     "profit": -90.88,
     "resolvedAt": "2025-09-01T20:09:13.672Z"
   },
@@ -58,7 +58,7 @@
     "groupId": "grp_1756750465134_s9cj0u8",
     "betType": "VALUE",
     "status": "LOST",
-    "processedInDailyHistory": false,
+    "processedInDailyHistory": true,
     "profit": -25,
     "resolvedAt": "2025-09-01T19:17:01.947Z",
     "notes": "Scor: 6-3 - 1st. Scor: 6-3 - 1st"
@@ -83,7 +83,7 @@
     "groupId": "grp_1756750465134_s9cj0u8",
     "betType": "MIDDLE",
     "status": "VOID",
-    "processedInDailyHistory": false,
+    "processedInDailyHistory": true,
     "profit": 0,
     "resolvedAt": "2025-09-01T19:17:25.609Z"
   },
@@ -101,8 +101,11 @@
     "id": "bet_1756749965813_xxqkhv4",
     "groupId": "grp_1756749965813_nkk4cil",
     "betType": "VALUE",
-    "status": "PENDING",
-    "processedInDailyHistory": false
+    "status": "WON",
+    "processedInDailyHistory": true,
+    "profit": 30.819999999999997,
+    "resolvedAt": "2025-09-02T16:32:57.513Z",
+    "notes": "Scor: 2-8."
   },
   {
     "date": "2025-09-01",
@@ -123,8 +126,10 @@
     "id": "bet_1756749965813_8z9bzz4",
     "groupId": "grp_1756749965813_nkk4cil",
     "betType": "MIDDLE",
-    "status": "PENDING",
-    "processedInDailyHistory": false
+    "status": "VOID",
+    "processedInDailyHistory": true,
+    "profit": 0,
+    "resolvedAt": "2025-09-02T16:33:41.898Z"
   },
   {
     "date": "2025-09-01",
@@ -140,8 +145,11 @@
     "id": "bet_1756749163494_lxxb01f",
     "groupId": "grp_1756749163494_cfdg2nf",
     "betType": "VALUE",
-    "status": "PENDING",
-    "processedInDailyHistory": false
+    "status": "WON",
+    "processedInDailyHistory": true,
+    "profit": 32.99999999999999,
+    "resolvedAt": "2025-09-02T16:33:58.456Z",
+    "notes": "Scor: 10-2."
   },
   {
     "date": "2025-09-01",
@@ -162,9 +170,11 @@
     "id": "bet_1756749163494_a0bdl4m",
     "groupId": "grp_1756749163494_cfdg2nf",
     "betType": "MIDDLE",
-    "status": "PENDING",
-    "processedInDailyHistory": false,
-    "notes": ""
+    "status": "VOID",
+    "processedInDailyHistory": true,
+    "notes": "",
+    "profit": 0,
+    "resolvedAt": "2025-09-02T16:34:20.454Z"
   },
   {
     "date": "2025-09-01",
@@ -181,7 +191,7 @@
     "groupId": "grp_1756679164460_4n053rz",
     "betType": "VALUE",
     "status": "WON",
-    "processedInDailyHistory": false,
+    "processedInDailyHistory": true,
     "profit": 32.24,
     "resolvedAt": "2025-09-01T14:33:52.074Z",
     "notes": "Scor: 18-8 Game-uri."
@@ -206,7 +216,7 @@
     "groupId": "grp_1756679164460_4n053rz",
     "betType": "MIDDLE",
     "status": "VOID",
-    "processedInDailyHistory": false,
+    "processedInDailyHistory": true,
     "profit": 0,
     "resolvedAt": "2025-09-01T14:34:36.795Z"
   },
