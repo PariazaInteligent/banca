@@ -57,8 +57,11 @@
     "id": "bet_1756832501429_wqgshjq",
     "groupId": "grp_1756832501428_dblnxkb",
     "betType": "VALUE",
-    "status": "PENDING",
-    "processedInDailyHistory": false
+    "status": "WON",
+    "processedInDailyHistory": false,
+    "profit": 53.04,
+    "resolvedAt": "2025-09-02T19:56:26.142Z",
+    "notes": "Scor: 2-0."
   },
   {
     "date": "2025-09-02",
@@ -79,9 +82,11 @@
     "id": "bet_1756832501429_8zrfrco",
     "groupId": "grp_1756832501428_dblnxkb",
     "betType": "MIDDLE",
-    "status": "PENDING",
+    "status": "WON",
     "processedInDailyHistory": false,
-    "notes": ""
+    "notes": "",
+    "profit": 88.0256,
+    "resolvedAt": "2025-09-02T19:56:50.171Z"
   },
   {
     "date": "2025-09-02",
