@@ -57,25 +57,26 @@
   },
   {
     "date": "2025-09-02",
-    "eventTimestamp": "2025-09-02T20:00",
+    "eventTimestamp": "2025-09-02T18:00",
     "sport": "Fotbal",
     "league": "England: EFL Trophy 2025/2026",
     "event": "Plymouth Argyle FC - Cheltenham Town - ",
     "createdByAdminId": "admin_global_001",
     "market": "Asian hcp -1.5 (Plymouth Argyle FC)",
     "selection": "Asian hcp +2.5 (Cheltenham Town)",
-    "odds": 2.196,
+    "odds": 2.84,
     "stake": 47.84,
     "middleDetails": {
-      "p1": 5.200000000000017,
-      "p2": 5.199999999999996,
-      "pb": 110.24
+      "p1": 5.199999999999996,
+      "p2": 36.0256,
+      "pb": 141.0656
     },
     "id": "bet_1756832501429_8zrfrco",
     "groupId": "grp_1756832501428_dblnxkb",
     "betType": "MIDDLE",
     "status": "PENDING",
-    "processedInDailyHistory": false
+    "processedInDailyHistory": false,
+    "notes": ""
   },
   {
     "date": "2025-09-02",
