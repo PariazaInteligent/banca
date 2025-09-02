@@ -1,6 +1,45 @@
 [
   {
     "date": "2025-09-02",
+    "eventTimestamp": "2025-09-02T19:00",
+    "sport": "Tenis",
+    "league": "US Open 2025",
+    "event": "Jiri Lehecka - Carlos Alcaraz ",
+    "createdByAdminId": "admin_global_001",
+    "market": "Sub 30.5 game-uri",
+    "selection": "Sub 30.5 game-uri",
+    "odds": 2.17,
+    "stake": 51,
+    "id": "bet_1756831657035_21ybcbg",
+    "groupId": "grp_1756831657035_4l6pdzb",
+    "betType": "VALUE",
+    "status": "PENDING",
+    "processedInDailyHistory": false
+  },
+  {
+    "date": "2025-09-02",
+    "eventTimestamp": "2025-09-02T19:00",
+    "sport": "Tenis",
+    "league": "US Open 2025",
+    "event": "Jiri Lehecka - Carlos Alcaraz ",
+    "createdByAdminId": "admin_global_001",
+    "market": "Sub 30.5 game-uri",
+    "selection": "Peste 29.5 game-uri",
+    "odds": 2.028,
+    "stake": 54.57,
+    "middleDetails": {
+      "p1": 5.100000000000001,
+      "p2": 5.099999999999987,
+      "pb": 115.76999999999998
+    },
+    "id": "bet_1756831657035_f8hhsf1",
+    "groupId": "grp_1756831657035_4l6pdzb",
+    "betType": "MIDDLE",
+    "status": "PENDING",
+    "processedInDailyHistory": false
+  },
+  {
+    "date": "2025-09-02",
     "eventTimestamp": "2025-09-02T20:45",
     "sport": "Fotbal",
     "league": "FA Cup 2025/2026",
