@@ -1,6 +1,45 @@
 [
   {
     "date": "2025-09-02",
+    "eventTimestamp": "2025-09-02T19:10",
+    "sport": "Tenis",
+    "league": "Mexico: WTA 125K Guadalajara 2025",
+    "event": "Lucrezia Stefanini - Emiliana Arango",
+    "createdByAdminId": "admin_global_001",
+    "market": "Handicap asiatic +2.5 (Lucrezia Stefanini)",
+    "selection": "Handicap asiatic +2.5 (Lucrezia Stefanini)",
+    "odds": 1.755,
+    "stake": 20,
+    "id": "bet_1756833112927_3vt2h2j",
+    "groupId": "grp_1756833112927_vt0ez6w",
+    "betType": "VALUE",
+    "status": "PENDING",
+    "processedInDailyHistory": false
+  },
+  {
+    "date": "2025-09-02",
+    "eventTimestamp": "2025-09-02T19:10",
+    "sport": "Tenis",
+    "league": "Mexico: WTA 125K Guadalajara 2025",
+    "event": "Lucrezia Stefanini - Emiliana Arango",
+    "createdByAdminId": "admin_global_001",
+    "market": "Handicap asiatic +2.5 (Lucrezia Stefanini)",
+    "selection": "Handicap asiatic -1.5 (Emiliana Arango)",
+    "odds": 2.679,
+    "stake": 13.1,
+    "middleDetails": {
+      "p1": 2.0000000000000018,
+      "p2": 2,
+      "pb": 37.099999999999994
+    },
+    "id": "bet_1756833112927_srqq7ri",
+    "groupId": "grp_1756833112927_vt0ez6w",
+    "betType": "MIDDLE",
+    "status": "PENDING",
+    "processedInDailyHistory": false
+  },
+  {
+    "date": "2025-09-02",
     "eventTimestamp": "2025-09-02T20:00",
     "sport": "Fotbal",
     "league": "England: EFL Trophy 2025/2026",
