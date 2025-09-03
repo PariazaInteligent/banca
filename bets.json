@@ -52,8 +52,11 @@
     "id": "bet_1756915124505_du20aia",
     "groupId": "grp_1756915124505_rg2b0b1",
     "betType": "VALUE",
-    "status": "PENDING",
-    "processedInDailyHistory": false
+    "status": "LOST",
+    "processedInDailyHistory": false,
+    "profit": -126,
+    "resolvedAt": "2025-09-03T18:18:05.708Z",
+    "notes": "Scor: 1-3."
   },
   {
     "date": "2025-09-03",
@@ -74,8 +77,10 @@
     "id": "bet_1756915124505_dk5lp9k",
     "groupId": "grp_1756915124505_rg2b0b1",
     "betType": "MIDDLE",
-    "status": "PENDING",
-    "processedInDailyHistory": false
+    "status": "VOID",
+    "processedInDailyHistory": false,
+    "profit": 0,
+    "resolvedAt": "2025-09-03T18:27:17.786Z"
   },
   {
     "date": "2025-09-03",
