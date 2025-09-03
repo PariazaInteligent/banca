@@ -1,5 +1,44 @@
 [
   {
+    "date": "2025-09-03",
+    "eventTimestamp": "2025-09-03T18:00",
+    "sport": "Fotbal",
+    "league": "Finland: Kakkonen 2025",
+    "event": "OsPa - TP 47 Tornio",
+    "createdByAdminId": "admin_global_001",
+    "market": "Asian hcp -1.5 (OsPa)",
+    "selection": "Asian hcp -1.5 (OsPa)",
+    "odds": 1.54,
+    "stake": 140,
+    "id": "bet_1756912269663_y9hlgwh",
+    "groupId": "grp_1756912269663_9pcjyft",
+    "betType": "VALUE",
+    "status": "PENDING",
+    "processedInDailyHistory": false
+  },
+  {
+    "date": "2025-09-03",
+    "eventTimestamp": "2025-09-03T18:00",
+    "sport": "Fotbal",
+    "league": "Finland: Kakkonen 2025",
+    "event": "OsPa - TP 47 Tornio",
+    "createdByAdminId": "admin_global_001",
+    "market": "Asian hcp -1.5 (OsPa)",
+    "selection": "Asian hcp +2.5 (TP 47 Tornio)",
+    "odds": 3.5,
+    "stake": 61.6,
+    "middleDetails": {
+      "p1": 14,
+      "p2": 14,
+      "pb": 229.60000000000002
+    },
+    "id": "bet_1756912269663_g00vqwb",
+    "groupId": "grp_1756912269663_9pcjyft",
+    "betType": "MIDDLE",
+    "status": "PENDING",
+    "processedInDailyHistory": false
+  },
+  {
     "date": "2025-09-02",
     "eventTimestamp": "2025-09-02T19:10",
     "sport": "Tenis",
