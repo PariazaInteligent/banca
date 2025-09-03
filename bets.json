@@ -1,6 +1,45 @@
 [
   {
     "date": "2025-09-03",
+    "eventTimestamp": "2025-09-03T19:10",
+    "sport": "Baseball",
+    "league": "MLB 2025",
+    "event": "Detroit Tigers - New York Mets ",
+    "createdByAdminId": "admin_global_001",
+    "market": "Over 8.5",
+    "selection": "Over 8.5",
+    "odds": 1.75,
+    "stake": 43,
+    "id": "bet_1756912514403_wc31i88",
+    "groupId": "grp_1756912514403_i0pfoao",
+    "betType": "VALUE",
+    "status": "PENDING",
+    "processedInDailyHistory": false
+  },
+  {
+    "date": "2025-09-03",
+    "eventTimestamp": "2025-09-03T19:10",
+    "sport": "Baseball",
+    "league": "MLB 2025",
+    "event": "Detroit Tigers - New York Mets ",
+    "createdByAdminId": "admin_global_001",
+    "market": "Over 8.5",
+    "selection": "Sub 9.5",
+    "odds": 2.692,
+    "stake": 27.95,
+    "middleDetails": {
+      "p1": 4.300000000000004,
+      "p2": 4.299999999999997,
+      "pb": 79.55
+    },
+    "id": "bet_1756912514403_vjz3zpd",
+    "groupId": "grp_1756912514403_i0pfoao",
+    "betType": "MIDDLE",
+    "status": "PENDING",
+    "processedInDailyHistory": false
+  },
+  {
+    "date": "2025-09-03",
     "eventTimestamp": "2025-09-03T18:00",
     "sport": "Fotbal",
     "league": "Finland: Kakkonen 2025",
