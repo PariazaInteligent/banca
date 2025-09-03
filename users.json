@@ -27,10 +27,10 @@
     "isActive": true,
     "profileData": {
       "investedAmount": 800,
-      "totalProfitEarned": 189.42483999999996,
-      "currentGrossProfit": 107.17155555555553,
-      "platformFeePaid": 1.9133822222222219,
-      "currentNetProfit": 106.09983999999997,
+      "totalProfitEarned": 302.0345679999999,
+      "currentGrossProfit": 220.9187555555555,
+      "platformFeePaid": 3.0508542222222217,
+      "currentNetProfit": 218.70956799999993,
       "joinDate": "2025-08-29T12:00:00.000Z",
       "investmentHistory": [
         {
@@ -67,6 +67,16 @@
           "date": "2025-09-02T16:34:42.368Z",
           "amount": -0.6947555555555555,
           "type": "FEE"
+        },
+        {
+          "date": "2025-09-03T14:06:37.464Z",
+          "amount": 112.60972799999998,
+          "type": "PROFIT_PAYOUT"
+        },
+        {
+          "date": "2025-09-03T14:06:37.464Z",
+          "amount": -1.1374719999999998,
+          "type": "FEE"
         }
       ],
       "badges": [],
@@ -85,7 +95,7 @@
     "isGlobalAdmin": false,
     "profileData": {
       "investedAmount": 100,
-      "totalProfitEarned": 23.678104999999995,
+      "totalProfitEarned": 37.75432099999999,
       "joinDate": "2025-08-29T12:01:00.000Z",
       "investmentHistory": [
         {
@@ -122,12 +132,22 @@
           "date": "2025-09-02T16:34:42.368Z",
           "amount": -0.08684444444444443,
           "type": "FEE"
+        },
+        {
+          "date": "2025-09-03T14:06:37.464Z",
+          "amount": 14.076215999999997,
+          "type": "PROFIT_PAYOUT"
+        },
+        {
+          "date": "2025-09-03T14:06:37.464Z",
+          "amount": -0.14218399999999998,
+          "type": "FEE"
         }
       ],
       "badges": [],
-      "currentGrossProfit": 13.396444444444441,
-      "platformFeePaid": 0.23917277777777773,
-      "currentNetProfit": 13.262479999999996
+      "currentGrossProfit": 27.614844444444437,
+      "platformFeePaid": 0.3813567777777777,
+      "currentNetProfit": 27.33869599999999
     },
     "referredByCode": "PARIA__1750"
   }
