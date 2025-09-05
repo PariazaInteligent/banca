@@ -1,6 +1,45 @@
 [
   {
     "date": "2025-09-05",
+    "eventTimestamp": "2025-09-05T21:30",
+    "sport": "Fotbal",
+    "league": "Spain: LaLiga 2 2025/2026",
+    "event": "Cordoba - Castellon",
+    "createdByAdminId": "admin_global_001",
+    "market": "Under 1.75 - 1st Half",
+    "selection": "Under 1.75 - 1st Half",
+    "odds": 1.32,
+    "stake": 33,
+    "id": "bet_1757095090296_4yvnj08",
+    "groupId": "grp_1757095090295_m5c9brf",
+    "betType": "VALUE",
+    "status": "PENDING",
+    "processedInDailyHistory": false
+  },
+  {
+    "date": "2025-09-05",
+    "eventTimestamp": "2025-09-05T21:30",
+    "sport": "Fotbal",
+    "league": "Spain: LaLiga 2 2025/2026",
+    "event": "Cordoba - Castellon",
+    "createdByAdminId": "admin_global_001",
+    "market": "Under 1.75 - 1st Half",
+    "selection": "Over 1.25 – 1st Half",
+    "odds": 6,
+    "stake": 7.26,
+    "middleDetails": {
+      "p1": 3.3000000000000007,
+      "p2": 3.299999999999997,
+      "pb": 46.86
+    },
+    "id": "bet_1757095090296_gk0rkw1",
+    "groupId": "grp_1757095090295_m5c9brf",
+    "betType": "MIDDLE",
+    "status": "PENDING",
+    "processedInDailyHistory": false
+  },
+  {
+    "date": "2025-09-05",
     "eventTimestamp": "2025-09-05T19:30",
     "sport": "Fotbal",
     "league": "LaLiga 2 2025/2026",
