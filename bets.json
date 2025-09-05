@@ -1,6 +1,45 @@
 [
   {
     "date": "2025-09-05",
+    "eventTimestamp": "2025-09-05T20:00",
+    "sport": "Fotbal",
+    "league": "Campeonato Paulista U20 2024/2025",
+    "event": "XV de Novembro (Piracicaba) U20 - Corinthians U20",
+    "createdByAdminId": "admin_global_001",
+    "market": "Under 3",
+    "selection": "Under 3",
+    "odds": 1.43,
+    "stake": 161,
+    "id": "bet_1757095447804_umc3xkm",
+    "groupId": "grp_1757095447804_80310i1",
+    "betType": "VALUE",
+    "status": "PENDING",
+    "processedInDailyHistory": false
+  },
+  {
+    "date": "2025-09-05",
+    "eventTimestamp": "2025-09-05T20:00",
+    "sport": "Fotbal",
+    "league": "Campeonato Paulista U20 2024/2025",
+    "event": "XV de Novembro (Piracicaba) U20 - Corinthians U20",
+    "createdByAdminId": "admin_global_001",
+    "market": "Under 3",
+    "selection": "Over 2.5",
+    "odds": 4.333,
+    "stake": 53.13,
+    "middleDetails": {
+      "p1": 16.1,
+      "p2": 16.099999999999994,
+      "pb": 246.32999999999998
+    },
+    "id": "bet_1757095447804_ccl2t0d",
+    "groupId": "grp_1757095447804_80310i1",
+    "betType": "MIDDLE",
+    "status": "PENDING",
+    "processedInDailyHistory": false
+  },
+  {
+    "date": "2025-09-05",
     "eventTimestamp": "2025-09-05T21:30",
     "sport": "Fotbal",
     "league": "Spain: LaLiga 2 2025/2026",
