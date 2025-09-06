@@ -1,5 +1,44 @@
 [
   {
+    "date": "2025-09-07",
+    "eventTimestamp": "2025-09-07T02:30",
+    "sport": "Fotbal",
+    "league": "United States: USA MLS 2025",
+    "event": "Saint Louis City SC - FC Dallas ",
+    "createdByAdminId": "admin_global_001",
+    "market": "Handicap 1 (-1)",
+    "selection": "Handicap 1 (-1)",
+    "odds": 7.471,
+    "stake": 7.65,
+    "id": "bet_1757197204158_y3382kd",
+    "groupId": "grp_1757197204158_q91y4qk",
+    "betType": "VALUE",
+    "status": "PENDING",
+    "processedInDailyHistory": false
+  },
+  {
+    "date": "2025-09-07",
+    "eventTimestamp": "2025-09-07T02:30",
+    "sport": "Fotbal",
+    "league": "United States: USA MLS 2025",
+    "event": "Saint Louis City SC - FC Dallas ",
+    "createdByAdminId": "admin_global_001",
+    "market": "Handicap 2 (1,5)",
+    "selection": "Handicap 2 (1,5)",
+    "odds": 1.27,
+    "stake": 45,
+    "middleDetails": {
+      "p1": 4.5,
+      "p2": 4.5,
+      "pb": 61.65
+    },
+    "id": "bet_1757197204158_s6eb2nv",
+    "groupId": "grp_1757197204158_q91y4qk",
+    "betType": "MIDDLE",
+    "status": "PENDING",
+    "processedInDailyHistory": false
+  },
+  {
     "date": "2025-09-06",
     "eventTimestamp": "2025-09-06T22:45",
     "sport": "Fotbal",
@@ -14,7 +53,7 @@
     "groupId": "grp_1757192728301_ansjdu9",
     "betType": "VALUE",
     "status": "LOST",
-    "processedInDailyHistory": false,
+    "processedInDailyHistory": true,
     "profit": -79.31,
     "resolvedAt": "2025-09-06T22:09:31.799Z"
   },
@@ -38,7 +77,7 @@
     "groupId": "grp_1757192728301_ansjdu9",
     "betType": "MIDDLE",
     "status": "WON",
-    "processedInDailyHistory": false,
+    "processedInDailyHistory": true,
     "profit": 87.00999999999999,
     "resolvedAt": "2025-09-06T22:09:35.804Z",
     "notes": "Scor: 0-0."
@@ -58,7 +97,7 @@
     "groupId": "grp_1757183689954_hznkcej",
     "betType": "VALUE",
     "status": "VOID",
-    "processedInDailyHistory": false,
+    "processedInDailyHistory": true,
     "profit": 0,
     "resolvedAt": "2025-09-06T20:42:23.081Z",
     "notes": "Scor: 86-89."
@@ -83,7 +122,7 @@
     "groupId": "grp_1757183689954_hznkcej",
     "betType": "MIDDLE",
     "status": "WON",
-    "processedInDailyHistory": false,
+    "processedInDailyHistory": true,
     "profit": 49.074999999999996,
     "resolvedAt": "2025-09-06T20:42:17.971Z"
   },
@@ -102,7 +141,7 @@
     "groupId": "grp_1757178705366_v2mvst7",
     "betType": "VALUE",
     "status": "LOST",
-    "processedInDailyHistory": false,
+    "processedInDailyHistory": true,
     "notes": "",
     "profit": -143,
     "resolvedAt": "2025-09-06T18:13:54.009Z"
@@ -127,7 +166,7 @@
     "groupId": "grp_1757178705366_v2mvst7",
     "betType": "MIDDLE",
     "status": "WON",
-    "processedInDailyHistory": false,
+    "processedInDailyHistory": true,
     "profit": 164.065,
     "resolvedAt": "2025-09-06T18:14:02.552Z"
   },
