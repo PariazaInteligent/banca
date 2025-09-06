@@ -1,5 +1,44 @@
 [
   {
+    "date": "2025-09-06",
+    "eventTimestamp": "2025-09-07T00:30",
+    "sport": "Baschet",
+    "league": "LNB 2025",
+    "event": "Ciudad Nueva - San Alfonzo ",
+    "createdByAdminId": "admin_global_001",
+    "market": "Peste 147.5",
+    "selection": "Peste 147.5",
+    "odds": 3.178,
+    "stake": 22.73,
+    "id": "bet_1757198334099_dghybwb",
+    "groupId": "grp_1757198334099_xmwsjys",
+    "betType": "VALUE",
+    "status": "PENDING",
+    "processedInDailyHistory": false
+  },
+  {
+    "date": "2025-09-06",
+    "eventTimestamp": "2025-09-07T00:30",
+    "sport": "Baschet",
+    "league": "LNB 2025",
+    "event": "Ciudad Nueva - San Alfonzo ",
+    "createdByAdminId": "admin_global_001",
+    "market": "Sub 151.5",
+    "selection": "Sub 151.5",
+    "odds": 1.605,
+    "stake": 45,
+    "middleDetails": {
+      "p1": 4.5,
+      "p2": 4.4999999999999964,
+      "pb": 76.725
+    },
+    "id": "bet_1757198334099_lnoubti",
+    "groupId": "grp_1757198334099_xmwsjys",
+    "betType": "MIDDLE",
+    "status": "PENDING",
+    "processedInDailyHistory": false
+  },
+  {
     "date": "2025-09-07",
     "eventTimestamp": "2025-09-07T02:30",
     "sport": "Fotbal",
