@@ -1,6 +1,45 @@
 [
   {
     "date": "2025-09-06",
+    "eventTimestamp": "2025-09-06T22:45",
+    "sport": "Fotbal",
+    "league": "Uruguay: Liga AUF Uruguaya - Clausura 2025",
+    "event": "Penarol Montevideo - Plaza Colonia",
+    "createdByAdminId": "admin_global_001",
+    "market": "(Penarol Montevideo) - 1st Half",
+    "selection": "(Penarol Montevideo) - 1st Half",
+    "odds": 2.068,
+    "stake": 79.31,
+    "id": "bet_1757192728301_a56xk1y",
+    "groupId": "grp_1757192728301_ansjdu9",
+    "betType": "VALUE",
+    "status": "PENDING",
+    "processedInDailyHistory": false
+  },
+  {
+    "date": "2025-09-06",
+    "eventTimestamp": "2025-09-06T22:45",
+    "sport": "Fotbal",
+    "league": "Uruguay: Liga AUF Uruguaya - Clausura 2025",
+    "event": "Penarol Montevideo - Plaza Colonia",
+    "createdByAdminId": "admin_global_001",
+    "market": "Under 1.0 – 1st Half",
+    "selection": "Under 1.0 – 1st Half",
+    "odds": 2.13,
+    "stake": 77,
+    "middleDetails": {
+      "p1": 7.700000000000017,
+      "p2": 7.700000000000003,
+      "pb": 171.71
+    },
+    "id": "bet_1757192728301_7zqwnko",
+    "groupId": "grp_1757192728301_ansjdu9",
+    "betType": "MIDDLE",
+    "status": "PENDING",
+    "processedInDailyHistory": false
+  },
+  {
+    "date": "2025-09-06",
     "eventTimestamp": "2025-09-06T20:30",
     "sport": "Baschet",
     "league": "Friendly Club Matches 2024/2025",
