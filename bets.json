@@ -1,6 +1,46 @@
 [
   {
     "date": "2025-09-07",
+    "eventTimestamp": "2025-09-07T04:00",
+    "sport": "Fotbal",
+    "league": "Spain: Primera Federacion 2025/2026",
+    "event": "Osasuna B - Ourense CF",
+    "createdByAdminId": "admin_global_001",
+    "market": "Handicap 1 (0)",
+    "selection": "Handicap 1 (0)",
+    "odds": 2.2,
+    "stake": 126.2,
+    "id": "bet_1757253807934_c4e2728",
+    "groupId": "grp_1757253807934_p5bpdjx",
+    "betType": "VALUE",
+    "status": "PENDING",
+    "processedInDailyHistory": false,
+    "notes": ""
+  },
+  {
+    "date": "2025-09-07",
+    "eventTimestamp": "2025-09-07T16:00",
+    "sport": "Fotbal",
+    "league": "Spain: Primera Federacion 2025/2026",
+    "event": "Osasuna B - Ourense CF",
+    "createdByAdminId": "admin_global_001",
+    "market": "Handicap 2 (0)",
+    "selection": "Handicap 2 (0)",
+    "odds": 2.535,
+    "stake": 146,
+    "middleDetails": {
+      "p1": 5.440000000000026,
+      "p2": 97.91000000000001,
+      "pb": 375.55000000000007
+    },
+    "id": "bet_1757253807934_r41xcpz",
+    "groupId": "grp_1757253807934_p5bpdjx",
+    "betType": "MIDDLE",
+    "status": "PENDING",
+    "processedInDailyHistory": false
+  },
+  {
+    "date": "2025-09-07",
     "eventTimestamp": "2025-09-07T12:00",
     "sport": "Fotbal",
     "league": "Finland: Kolmonen 2025",
