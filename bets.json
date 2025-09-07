@@ -1,6 +1,45 @@
 [
   {
     "date": "2025-09-07",
+    "eventTimestamp": "2025-09-07T22:00",
+    "sport": "Fotbal american",
+    "league": "United States: NFL 2025/2026",
+    "event": "Denver Broncos - Tennessee Titans",
+    "createdByAdminId": "admin_global_001",
+    "market": "Denver Broncos to win - 1st Quarter",
+    "selection": "Denver Broncos to win - 1st Quarter",
+    "odds": 2.287,
+    "stake": 94.05,
+    "id": "bet_1757276103730_ff9gzdw",
+    "groupId": "grp_1757276103730_p8fdpuu",
+    "betType": "VALUE",
+    "status": "PENDING",
+    "processedInDailyHistory": false
+  },
+  {
+    "date": "2025-09-07",
+    "eventTimestamp": "2025-09-07T22:00",
+    "sport": "Fotbal american",
+    "league": "United States: NFL 2025/2026",
+    "event": "Denver Broncos - Tennessee Titans",
+    "createdByAdminId": "admin_global_001",
+    "market": "Under 9,5 - 1st Quarter",
+    "selection": "Under 9,5 - 1st Quarter",
+    "odds": 1.955,
+    "stake": 110,
+    "middleDetails": {
+      "p1": 11.000000000000028,
+      "p2": 11,
+      "pb": 226.05000000000004
+    },
+    "id": "bet_1757276103730_nq71w7s",
+    "groupId": "grp_1757276103730_p8fdpuu",
+    "betType": "MIDDLE",
+    "status": "PENDING",
+    "processedInDailyHistory": false
+  },
+  {
+    "date": "2025-09-07",
     "eventTimestamp": "2025-09-07T20:00",
     "sport": "Tenis",
     "league": "United States: ATP Chllenger Winston-Salem 2025",
