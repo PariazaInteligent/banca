@@ -1,6 +1,45 @@
 [
   {
     "date": "2025-09-07",
+    "eventTimestamp": "2025-09-08T01:00",
+    "sport": "Fotbal",
+    "league": "United States: USA MLS 2025",
+    "event": "Sporting Kansas City - Austin FC - ",
+    "createdByAdminId": "admin_global_001",
+    "market": "Handicap 1 (+0.25)",
+    "selection": "Handicap 1 (+0.25)",
+    "odds": 1.853,
+    "stake": 34.83,
+    "id": "bet_1757281794771_7e67083",
+    "groupId": "grp_1757281794771_wcv20ev",
+    "betType": "VALUE",
+    "status": "PENDING",
+    "processedInDailyHistory": false
+  },
+  {
+    "date": "2025-09-07",
+    "eventTimestamp": "2025-09-08T01:00",
+    "sport": "Fotbal",
+    "league": "United States: USA MLS 2025",
+    "event": "Sporting Kansas City - Austin FC - ",
+    "createdByAdminId": "admin_global_001",
+    "market": "Handicap 2 (-0.25)",
+    "selection": "Handicap 2 (-0.25)",
+    "odds": 2.39,
+    "stake": 27,
+    "middleDetails": {
+      "p1": 2.7000000000000064,
+      "p2": 2.700000000000003,
+      "pb": 67.23
+    },
+    "id": "bet_1757281794771_ve984zg",
+    "groupId": "grp_1757281794771_wcv20ev",
+    "betType": "MIDDLE",
+    "status": "PENDING",
+    "processedInDailyHistory": false
+  },
+  {
+    "date": "2025-09-07",
     "eventTimestamp": "2025-09-07T22:00",
     "sport": "Fotbal american",
     "league": "United States: NFL 2025/2026",
