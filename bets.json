@@ -1,5 +1,44 @@
 [
   {
+    "date": "2025-09-07",
+    "eventTimestamp": "2025-09-07T09:00",
+    "sport": "Tenis",
+    "league": "China: WTA 125K Huzhou 2025",
+    "event": "Jessica Pieri - Eudice Wong Chong",
+    "createdByAdminId": "admin_global_001",
+    "market": "Sub 17.5 game-uri",
+    "selection": "Sub 17.5 game-uri",
+    "odds": 4.548,
+    "stake": 10.85,
+    "id": "bet_1757223057621_se6uwbs",
+    "groupId": "grp_1757223057621_tgxvqwf",
+    "betType": "VALUE",
+    "status": "PENDING",
+    "processedInDailyHistory": false
+  },
+  {
+    "date": "2025-09-07",
+    "eventTimestamp": "2025-09-07T09:00",
+    "sport": "Tenis",
+    "league": "China: WTA 125K Huzhou 2025",
+    "event": "Jessica Pieri - Eudice Wong Chong",
+    "createdByAdminId": "admin_global_001",
+    "market": "Handicap seturi 1 (-1.5)",
+    "selection": "Handicap seturi 1 (-1.5)",
+    "odds": 1.41,
+    "stake": 35,
+    "middleDetails": {
+      "p1": 3.5,
+      "p2": 3.5,
+      "pb": 52.849999999999994
+    },
+    "id": "bet_1757223057621_6zmbtzo",
+    "groupId": "grp_1757223057621_tgxvqwf",
+    "betType": "MIDDLE",
+    "status": "PENDING",
+    "processedInDailyHistory": false
+  },
+  {
     "date": "2025-09-06",
     "eventTimestamp": "2025-09-07T00:30",
     "sport": "Baschet",
