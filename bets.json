@@ -13,9 +13,11 @@
     "id": "bet_1757253807934_c4e2728",
     "groupId": "grp_1757253807934_p5bpdjx",
     "betType": "VALUE",
-    "status": "PENDING",
+    "status": "VOID",
     "processedInDailyHistory": false,
-    "notes": ""
+    "notes": "",
+    "profit": 0,
+    "resolvedAt": "2025-09-07T17:27:00.303Z"
   },
   {
     "date": "2025-09-07",
@@ -36,8 +38,11 @@
     "id": "bet_1757253807934_r41xcpz",
     "groupId": "grp_1757253807934_p5bpdjx",
     "betType": "MIDDLE",
-    "status": "PENDING",
-    "processedInDailyHistory": false
+    "status": "VOID",
+    "processedInDailyHistory": false,
+    "profit": 0,
+    "resolvedAt": "2025-09-07T17:27:09.770Z",
+    "notes": "Scor: 1-1."
   },
   {
     "date": "2025-09-07",
