@@ -1,6 +1,45 @@
 [
   {
     "date": "2025-09-07",
+    "eventTimestamp": "2025-09-07T20:00",
+    "sport": "Tenis",
+    "league": "United States: ATP Chllenger Winston-Salem 2025",
+    "event": "Daniel Milavsky - Kacper Szymkowiak",
+    "createdByAdminId": "admin_global_001",
+    "market": "Under 20",
+    "selection": "Under 20",
+    "odds": 2.341,
+    "stake": 13.94,
+    "id": "bet_1757267917567_4njtdr3",
+    "groupId": "grp_1757267917567_fqfpm83",
+    "betType": "VALUE",
+    "status": "PENDING",
+    "processedInDailyHistory": false
+  },
+  {
+    "date": "2025-09-07",
+    "eventTimestamp": "2025-09-07T20:00",
+    "sport": "Tenis",
+    "league": "United States: ATP Chllenger Winston-Salem 2025",
+    "event": "Daniel Milavsky - Kacper Szymkowiak",
+    "createdByAdminId": "admin_global_001",
+    "market": "Over 20.5",
+    "selection": "Over 20.5",
+    "odds": 1.92,
+    "stake": 17,
+    "middleDetails": {
+      "p1": 1.7000000000000028,
+      "p2": 1.6999999999999993,
+      "pb": 34.34
+    },
+    "id": "bet_1757267917567_zz8w8k9",
+    "groupId": "grp_1757267917567_fqfpm83",
+    "betType": "MIDDLE",
+    "status": "PENDING",
+    "processedInDailyHistory": false
+  },
+  {
+    "date": "2025-09-07",
     "eventTimestamp": "2025-09-07T19:00",
     "sport": "Fotbal",
     "league": "Spain: Tercera Division RFEF 2025/2026",
