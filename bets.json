@@ -53,7 +53,7 @@
     "groupId": "grp_1757198334099_xmwsjys",
     "betType": "VALUE",
     "status": "LOST",
-    "processedInDailyHistory": false,
+    "processedInDailyHistory": true,
     "profit": -22.73,
     "resolvedAt": "2025-09-07T05:22:18.016Z",
     "notes": "Scor: 64-77."
@@ -78,7 +78,7 @@
     "groupId": "grp_1757198334099_xmwsjys",
     "betType": "MIDDLE",
     "status": "WON",
-    "processedInDailyHistory": false,
+    "processedInDailyHistory": true,
     "profit": 27.224999999999998,
     "resolvedAt": "2025-09-07T05:22:06.135Z"
   },
