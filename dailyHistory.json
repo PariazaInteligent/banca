@@ -1924,5 +1924,16 @@
     "profit": 60.2875,
     "resolvedAt": "2025-08-31T04:09:57.114Z",
     "notes": ""
+  },
+  {
+    "day": null,
+    "date": "2025-09-08",
+    "dailyGrossProfit": -23,
+    "turnover": 35.65,
+    "numBets": 2,
+    "totalBankValueEnd": null,
+    "notes": "Zi generată automat din pariuri rezolvate.",
+    "distributedNetProfit": -23,
+    "collectedFees": 0
   }
 ]
