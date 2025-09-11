@@ -3,6 +3,63 @@
     "adminId": "admin_global_001",
     "type": "BET_UPDATED",
     "status": "COMPLETED",
+    "description": "Pariul \"Handicap 1 (+4.5)\" pentru MoraBanc Andorra - Paris Basketball a fost actualizat.",
+    "details": {
+      "betId": "bet_1757351163661_v3rqtxc",
+      "groupId": "grp_1757351163661_l39fa87",
+      "changedFields": [
+        {
+          "fieldName": "Notițe",
+          "oldValue": "Nespecificat",
+          "newValue": "Scor: 12-6."
+        }
+      ]
+    },
+    "id": "txn_1757607882457_4lwpo38",
+    "timestamp": "2025-09-11T16:24:42.457Z"
+  },
+  {
+    "adminId": "admin_global_001",
+    "type": "BET_UPDATED",
+    "status": "COMPLETED",
+    "description": "Pariul \"Handicap 1 (+4.5)\" pentru MoraBanc Andorra - Paris Basketball a fost actualizat.",
+    "details": {
+      "betId": "bet_1757351163661_v3rqtxc",
+      "groupId": "grp_1757351163661_l39fa87",
+      "changedFields": [
+        {
+          "fieldName": "Status",
+          "oldValue": "PENDING",
+          "newValue": "VOID"
+        }
+      ]
+    },
+    "id": "txn_1757607871161_fc1f2xf",
+    "timestamp": "2025-09-11T16:24:31.161Z"
+  },
+  {
+    "adminId": "admin_global_001",
+    "type": "BET_UPDATED",
+    "status": "COMPLETED",
+    "description": "Pariul \"Handicap 2 (-3.5)\" pentru MoraBanc Andorra - Paris Basketball a fost actualizat.",
+    "details": {
+      "betId": "bet_1757351163661_4lbzyca",
+      "groupId": "grp_1757351163661_l39fa87",
+      "changedFields": [
+        {
+          "fieldName": "Status",
+          "oldValue": "PENDING",
+          "newValue": "LOST"
+        }
+      ]
+    },
+    "id": "txn_1757607856930_3r3oisv",
+    "timestamp": "2025-09-11T16:24:16.930Z"
+  },
+  {
+    "adminId": "admin_global_001",
+    "type": "BET_UPDATED",
+    "status": "COMPLETED",
     "description": "Pariul \"Handicap 1 (+0.25)\" pentru Sporting Kansas City - Austin FC -  a fost actualizat.",
     "details": {
       "betId": "bet_1757281794771_7e67083",
