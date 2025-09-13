@@ -20,7 +20,6 @@
   {
     "id": "user_001",
     "email": "tomizeimihaita@gmail.com",
-    "password": "user",
     "role": "USER",
     "name": "Pariaza Inteligent",
     "avatar": "https://i.ibb.co/zgtmkSY/IMG-4094-1.webp",
@@ -117,7 +116,8 @@
       "badges": [],
       "dashboardWidgetsConfig": []
     },
-    "referralCode": "PARIA__1750"
+    "referralCode": "PARIA__1750",
+    "lastLogin": "2025-09-13T20:26:41.797Z"
   },
   {
     "id": "user_1750184862661_2r7nzea",
