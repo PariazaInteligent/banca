@@ -15,11 +15,12 @@
       "badges": []
     },
     "adminPermissions": {},
-    "lastLogin": "2025-09-13T20:00:01.143Z"
+    "lastLogin": "2025-09-13T20:03:48.098Z"
   },
   {
     "id": "user_001",
     "email": "tomizeimihaita@gmail.com",
+    "password": "user",
     "role": "USER",
     "name": "Pariaza Inteligent",
     "avatar": "https://i.ibb.co/zgtmkSY/IMG-4094-1.webp",
@@ -33,58 +34,18 @@
       "joinDate": "2025-08-29T12:00:00.000Z",
       "investmentHistory": [
         {
-          "date": "2025-09-08T23:59:59.999Z",
-          "amount": -20.444444,
+          "date": "2025-08-30T09:00:00.000Z",
+          "amount": 800,
+          "type": "DEPOSIT"
+        },
+        {
+          "date": "2025-08-30T23:59:59.999Z",
+          "amount": 83.325,
           "type": "PROFIT_PAYOUT"
         },
         {
-          "date": "2025-09-07T23:59:59.999Z",
-          "amount": -130.444444,
-          "type": "PROFIT_PAYOUT"
-        },
-        {
-          "date": "2025-09-06T23:59:59.999Z",
-          "amount": 68.4992,
-          "type": "PROFIT_PAYOUT"
-        },
-        {
-          "date": "2025-09-06T23:59:59.999Z",
-          "amount": -0.691911,
-          "type": "FEE"
-        },
-        {
-          "date": "2025-09-05T23:59:59.999Z",
-          "amount": 6.6792,
-          "type": "PROFIT_PAYOUT"
-        },
-        {
-          "date": "2025-09-05T23:59:59.999Z",
-          "amount": -0.067467,
-          "type": "FEE"
-        },
-        {
-          "date": "2025-09-03T23:59:59.999Z",
-          "amount": -107.479111,
-          "type": "PROFIT_PAYOUT"
-        },
-        {
-          "date": "2025-09-02T23:59:59.999Z",
-          "amount": 68.090528,
-          "type": "PROFIT_PAYOUT"
-        },
-        {
-          "date": "2025-09-02T23:59:59.999Z",
-          "amount": -0.687783,
-          "type": "FEE"
-        },
-        {
-          "date": "2025-09-01T23:59:59.999Z",
-          "amount": 6.3008,
-          "type": "PROFIT_PAYOUT"
-        },
-        {
-          "date": "2025-09-01T23:59:59.999Z",
-          "amount": -0.063644,
+          "date": "2025-08-30T23:59:59.999Z",
+          "amount": -0.841667,
           "type": "FEE"
         },
         {
@@ -98,26 +59,65 @@
           "type": "FEE"
         },
         {
-          "date": "2025-08-30T23:59:59.999Z",
-          "amount": 83.325,
+          "date": "2025-09-01T23:59:59.999Z",
+          "amount": 6.3008,
           "type": "PROFIT_PAYOUT"
         },
         {
-          "date": "2025-08-30T23:59:59.999Z",
-          "amount": -0.841667,
+          "date": "2025-09-01T23:59:59.999Z",
+          "amount": -0.063644,
           "type": "FEE"
         },
         {
-          "date": "2025-08-30T09:00:00.000Z",
-          "amount": 800,
-          "type": "DEPOSIT"
+          "date": "2025-09-02T23:59:59.999Z",
+          "amount": 68.090528,
+          "type": "PROFIT_PAYOUT"
+        },
+        {
+          "date": "2025-09-02T23:59:59.999Z",
+          "amount": -0.687783,
+          "type": "FEE"
+        },
+        {
+          "date": "2025-09-03T23:59:59.999Z",
+          "amount": -107.479111,
+          "type": "PROFIT_PAYOUT"
+        },
+        {
+          "date": "2025-09-05T23:59:59.999Z",
+          "amount": 6.6792,
+          "type": "PROFIT_PAYOUT"
+        },
+        {
+          "date": "2025-09-05T23:59:59.999Z",
+          "amount": -0.067467,
+          "type": "FEE"
+        },
+        {
+          "date": "2025-09-06T23:59:59.999Z",
+          "amount": 68.4992,
+          "type": "PROFIT_PAYOUT"
+        },
+        {
+          "date": "2025-09-06T23:59:59.999Z",
+          "amount": -0.691911,
+          "type": "FEE"
+        },
+        {
+          "date": "2025-09-07T23:59:59.999Z",
+          "amount": -130.444444,
+          "type": "PROFIT_PAYOUT"
+        },
+        {
+          "date": "2025-09-08T23:59:59.999Z",
+          "amount": -20.444444,
+          "type": "PROFIT_PAYOUT"
         }
       ],
       "badges": [],
       "dashboardWidgetsConfig": []
     },
-    "referralCode": "PARIA__1750",
-    "lastLogin": "2025-09-13T20:00:57.863Z"
+    "referralCode": "PARIA__1750"
   },
   {
     "id": "user_1750184862661_2r7nzea",
