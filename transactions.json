@@ -1,197 +1,7 @@
+
 [
   {
-    "adminId": "admin_global_001",
-    "type": "BET_UPDATED",
-    "status": "COMPLETED",
-    "description": "Pariul \"Handicap 1 (+4.5)\" pentru MoraBanc Andorra - Paris Basketball a fost actualizat.",
-    "details": {
-      "betId": "bet_1757351163661_v3rqtxc",
-      "groupId": "grp_1757351163661_l39fa87",
-      "changedFields": [
-        {
-          "fieldName": "Notițe",
-          "oldValue": "Nespecificat",
-          "newValue": "Scor: 12-6."
-        }
-      ]
-    },
-    "id": "txn_1757607882457_4lwpo38",
-    "timestamp": "2025-09-11T16:24:42.457Z"
-  },
-  {
-    "adminId": "admin_global_001",
-    "type": "BET_UPDATED",
-    "status": "COMPLETED",
-    "description": "Pariul \"Handicap 1 (+4.5)\" pentru MoraBanc Andorra - Paris Basketball a fost actualizat.",
-    "details": {
-      "betId": "bet_1757351163661_v3rqtxc",
-      "groupId": "grp_1757351163661_l39fa87",
-      "changedFields": [
-        {
-          "fieldName": "Status",
-          "oldValue": "PENDING",
-          "newValue": "VOID"
-        }
-      ]
-    },
-    "id": "txn_1757607871161_fc1f2xf",
-    "timestamp": "2025-09-11T16:24:31.161Z"
-  },
-  {
-    "adminId": "admin_global_001",
-    "type": "BET_UPDATED",
-    "status": "COMPLETED",
-    "description": "Pariul \"Handicap 2 (-3.5)\" pentru MoraBanc Andorra - Paris Basketball a fost actualizat.",
-    "details": {
-      "betId": "bet_1757351163661_4lbzyca",
-      "groupId": "grp_1757351163661_l39fa87",
-      "changedFields": [
-        {
-          "fieldName": "Status",
-          "oldValue": "PENDING",
-          "newValue": "LOST"
-        }
-      ]
-    },
-    "id": "txn_1757607856930_3r3oisv",
-    "timestamp": "2025-09-11T16:24:16.930Z"
-  },
-  {
-    "adminId": "admin_global_001",
-    "type": "BET_UPDATED",
-    "status": "COMPLETED",
-    "description": "Pariul \"Handicap 1 (+0.25)\" pentru Sporting Kansas City - Austin FC -  a fost actualizat.",
-    "details": {
-      "betId": "bet_1757281794771_7e67083",
-      "groupId": "grp_1757281794771_wcv20ev",
-      "changedFields": [
-        {
-          "fieldName": "Notițe",
-          "oldValue": "Nespecificat",
-          "newValue": "Scor: 1-2."
-        }
-      ]
-    },
-    "id": "txn_1757351301930_b4yr1jy",
-    "timestamp": "2025-09-08T17:08:21.930Z"
-  },
-  {
-    "adminId": "admin_global_001",
-    "type": "BET_UPDATED",
-    "status": "COMPLETED",
-    "description": "Pariul \"Handicap 1 (+0.25)\" pentru Sporting Kansas City - Austin FC -  a fost actualizat.",
-    "details": {
-      "betId": "bet_1757281794771_7e67083",
-      "groupId": "grp_1757281794771_wcv20ev",
-      "changedFields": [
-        {
-          "fieldName": "Status",
-          "oldValue": "PENDING",
-          "newValue": "LOST"
-        }
-      ]
-    },
-    "id": "txn_1757351293325_yhdy2tn",
-    "timestamp": "2025-09-08T17:08:13.325Z"
-  },
-  {
-    "adminId": "admin_global_001",
-    "type": "BET_UPDATED",
-    "status": "COMPLETED",
-    "description": "Pariul \"Handicap 2 (-0.25)\" pentru Sporting Kansas City - Austin FC -  a fost actualizat.",
-    "details": {
-      "betId": "bet_1757281794771_ve984zg",
-      "groupId": "grp_1757281794771_wcv20ev",
-      "changedFields": [
-        {
-          "fieldName": "Status",
-          "oldValue": "PENDING",
-          "newValue": "WON"
-        }
-      ]
-    },
-    "id": "txn_1757351264703_0i55ye8",
-    "timestamp": "2025-09-08T17:07:44.703Z"
-  },
-  {
-    "adminId": "admin_global_001",
-    "type": "BET_PLACED",
-    "status": "COMPLETED",
-    "description": "Grup nou de pariuri (Value + Middle) plasat pentru MoraBanc Andorra - Paris Basketball.",
-    "details": {
-      "groupId": "grp_1757351163661_l39fa87",
-      "valueBet": {
-        "selection": "Handicap 1 (+4.5)",
-        "odds": 3,
-        "stake": 12.65
-      },
-      "middleBet": {
-        "selection": "Handicap 2 (-3.5)",
-        "odds": 1.65,
-        "stake": 23
-      }
-    },
-    "id": "txn_1757351163662_betm8v2",
-    "timestamp": "2025-09-08T17:06:03.662Z"
-  },
-  {
-    "id": "txn_reset_007",
-    "timestamp": "2025-08-31T10:00:00.000Z",
-    "adminId": "admin_global_001",
-    "type": "PROFIT_DISTRIBUTION",
-    "status": "COMPLETED",
-    "description": "Profit distribuit pentru 30 august 2025. Net: 93,74 EUR, Taxe: 0,95 EUR.",
-    "details": {
-      "date": "2025-08-30",
-      "totalDistributedNetProfit": 93.740625,
-      "totalCollectedFees": 0.946875
-    }
-  },
-  {
-    "id": "txn_reset_006",
-    "timestamp": "2025-08-31T09:59:00.000Z",
-    "adminId": "admin_global_001",
-    "type": "BETS_RESOLVED",
-    "status": "COMPLETED",
-    "description": "8 pariuri pentru data de 30 august 2025 au fost procesate. Profit brut: 94,69 EUR.",
-    "details": {
-      "date": "2025-08-30",
-      "numBets": 8,
-      "dailyGrossProfit": 94.6875,
-      "betIds": [
-        "bet_1756589567639_pfd0diq",
-        "bet_1756589567639_gq2nc06",
-        "bet_1756587110523_jwu2315",
-        "bet_1756587110523_ob0u1ln",
-        "bet_1756583449119_olfu45g",
-        "bet_1756583449119_ws853xm",
-        "bet_1756583140225_y232ge7",
-        "bet_1756583140225_sjj7zne"
-      ]
-    }
-  },
-  {
-    "id": "txn_reset_005",
-    "timestamp": "2025-08-30T09:01:00.000Z",
-    "userId": "user_1750184862661_2r7nzea",
-    "adminId": "admin_global_001",
-    "type": "INVESTMENT_APPROVAL",
-    "status": "COMPLETED",
-    "amount": 100,
-    "description": "Investiție inițială pentru Test Investitor aprobată."
-  },
-  {
-    "id": "txn_reset_003",
-    "timestamp": "2025-08-30T09:00:00.000Z",
-    "userId": "user_001",
-    "adminId": "admin_global_001",
-    "type": "INVESTMENT_APPROVAL",
-    "status": "COMPLETED",
-    "amount": 800,
-    "description": "Investiție inițială pentru Pariaza Inteligent aprobată."
-  },
-  {
-    "id": "txn_reset_004",
+    "id": "txn_init_user_1750184862661_2r7nzea",
     "timestamp": "2025-08-29T12:01:00.000Z",
     "userId": "user_1750184862661_2r7nzea",
     "adminId": "admin_global_001",
@@ -200,7 +10,7 @@
     "description": "Cont Investitor (Test Investitor) creat de admin Admin Principal."
   },
   {
-    "id": "txn_reset_002",
+    "id": "txn_init_user_001",
     "timestamp": "2025-08-29T12:00:00.000Z",
     "userId": "user_001",
     "adminId": "admin_global_001",
@@ -209,7 +19,7 @@
     "description": "Cont Investitor (Pariaza Inteligent) creat de admin Admin Principal."
   },
   {
-    "id": "txn_reset_001",
+    "id": "txn_init_admin_global_001",
     "timestamp": "2025-08-28T10:00:00.000Z",
     "userId": "admin_global_001",
     "type": "USER_CREATED",
