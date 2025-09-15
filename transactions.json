@@ -1,5 +1,14 @@
-
 [
+  {
+    "id": "txn_invest_user_001_1",
+    "timestamp": "2025-08-29T12:05:00.000Z",
+    "userId": "user_001",
+    "adminId": "admin_global_001",
+    "type": "INVESTMENT_APPROVAL",
+    "status": "COMPLETED",
+    "amount": 1000,
+    "description": "Investiție inițială de Pariaza Inteligent aprobată."
+  },
   {
     "id": "txn_init_user_1750184862661_2r7nzea",
     "timestamp": "2025-08-29T12:01:00.000Z",
