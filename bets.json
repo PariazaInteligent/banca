@@ -1,6 +1,45 @@
 [
   {
     "date": "2025-09-15",
+    "eventTimestamp": "2025-09-15T22:00",
+    "sport": "Tenis",
+    "league": "ATP Challenger Columbus 2025",
+    "event": "Petr Brunclik - Patrick Maloney ",
+    "createdByAdminId": "admin_global_001",
+    "market": "Petr Brunclik to win",
+    "selection": "Petr Brunclik to win",
+    "odds": 2.035,
+    "stake": 11,
+    "id": "bet_1757964658039_s07iujy",
+    "groupId": "grp_1757964658039_u1cm24j",
+    "betType": "VALUE",
+    "status": "PENDING",
+    "processedInDailyHistory": false
+  },
+  {
+    "date": "2025-09-15",
+    "eventTimestamp": "2025-09-15T22:00",
+    "sport": "Tenis",
+    "league": "ATP Challenger Columbus 2025",
+    "event": "Petr Brunclik - Patrick Maloney ",
+    "createdByAdminId": "admin_global_001",
+    "market": "Patrick Maloney +1.5 seturi",
+    "selection": "Patrick Maloney +1.5 seturi",
+    "odds": 2.176,
+    "stake": 10.29,
+    "middleDetails": {
+      "p1": 1.0999999999999996,
+      "p2": 1.0999999999999996,
+      "pb": 23.485
+    },
+    "id": "bet_1757964658039_oglucv4",
+    "groupId": "grp_1757964658039_u1cm24j",
+    "betType": "MIDDLE",
+    "status": "PENDING",
+    "processedInDailyHistory": false
+  },
+  {
+    "date": "2025-09-15",
     "eventTimestamp": "2025-09-15T19:08",
     "sport": "Fotbal",
     "league": "AFC Champions League 2025/2026",
