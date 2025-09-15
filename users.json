@@ -27,7 +27,7 @@
     "avatar": "https://i.ibb.co/zgtmkSY/IMG-4094-1.webp",
     "isActive": true,
     "profileData": {
-      "investedAmount": 0,
+      "investedAmount": 1000,
       "totalProfitEarned": 0,
       "currentGrossProfit": 0,
       "platformFeePaid": 0,
