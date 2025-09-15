@@ -1,6 +1,45 @@
 [
   {
     "date": "2025-09-15",
+    "eventTimestamp": "2025-09-15T19:08",
+    "sport": "Fotbal",
+    "league": "AFC Champions League 2025/2026",
+    "event": "Al Ahli Jeddah - Nasaf Qarshi ",
+    "createdByAdminId": "admin_global_001",
+    "market": "Asian hcp -1.5 (Al Ahli Jeddah)",
+    "selection": "Asian hcp -1.5 (Al Ahli Jeddah)",
+    "odds": 1.475,
+    "stake": 19,
+    "id": "bet_1757963423264_e24n5uj",
+    "groupId": "grp_1757963423264_8ahchh2",
+    "betType": "VALUE",
+    "status": "PENDING",
+    "processedInDailyHistory": false
+  },
+  {
+    "date": "2025-09-15",
+    "eventTimestamp": "2025-09-15T19:08",
+    "sport": "Fotbal",
+    "league": "AFC Champions League 2025/2026",
+    "event": "Al Ahli Jeddah - Nasaf Qarshi ",
+    "createdByAdminId": "admin_global_001",
+    "market": "Asian hcp +2.5 (Nasaf Qarshi)",
+    "selection": "Asian hcp +2.5 (Nasaf Qarshi)",
+    "odds": 3.933,
+    "stake": 7.13,
+    "middleDetails": {
+      "p1": 1.9000000000000004,
+      "p2": 1.8999999999999986,
+      "pb": 29.925
+    },
+    "id": "bet_1757963423264_m0fpa3w",
+    "groupId": "grp_1757963423264_8ahchh2",
+    "betType": "MIDDLE",
+    "status": "PENDING",
+    "processedInDailyHistory": false
+  },
+  {
+    "date": "2025-09-15",
     "eventTimestamp": "2025-09-15T20:40",
     "sport": "Tenis",
     "league": "ATP Challenger Villa Maria 2025",
