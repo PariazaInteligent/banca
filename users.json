@@ -1,3 +1,4 @@
+
 [
   {
     "id": "admin_global_001",
@@ -15,8 +16,7 @@
       "investmentHistory": [],
       "badges": []
     },
-    "adminPermissions": {},
-    "lastLogin": "2025-09-13T20:03:48.098Z"
+    "adminPermissions": {}
   },
   {
     "id": "user_001",
@@ -27,99 +27,16 @@
     "avatar": "https://i.ibb.co/zgtmkSY/IMG-4094-1.webp",
     "isActive": true,
     "profileData": {
-      "investedAmount": 800,
-      "totalProfitEarned": 25.925816,
+      "investedAmount": 0,
+      "totalProfitEarned": 0,
       "currentGrossProfit": 0,
       "platformFeePaid": 0,
       "currentNetProfit": 0,
       "joinDate": "2025-08-29T12:00:00.000Z",
-      "investmentHistory": [
-        {
-          "date": "2025-08-30T09:00:00.000Z",
-          "amount": 800,
-          "type": "DEPOSIT"
-        },
-        {
-          "date": "2025-08-30T23:59:59.999Z",
-          "amount": 83.325,
-          "type": "PROFIT_PAYOUT"
-        },
-        {
-          "date": "2025-08-30T23:59:59.999Z",
-          "amount": -0.841667,
-          "type": "FEE"
-        },
-        {
-          "date": "2025-08-31T23:59:59.999Z",
-          "amount": 51.39904,
-          "type": "PROFIT_PAYOUT"
-        },
-        {
-          "date": "2025-08-31T23:59:59.999Z",
-          "amount": -0.519182,
-          "type": "FEE"
-        },
-        {
-          "date": "2025-09-01T23:59:59.999Z",
-          "amount": 6.3008,
-          "type": "PROFIT_PAYOUT"
-        },
-        {
-          "date": "2025-09-01T23:59:59.999Z",
-          "amount": -0.063644,
-          "type": "FEE"
-        },
-        {
-          "date": "2025-09-02T23:59:59.999Z",
-          "amount": 68.090528,
-          "type": "PROFIT_PAYOUT"
-        },
-        {
-          "date": "2025-09-02T23:59:59.999Z",
-          "amount": -0.687783,
-          "type": "FEE"
-        },
-        {
-          "date": "2025-09-03T23:59:59.999Z",
-          "amount": -107.479111,
-          "type": "PROFIT_PAYOUT"
-        },
-        {
-          "date": "2025-09-05T23:59:59.999Z",
-          "amount": 6.6792,
-          "type": "PROFIT_PAYOUT"
-        },
-        {
-          "date": "2025-09-05T23:59:59.999Z",
-          "amount": -0.067467,
-          "type": "FEE"
-        },
-        {
-          "date": "2025-09-06T23:59:59.999Z",
-          "amount": 68.4992,
-          "type": "PROFIT_PAYOUT"
-        },
-        {
-          "date": "2025-09-06T23:59:59.999Z",
-          "amount": -0.691911,
-          "type": "FEE"
-        },
-        {
-          "date": "2025-09-07T23:59:59.999Z",
-          "amount": -130.444444,
-          "type": "PROFIT_PAYOUT"
-        },
-        {
-          "date": "2025-09-08T23:59:59.999Z",
-          "amount": -20.444444,
-          "type": "PROFIT_PAYOUT"
-        }
-      ],
+      "investmentHistory": [],
       "badges": [],
       "dashboardWidgetsConfig": []
-    },
-    "referralCode": "PARIA__1750",
-    "lastLogin": "2025-09-13T20:40:49.513Z"
+    }
   },
   {
     "id": "user_1750184862661_2r7nzea",
@@ -131,96 +48,14 @@
     "password": "test",
     "isGlobalAdmin": false,
     "profileData": {
-      "investedAmount": 100,
-      "totalProfitEarned": 3.240589,
+      "investedAmount": 0,
+      "totalProfitEarned": 0,
       "joinDate": "2025-08-29T12:01:00.000Z",
-      "investmentHistory": [
-        {
-          "date": "2025-08-30T09:01:00.000Z",
-          "amount": 100,
-          "type": "DEPOSIT"
-        },
-        {
-          "date": "2025-08-30T23:59:59.999Z",
-          "amount": 10.415625,
-          "type": "PROFIT_PAYOUT"
-        },
-        {
-          "date": "2025-08-30T23:59:59.999Z",
-          "amount": -0.105208,
-          "type": "FEE"
-        },
-        {
-          "date": "2025-08-31T23:59:59.999Z",
-          "amount": 6.42488,
-          "type": "PROFIT_PAYOUT"
-        },
-        {
-          "date": "2025-08-31T23:59:59.999Z",
-          "amount": -0.064898,
-          "type": "FEE"
-        },
-        {
-          "date": "2025-09-01T23:59:59.999Z",
-          "amount": 0.7876,
-          "type": "PROFIT_PAYOUT"
-        },
-        {
-          "date": "2025-09-01T23:59:59.999Z",
-          "amount": -0.007956,
-          "type": "FEE"
-        },
-        {
-          "date": "2025-09-02T23:59:59.999Z",
-          "amount": 8.511328,
-          "type": "PROFIT_PAYOUT"
-        },
-        {
-          "date": "2025-09-02T23:59:59.999Z",
-          "amount": -0.085972,
-          "type": "FEE"
-        },
-        {
-          "date": "2025-09-03T23:59:59.999Z",
-          "amount": -13.434889,
-          "type": "PROFIT_PAYOUT"
-        },
-        {
-          "date": "2025-09-05T23:59:59.999Z",
-          "amount": 0.8349,
-          "type": "PROFIT_PAYOUT"
-        },
-        {
-          "date": "2025-09-05T23:59:59.999Z",
-          "amount": -0.008433,
-          "type": "FEE"
-        },
-        {
-          "date": "2025-09-06T23:59:59.999Z",
-          "amount": 8.5624,
-          "type": "PROFIT_PAYOUT"
-        },
-        {
-          "date": "2025-09-06T23:59:59.999Z",
-          "amount": -0.086489,
-          "type": "FEE"
-        },
-        {
-          "date": "2025-09-07T23:59:59.999Z",
-          "amount": -16.305556,
-          "type": "PROFIT_PAYOUT"
-        },
-        {
-          "date": "2025-09-08T23:59:59.999Z",
-          "amount": -2.555556,
-          "type": "PROFIT_PAYOUT"
-        }
-      ],
+      "investmentHistory": [],
       "badges": [],
       "currentGrossProfit": 0,
       "platformFeePaid": 0,
       "currentNetProfit": 0
-    },
-    "referredByCode": "PARIA__1750"
+    }
   }
 ]
