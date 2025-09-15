@@ -1,8 +1,7 @@
-
 {
-  "totalInvested": 0,
+  "totalInvested": 1000,
   "totalProfitDistributed": 0,
-  "activeInvestors": 0,
+  "activeInvestors": 1,
   "currentTurnover": 0,
   "totalBetsPlaced": 0,
   "platformFeeRate": 0,
