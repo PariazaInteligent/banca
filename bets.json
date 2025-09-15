@@ -1,2 +1,42 @@
-
-[]
+[
+  {
+    "date": "2025-09-15",
+    "eventTimestamp": "2025-09-15T20:40",
+    "sport": "Tenis",
+    "league": "ATP Challenger Villa Maria 2025",
+    "event": "Emilio Nava - Daniel Dutra Da Silva ",
+    "createdByAdminId": "admin_global_001",
+    "market": "Game hcp +6.5 (Daniel Dutra Da Silva) ",
+    "selection": "Game hcp +6.5 (Daniel Dutra Da Silva) ",
+    "odds": 1.85,
+    "stake": 52,
+    "id": "bet_1757960566851_epzwk1j",
+    "groupId": "grp_1757960566851_0z0acef",
+    "betType": "VALUE",
+    "status": "PENDING",
+    "processedInDailyHistory": false,
+    "notes": ""
+  },
+  {
+    "date": "2025-09-15",
+    "eventTimestamp": "2025-09-15T17:42",
+    "sport": "Tenis",
+    "league": "ATP Challenger Villa Maria 2025",
+    "event": "Emilio Nava - Daniel Dutra Da Silva ",
+    "createdByAdminId": "admin_global_001",
+    "market": "Game hcp -5.5 (Emilio Nava)",
+    "selection": "Game hcp -5.5 (Emilio Nava)",
+    "odds": 2.467,
+    "stake": 39,
+    "middleDetails": {
+      "p1": 5.200000000000003,
+      "p2": 5.200000000000003,
+      "pb": 101.4
+    },
+    "id": "bet_1757960566851_pxc51wc",
+    "groupId": "grp_1757960566851_0z0acef",
+    "betType": "MIDDLE",
+    "status": "PENDING",
+    "processedInDailyHistory": false
+  }
+]
