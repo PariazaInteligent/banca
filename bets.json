@@ -13,8 +13,10 @@
     "id": "bet_1757964658039_s07iujy",
     "groupId": "grp_1757964658039_u1cm24j",
     "betType": "VALUE",
-    "status": "PENDING",
-    "processedInDailyHistory": false
+    "status": "LOST",
+    "processedInDailyHistory": true,
+    "profit": -11,
+    "resolvedAt": "2025-09-18T15:31:17.587Z"
   },
   {
     "date": "2025-09-15",
@@ -35,8 +37,11 @@
     "id": "bet_1757964658039_oglucv4",
     "groupId": "grp_1757964658039_u1cm24j",
     "betType": "MIDDLE",
-    "status": "PENDING",
-    "processedInDailyHistory": false
+    "status": "VOID",
+    "processedInDailyHistory": true,
+    "profit": 0,
+    "resolvedAt": "2025-09-18T15:31:39.490Z",
+    "notes": "Scor: 0:2 (4:6,0:6)."
   },
   {
     "date": "2025-09-15",
@@ -52,8 +57,10 @@
     "id": "bet_1757963423264_e24n5uj",
     "groupId": "grp_1757963423264_8ahchh2",
     "betType": "VALUE",
-    "status": "PENDING",
-    "processedInDailyHistory": false
+    "status": "WON",
+    "processedInDailyHistory": true,
+    "profit": 9.025000000000002,
+    "resolvedAt": "2025-09-18T15:29:02.416Z"
   },
   {
     "date": "2025-09-15",
@@ -74,8 +81,11 @@
     "id": "bet_1757963423264_m0fpa3w",
     "groupId": "grp_1757963423264_8ahchh2",
     "betType": "MIDDLE",
-    "status": "PENDING",
-    "processedInDailyHistory": false
+    "status": "VOID",
+    "processedInDailyHistory": true,
+    "profit": 0,
+    "resolvedAt": "2025-09-18T15:29:09.135Z",
+    "notes": "Scor: 4-2."
   },
   {
     "date": "2025-09-15",
@@ -91,9 +101,11 @@
     "id": "bet_1757960566851_epzwk1j",
     "groupId": "grp_1757960566851_0z0acef",
     "betType": "VALUE",
-    "status": "PENDING",
-    "processedInDailyHistory": false,
-    "notes": ""
+    "status": "WON",
+    "processedInDailyHistory": true,
+    "notes": "",
+    "profit": 44.2,
+    "resolvedAt": "2025-09-18T15:30:09.001Z"
   },
   {
     "date": "2025-09-15",
@@ -114,7 +126,10 @@
     "id": "bet_1757960566851_pxc51wc",
     "groupId": "grp_1757960566851_0z0acef",
     "betType": "MIDDLE",
-    "status": "PENDING",
-    "processedInDailyHistory": false
+    "status": "VOID",
+    "processedInDailyHistory": true,
+    "profit": 0,
+    "resolvedAt": "2025-09-18T15:30:13.131Z",
+    "notes": "Scor: 2:1 (4:6,6:4,6:4)."
   }
 ]
