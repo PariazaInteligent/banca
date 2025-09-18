@@ -1,5 +1,195 @@
 [
   {
+    "adminId": "admin_global_001",
+    "type": "BET_UPDATED",
+    "status": "COMPLETED",
+    "description": "Pariul \"Patrick Maloney +1.5 seturi\" pentru Petr Brunclik - Patrick Maloney  a fost actualizat.",
+    "details": {
+      "betId": "bet_1757964658039_oglucv4",
+      "groupId": "grp_1757964658039_u1cm24j",
+      "changedFields": [
+        {
+          "fieldName": "Notițe",
+          "oldValue": "Nespecificat",
+          "newValue": "Scor: 0:2 (4:6,0:6)."
+        }
+      ]
+    },
+    "id": "txn_1758209512960_u138bgu",
+    "timestamp": "2025-09-18T15:31:52.960Z"
+  },
+  {
+    "adminId": "admin_global_001",
+    "type": "BET_UPDATED",
+    "status": "COMPLETED",
+    "description": "Pariul \"Patrick Maloney +1.5 seturi\" pentru Petr Brunclik - Patrick Maloney  a fost actualizat.",
+    "details": {
+      "betId": "bet_1757964658039_oglucv4",
+      "groupId": "grp_1757964658039_u1cm24j",
+      "changedFields": [
+        {
+          "fieldName": "Status",
+          "oldValue": "PENDING",
+          "newValue": "VOID"
+        }
+      ]
+    },
+    "id": "txn_1758209499490_ce2fdp9",
+    "timestamp": "2025-09-18T15:31:39.490Z"
+  },
+  {
+    "adminId": "admin_global_001",
+    "type": "BET_UPDATED",
+    "status": "COMPLETED",
+    "description": "Pariul \"Petr Brunclik to win\" pentru Petr Brunclik - Patrick Maloney  a fost actualizat.",
+    "details": {
+      "betId": "bet_1757964658039_s07iujy",
+      "groupId": "grp_1757964658039_u1cm24j",
+      "changedFields": [
+        {
+          "fieldName": "Status",
+          "oldValue": "WON",
+          "newValue": "LOST"
+        }
+      ]
+    },
+    "id": "txn_1758209494351_8rmxfkt",
+    "timestamp": "2025-09-18T15:31:34.351Z"
+  },
+  {
+    "adminId": "admin_global_001",
+    "type": "BET_UPDATED",
+    "status": "COMPLETED",
+    "description": "Pariul \"Petr Brunclik to win\" pentru Petr Brunclik - Patrick Maloney  a fost actualizat.",
+    "details": {
+      "betId": "bet_1757964658039_s07iujy",
+      "groupId": "grp_1757964658039_u1cm24j",
+      "changedFields": [
+        {
+          "fieldName": "Status",
+          "oldValue": "PENDING",
+          "newValue": "WON"
+        }
+      ]
+    },
+    "id": "txn_1758209477587_wj6qncd",
+    "timestamp": "2025-09-18T15:31:17.587Z"
+  },
+  {
+    "adminId": "admin_global_001",
+    "type": "BET_UPDATED",
+    "status": "COMPLETED",
+    "description": "Pariul \"Game hcp -5.5 (Emilio Nava)\" pentru Emilio Nava - Daniel Dutra Da Silva  a fost actualizat.",
+    "details": {
+      "betId": "bet_1757960566851_pxc51wc",
+      "groupId": "grp_1757960566851_0z0acef",
+      "changedFields": [
+        {
+          "fieldName": "Notițe",
+          "oldValue": "Nespecificat",
+          "newValue": "Scor: 2:1 (4:6,6:4,6:4)."
+        }
+      ]
+    },
+    "id": "txn_1758209450341_espsqts",
+    "timestamp": "2025-09-18T15:30:50.341Z"
+  },
+  {
+    "adminId": "admin_global_001",
+    "type": "BET_UPDATED",
+    "status": "COMPLETED",
+    "description": "Pariul \"Game hcp -5.5 (Emilio Nava)\" pentru Emilio Nava - Daniel Dutra Da Silva  a fost actualizat.",
+    "details": {
+      "betId": "bet_1757960566851_pxc51wc",
+      "groupId": "grp_1757960566851_0z0acef",
+      "changedFields": [
+        {
+          "fieldName": "Status",
+          "oldValue": "PENDING",
+          "newValue": "VOID"
+        }
+      ]
+    },
+    "id": "txn_1758209413131_mn4jbv6",
+    "timestamp": "2025-09-18T15:30:13.131Z"
+  },
+  {
+    "adminId": "admin_global_001",
+    "type": "BET_UPDATED",
+    "status": "COMPLETED",
+    "description": "Pariul \"Game hcp +6.5 (Daniel Dutra Da Silva) \" pentru Emilio Nava - Daniel Dutra Da Silva  a fost actualizat.",
+    "details": {
+      "betId": "bet_1757960566851_epzwk1j",
+      "groupId": "grp_1757960566851_0z0acef",
+      "changedFields": [
+        {
+          "fieldName": "Status",
+          "oldValue": "PENDING",
+          "newValue": "WON"
+        }
+      ]
+    },
+    "id": "txn_1758209409001_ampz61z",
+    "timestamp": "2025-09-18T15:30:09.001Z"
+  },
+  {
+    "adminId": "admin_global_001",
+    "type": "BET_UPDATED",
+    "status": "COMPLETED",
+    "description": "Pariul \"Asian hcp +2.5 (Nasaf Qarshi)\" pentru Al Ahli Jeddah - Nasaf Qarshi  a fost actualizat.",
+    "details": {
+      "betId": "bet_1757963423264_m0fpa3w",
+      "groupId": "grp_1757963423264_8ahchh2",
+      "changedFields": [
+        {
+          "fieldName": "Notițe",
+          "oldValue": "Nespecificat",
+          "newValue": "Scor: 4-2."
+        }
+      ]
+    },
+    "id": "txn_1758209382802_hvsebt7",
+    "timestamp": "2025-09-18T15:29:42.802Z"
+  },
+  {
+    "adminId": "admin_global_001",
+    "type": "BET_UPDATED",
+    "status": "COMPLETED",
+    "description": "Pariul \"Asian hcp +2.5 (Nasaf Qarshi)\" pentru Al Ahli Jeddah - Nasaf Qarshi  a fost actualizat.",
+    "details": {
+      "betId": "bet_1757963423264_m0fpa3w",
+      "groupId": "grp_1757963423264_8ahchh2",
+      "changedFields": [
+        {
+          "fieldName": "Status",
+          "oldValue": "PENDING",
+          "newValue": "VOID"
+        }
+      ]
+    },
+    "id": "txn_1758209349135_imy7tbz",
+    "timestamp": "2025-09-18T15:29:09.135Z"
+  },
+  {
+    "adminId": "admin_global_001",
+    "type": "BET_UPDATED",
+    "status": "COMPLETED",
+    "description": "Pariul \"Asian hcp -1.5 (Al Ahli Jeddah)\" pentru Al Ahli Jeddah - Nasaf Qarshi  a fost actualizat.",
+    "details": {
+      "betId": "bet_1757963423264_e24n5uj",
+      "groupId": "grp_1757963423264_8ahchh2",
+      "changedFields": [
+        {
+          "fieldName": "Status",
+          "oldValue": "PENDING",
+          "newValue": "WON"
+        }
+      ]
+    },
+    "id": "txn_1758209342420_lk9s2zr",
+    "timestamp": "2025-09-18T15:29:02.420Z"
+  },
+  {
     "id": "txn_invest_user_001_1",
     "timestamp": "2025-08-29T12:05:00.000Z",
     "userId": "user_001",
