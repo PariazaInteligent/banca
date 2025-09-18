@@ -1,2 +1,14 @@
-
-[]
+[
+  {
+    "day": 1,
+    "date": "2025-09-15",
+    "dailyGrossProfit": 42.22500000000001,
+    "turnover": 138.42000000000002,
+    "numBets": 6,
+    "totalBankValueStart": 1000,
+    "totalBankValueEnd": 1042.225,
+    "notes": "Zi generată automat din pariuri rezolvate.",
+    "distributedNetProfit": 42.22500000000001,
+    "collectedFees": 0
+  }
+]
