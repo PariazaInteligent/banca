@@ -13,8 +13,10 @@
     "id": "bet_1758213730895_lc9ja0x",
     "groupId": "grp_1758213730895_xx30qup",
     "betType": "VALUE",
-    "status": "PENDING",
-    "processedInDailyHistory": false
+    "status": "LOST",
+    "processedInDailyHistory": false,
+    "profit": -6,
+    "resolvedAt": "2025-09-19T16:39:10.651Z"
   },
   {
     "date": "2025-09-18",
@@ -35,8 +37,11 @@
     "id": "bet_1758213730895_cdumyn3",
     "groupId": "grp_1758213730895_xx30qup",
     "betType": "MIDDLE",
-    "status": "PENDING",
-    "processedInDailyHistory": false
+    "status": "WON",
+    "processedInDailyHistory": false,
+    "profit": 6.60066,
+    "resolvedAt": "2025-09-19T16:39:22.530Z",
+    "notes": "Scor: 1:2 (6:3,3:6,3:6)."
   },
   {
     "date": "2025-09-18",
@@ -52,8 +57,10 @@
     "id": "bet_1758213569409_oponf4h",
     "groupId": "grp_1758213569409_khs39s9",
     "betType": "VALUE",
-    "status": "PENDING",
-    "processedInDailyHistory": false
+    "status": "LOST",
+    "processedInDailyHistory": false,
+    "profit": -7,
+    "resolvedAt": "2025-09-19T16:40:57.164Z"
   },
   {
     "date": "2025-09-18",
@@ -74,8 +81,11 @@
     "id": "bet_1758213569409_6o77irf",
     "groupId": "grp_1758213569409_khs39s9",
     "betType": "MIDDLE",
-    "status": "PENDING",
-    "processedInDailyHistory": false
+    "status": "VOID",
+    "processedInDailyHistory": false,
+    "profit": 0,
+    "resolvedAt": "2025-09-19T16:40:59.982Z",
+    "notes": "Scor: 2:0 (6:3,6:4)."
   },
   {
     "date": "2025-09-18",
@@ -130,8 +140,10 @@
     "id": "bet_1758212959786_4lfm554",
     "groupId": "grp_1758212959786_4wgqiwg",
     "betType": "VALUE",
-    "status": "PENDING",
-    "processedInDailyHistory": false
+    "status": "LOST",
+    "processedInDailyHistory": false,
+    "profit": -12,
+    "resolvedAt": "2025-09-19T16:38:24.575Z"
   },
   {
     "date": "2025-09-18",
@@ -152,8 +164,11 @@
     "id": "bet_1758212959786_0grupwg",
     "groupId": "grp_1758212959786_4wgqiwg",
     "betType": "MIDDLE",
-    "status": "PENDING",
-    "processedInDailyHistory": false
+    "status": "WON",
+    "processedInDailyHistory": false,
+    "profit": 13.196400000000002,
+    "resolvedAt": "2025-09-19T16:38:37.850Z",
+    "notes": "Scor: 2:1 (6:7,6:3,7:6)."
   },
   {
     "date": "2025-09-18",
@@ -169,8 +184,10 @@
     "id": "bet_1758212496744_xeh125z",
     "groupId": "grp_1758212496744_nxfqt41",
     "betType": "VALUE",
-    "status": "PENDING",
-    "processedInDailyHistory": false
+    "status": "LOST",
+    "processedInDailyHistory": false,
+    "profit": -22,
+    "resolvedAt": "2025-09-19T16:41:28.039Z"
   },
   {
     "date": "2025-09-18",
@@ -191,8 +208,11 @@
     "id": "bet_1758212496744_tge7iyu",
     "groupId": "grp_1758212496744_nxfqt41",
     "betType": "MIDDLE",
-    "status": "PENDING",
-    "processedInDailyHistory": false
+    "status": "WON",
+    "processedInDailyHistory": false,
+    "profit": 24.195600000000002,
+    "resolvedAt": "2025-09-19T16:42:29.114Z",
+    "notes": "Scor: 5:3 (2:0,1:1,2:2)."
   },
   {
     "date": "2025-09-18",
@@ -208,8 +228,10 @@
     "id": "bet_1758212179760_6ppgul4",
     "groupId": "grp_1758212179760_9hkcich",
     "betType": "VALUE",
-    "status": "PENDING",
-    "processedInDailyHistory": false
+    "status": "LOST",
+    "processedInDailyHistory": false,
+    "profit": -7,
+    "resolvedAt": "2025-09-19T16:36:51.629Z"
   },
   {
     "date": "2025-09-18",
@@ -230,8 +252,11 @@
     "id": "bet_1758212179760_a4q4rbl",
     "groupId": "grp_1758212179760_9hkcich",
     "betType": "MIDDLE",
-    "status": "PENDING",
-    "processedInDailyHistory": false
+    "status": "VOID",
+    "processedInDailyHistory": false,
+    "profit": 0,
+    "resolvedAt": "2025-09-19T16:36:55.687Z",
+    "notes": "Scor: 1:2 (1:6,6:3,2:6)."
   },
   {
     "date": "2025-09-18",
@@ -325,8 +350,10 @@
     "id": "bet_1758211484673_vwfkuc8",
     "groupId": "grp_1758211484673_nwrnwfy",
     "betType": "VALUE",
-    "status": "PENDING",
-    "processedInDailyHistory": false
+    "status": "LOST",
+    "processedInDailyHistory": false,
+    "profit": -20,
+    "resolvedAt": "2025-09-19T16:40:00.597Z"
   },
   {
     "date": "2025-09-18",
@@ -347,8 +374,11 @@
     "id": "bet_1758211484673_8otiqz6",
     "groupId": "grp_1758211484673_nwrnwfy",
     "betType": "MIDDLE",
-    "status": "PENDING",
-    "processedInDailyHistory": false
+    "status": "VOID",
+    "processedInDailyHistory": false,
+    "profit": 0,
+    "resolvedAt": "2025-09-19T16:40:04.330Z",
+    "notes": "Scor: 2:1 (4:6,6:2,6:3)."
   },
   {
     "date": "2025-09-18",
@@ -364,8 +394,10 @@
     "id": "bet_1758210802448_rsj86yo",
     "groupId": "grp_1758210802448_bod83zr",
     "betType": "VALUE",
-    "status": "PENDING",
-    "processedInDailyHistory": false
+    "status": "WON",
+    "processedInDailyHistory": false,
+    "profit": 37.410000000000004,
+    "resolvedAt": "2025-09-19T16:37:38.947Z"
   },
   {
     "date": "2025-09-18",
@@ -386,8 +418,11 @@
     "id": "bet_1758210802448_k39oubh",
     "groupId": "grp_1758210802448_bod83zr",
     "betType": "MIDDLE",
-    "status": "PENDING",
-    "processedInDailyHistory": false
+    "status": "LOST",
+    "processedInDailyHistory": false,
+    "profit": -33.11,
+    "resolvedAt": "2025-09-19T16:37:49.478Z",
+    "notes": "Scor: 3:0 (0:0,3:0)."
   },
   {
     "date": "2025-09-18",
@@ -442,8 +477,10 @@
     "id": "bet_1758210100586_bka1ryz",
     "groupId": "grp_1758210100586_tm6f10y",
     "betType": "VALUE",
-    "status": "PENDING",
-    "processedInDailyHistory": false
+    "status": "WON",
+    "processedInDailyHistory": false,
+    "profit": 35.040000000000006,
+    "resolvedAt": "2025-09-19T16:34:16.924Z"
   },
   {
     "date": "2025-09-18",
@@ -464,8 +501,11 @@
     "id": "bet_1758210100586_ynsqu2l",
     "groupId": "grp_1758210100586_tm6f10y",
     "betType": "MIDDLE",
-    "status": "PENDING",
-    "processedInDailyHistory": false
+    "status": "LOST",
+    "processedInDailyHistory": false,
+    "profit": -31.84,
+    "resolvedAt": "2025-09-19T16:35:33.579Z",
+    "notes": "Scor: 1:2 (4:6,6:2,4:6)."
   },
   {
     "date": "2025-09-15",
