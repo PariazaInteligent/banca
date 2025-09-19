@@ -2,6 +2,7 @@
   {
     "id": "admin_global_001",
     "email": "admin@pariazainteligent.ro",
+    "password": "admin",
     "role": "ADMIN",
     "name": "Admin Principal",
     "avatar": "https://i.ibb.co/zgtmkSY/IMG-4094-1.webp",
@@ -14,8 +15,7 @@
       "investmentHistory": [],
       "badges": []
     },
-    "adminPermissions": {},
-    "lastLogin": "2025-09-19T16:57:52.082Z"
+    "adminPermissions": {}
   },
   {
     "id": "user_001",
