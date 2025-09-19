@@ -3,6 +3,315 @@
     "adminId": "admin_global_001",
     "type": "BET_UPDATED",
     "status": "COMPLETED",
+    "description": "Pariul \"Handicap Ponnistajat (+1.5) - Repriza 1\" pentru Atlantis PM - Ponnistajat  a fost actualizat.",
+    "details": {
+      "betId": "bet_1758213254009_pv7c8ow",
+      "groupId": "grp_1758213254009_8vwtkp4",
+      "changedFields": [
+        {
+          "fieldName": "Notițe",
+          "oldValue": "Nespecificat",
+          "newValue": "Scor: 5:0."
+        }
+      ]
+    },
+    "id": "txn_1758301655958_lr7m7f3",
+    "timestamp": "2025-09-19T17:07:35.958Z"
+  },
+  {
+    "adminId": "admin_global_001",
+    "type": "BET_UPDATED",
+    "status": "COMPLETED",
+    "description": "Pariul \"Handicap Ponnistajat (+1.5) - Repriza 1\" pentru Atlantis PM - Ponnistajat  a fost actualizat.",
+    "details": {
+      "betId": "bet_1758213254009_pv7c8ow",
+      "groupId": "grp_1758213254009_8vwtkp4",
+      "changedFields": [
+        {
+          "fieldName": "Status",
+          "oldValue": "PENDING",
+          "newValue": "VOID"
+        }
+      ]
+    },
+    "id": "txn_1758301643745_r5s99h5",
+    "timestamp": "2025-09-19T17:07:23.745Z"
+  },
+  {
+    "adminId": "admin_global_001",
+    "type": "BET_UPDATED",
+    "status": "COMPLETED",
+    "description": "Pariul \"Handicap Atlantis PM (-1) - Repriza 1\" pentru Atlantis PM - Ponnistajat  a fost actualizat.",
+    "details": {
+      "betId": "bet_1758213254009_uchw2pv",
+      "groupId": "grp_1758213254009_8vwtkp4",
+      "changedFields": [
+        {
+          "fieldName": "Status",
+          "oldValue": "PENDING",
+          "newValue": "WON"
+        }
+      ]
+    },
+    "id": "txn_1758301639891_ntk1aid",
+    "timestamp": "2025-09-19T17:07:19.891Z"
+  },
+  {
+    "adminId": "admin_global_001",
+    "type": "BET_UPDATED",
+    "status": "COMPLETED",
+    "description": "Pariul \"Handicap New York Mets (+1.5)\" pentru New York Mets - San Diego Padres a fost actualizat.",
+    "details": {
+      "betId": "bet_1758210435638_t6vep2x",
+      "groupId": "grp_1758210435638_spp61yf",
+      "changedFields": [
+        {
+          "fieldName": "Notițe",
+          "oldValue": "Nespecificat",
+          "newValue": "Scor: 6:1 (1:0,0:0,4:1,0:0,0:0,0:0,1:0,0:0,0:0)."
+        }
+      ]
+    },
+    "id": "txn_1758301612874_t4nalie",
+    "timestamp": "2025-09-19T17:06:52.874Z"
+  },
+  {
+    "adminId": "admin_global_001",
+    "type": "BET_UPDATED",
+    "status": "COMPLETED",
+    "description": "Pariul \"Handicap New York Mets (+1.5)\" pentru New York Mets - San Diego Padres a fost actualizat.",
+    "details": {
+      "betId": "bet_1758210435638_t6vep2x",
+      "groupId": "grp_1758210435638_spp61yf",
+      "changedFields": [
+        {
+          "fieldName": "Status",
+          "oldValue": "PENDING",
+          "newValue": "VOID"
+        }
+      ]
+    },
+    "id": "txn_1758301601592_pdereup",
+    "timestamp": "2025-09-19T17:06:41.592Z"
+  },
+  {
+    "adminId": "admin_global_001",
+    "type": "BET_UPDATED",
+    "status": "COMPLETED",
+    "description": "Pariul \"Handicap San Diego Padres (-1)\" pentru New York Mets - San Diego Padres a fost actualizat.",
+    "details": {
+      "betId": "bet_1758210435638_1norviz",
+      "groupId": "grp_1758210435638_spp61yf",
+      "changedFields": [
+        {
+          "fieldName": "Status",
+          "oldValue": "PENDING",
+          "newValue": "LOST"
+        }
+      ]
+    },
+    "id": "txn_1758301598629_y1sgrx5",
+    "timestamp": "2025-09-19T17:06:38.629Z"
+  },
+  {
+    "adminId": "admin_global_001",
+    "type": "BET_UPDATED",
+    "status": "COMPLETED",
+    "description": "Pariul \"Handicap KSC Szekszard (Femei) (-10.5)\" pentru DSK Brandys (Femei) - KSC Szekszard (Femei) a fost actualizat.",
+    "details": {
+      "betId": "bet_1758211743072_9zvwhp0",
+      "groupId": "grp_1758211743072_0wk2p64",
+      "changedFields": [
+        {
+          "fieldName": "Notițe",
+          "oldValue": "",
+          "newValue": "Scor: 69:81 (19:16,19:17,16:30,15:18)."
+        }
+      ]
+    },
+    "id": "txn_1758301554375_r6qlsms",
+    "timestamp": "2025-09-19T17:05:54.375Z"
+  },
+  {
+    "adminId": "admin_global_001",
+    "type": "BET_UPDATED",
+    "status": "COMPLETED",
+    "description": "Pariul \"Handicap KSC Szekszard (Femei) (-10.5)\" pentru DSK Brandys (Femei) - KSC Szekszard (Femei) a fost actualizat.",
+    "details": {
+      "betId": "bet_1758211743072_9zvwhp0",
+      "groupId": "grp_1758211743072_0wk2p64",
+      "changedFields": [
+        {
+          "fieldName": "Status",
+          "oldValue": "PENDING",
+          "newValue": "WON"
+        }
+      ]
+    },
+    "id": "txn_1758301544128_imuhgyw",
+    "timestamp": "2025-09-19T17:05:44.128Z"
+  },
+  {
+    "adminId": "admin_global_001",
+    "type": "BET_UPDATED",
+    "status": "COMPLETED",
+    "description": "Pariul \"Handicap KSC Szekszard (Femei) (-10.5)\" pentru DSK Brandys (Femei) - KSC Szekszard (Femei) a fost actualizat.",
+    "details": {
+      "betId": "bet_1758211743072_9zvwhp0",
+      "groupId": "grp_1758211743072_0wk2p64",
+      "changedFields": [
+        {
+          "fieldName": "Cotă",
+          "oldValue": 2.771,
+          "newValue": 3.12
+        },
+        {
+          "fieldName": "Notițe",
+          "oldValue": "Nespecificat",
+          "newValue": ""
+        }
+      ]
+    },
+    "id": "txn_1758301521989_j82z64h",
+    "timestamp": "2025-09-19T17:05:21.989Z"
+  },
+  {
+    "adminId": "admin_global_001",
+    "type": "BET_UPDATED",
+    "status": "COMPLETED",
+    "description": "Pariul \"Handicap DSK Brandys (Femei) (16.5)\" pentru DSK Brandys (Femei) - KSC Szekszard (Femei) a fost actualizat.",
+    "details": {
+      "betId": "bet_1758211743072_faxrpj2",
+      "groupId": "grp_1758211743072_0wk2p64",
+      "changedFields": [
+        {
+          "fieldName": "Status",
+          "oldValue": "PENDING",
+          "newValue": "WON"
+        }
+      ]
+    },
+    "id": "txn_1758301492898_plj6esd",
+    "timestamp": "2025-09-19T17:04:52.898Z"
+  },
+  {
+    "adminId": "admin_global_001",
+    "type": "BET_UPDATED",
+    "status": "COMPLETED",
+    "description": "Pariul \"Total Sub (4.5)\" pentru Tampereen Pallo-Veikot II - Lasten a fost actualizat.",
+    "details": {
+      "betId": "bet_1758211912065_qz6l5wc",
+      "groupId": "grp_1758211912065_x5l44uk",
+      "changedFields": [
+        {
+          "fieldName": "Notițe",
+          "oldValue": "Nespecificat",
+          "newValue": "Scor: 0:1 (0:0,0:1)."
+        }
+      ]
+    },
+    "id": "txn_1758301449725_baagjvl",
+    "timestamp": "2025-09-19T17:04:09.725Z"
+  },
+  {
+    "adminId": "admin_global_001",
+    "type": "BET_UPDATED",
+    "status": "COMPLETED",
+    "description": "Pariul \"Total Sub (4.5)\" pentru Tampereen Pallo-Veikot II - Lasten a fost actualizat.",
+    "details": {
+      "betId": "bet_1758211912065_qz6l5wc",
+      "groupId": "grp_1758211912065_x5l44uk",
+      "changedFields": [
+        {
+          "fieldName": "Status",
+          "oldValue": "PENDING",
+          "newValue": "VOID"
+        }
+      ]
+    },
+    "id": "txn_1758301377293_1fpmoz2",
+    "timestamp": "2025-09-19T17:02:57.293Z"
+  },
+  {
+    "adminId": "admin_global_001",
+    "type": "BET_UPDATED",
+    "status": "COMPLETED",
+    "description": "Pariul \"Total Peste (3.5)\" pentru Tampereen Pallo-Veikot II - Lasten a fost actualizat.",
+    "details": {
+      "betId": "bet_1758211912065_m9cpvhh",
+      "groupId": "grp_1758211912065_x5l44uk",
+      "changedFields": [
+        {
+          "fieldName": "Status",
+          "oldValue": "PENDING",
+          "newValue": "LOST"
+        }
+      ]
+    },
+    "id": "txn_1758301375144_067rumi",
+    "timestamp": "2025-09-19T17:02:55.144Z"
+  },
+  {
+    "adminId": "admin_global_001",
+    "type": "BET_UPDATED",
+    "status": "COMPLETED",
+    "description": "Pariul \"Khololwam Montsi +3.5 jocuri\" pentru Noah Zamora - Khololwam Montsi a fost actualizat.",
+    "details": {
+      "betId": "bet_1758213730895_cdumyn3",
+      "groupId": "grp_1758213730895_xx30qup",
+      "changedFields": [
+        {
+          "fieldName": "Cotă",
+          "oldValue": 1.803,
+          "newValue": 1.816
+        }
+      ]
+    },
+    "id": "txn_1758301323805_s2ao4x3",
+    "timestamp": "2025-09-19T17:02:03.805Z"
+  },
+  {
+    "adminId": "admin_global_001",
+    "type": "BET_UPDATED",
+    "status": "COMPLETED",
+    "description": "Pariul \"Sebastian Eriksson castiga\" pentru Sebastian Eriksson - Micah Braswell a fost actualizat.",
+    "details": {
+      "betId": "bet_1758212959786_0grupwg",
+      "groupId": "grp_1758212959786_4wgqiwg",
+      "changedFields": [
+        {
+          "fieldName": "Cotă",
+          "oldValue": 2.571,
+          "newValue": 2.77
+        }
+      ]
+    },
+    "id": "txn_1758301262939_ymldooq",
+    "timestamp": "2025-09-19T17:01:02.939Z"
+  },
+  {
+    "adminId": "admin_global_001",
+    "type": "BET_UPDATED",
+    "status": "COMPLETED",
+    "description": "Pariul \"Total Peste (5.5)\" pentru Storhamar Dragons - Lillehammer a fost actualizat.",
+    "details": {
+      "betId": "bet_1758212496744_tge7iyu",
+      "groupId": "grp_1758212496744_nxfqt41",
+      "changedFields": [
+        {
+          "fieldName": "Cotă",
+          "oldValue": 2.41,
+          "newValue": 2.45
+        }
+      ]
+    },
+    "id": "txn_1758301103855_deguhcl",
+    "timestamp": "2025-09-19T16:58:23.855Z"
+  },
+  {
+    "adminId": "admin_global_001",
+    "type": "BET_UPDATED",
+    "status": "COMPLETED",
     "description": "Pariul \"Patrick Maloney +1.5 seturi\" pentru Petr Brunclik - Patrick Maloney  a fost actualizat.",
     "details": {
       "betId": "bet_1757964658039_oglucv4",
