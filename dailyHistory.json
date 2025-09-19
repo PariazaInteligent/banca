@@ -10,5 +10,17 @@
     "notes": "Zi generată automat din pariuri rezolvate.",
     "distributedNetProfit": 42.22500000000001,
     "collectedFees": 0
+  },
+  {
+    "day": 2,
+    "date": "2025-09-18",
+    "dailyGrossProfit": 62.566520000000025,
+    "turnover": 466.61,
+    "numBets": 24,
+    "totalBankValueStart": 1042.225,
+    "totalBankValueEnd": 1104.79152,
+    "notes": "Zi generată automat din pariuri rezolvate.",
+    "distributedNetProfit": 62.566520000000025,
+    "collectedFees": 0
   }
 ]
