@@ -14,32 +14,32 @@
     "groupId": "grp_1758213730895_xx30qup",
     "betType": "VALUE",
     "status": "LOST",
-    "processedInDailyHistory": false,
+    "processedInDailyHistory": true,
     "profit": -6,
     "resolvedAt": "2025-09-19T16:39:10.651Z"
   },
   {
     "date": "2025-09-18",
-    "eventTimestamp": "2025-09-18T18:25",
+    "eventTimestamp": "2025-09-18T16:25",
     "sport": "Tenis",
     "league": "ITF. Fayetteville",
     "event": "Noah Zamora - Khololwam Montsi",
     "createdByAdminId": "admin_global_001",
     "market": "Khololwam Montsi +3.5 jocuri",
     "selection": "Khololwam Montsi +3.5 jocuri",
-    "odds": 1.803,
+    "odds": 1.816,
     "stake": 8.22,
     "middleDetails": {
       "p1": 0.5999999999999996,
-      "p2": 0.5999999999999996,
-      "pb": 15.42
+      "p2": 0.7075200000000006,
+      "pb": 15.52752
     },
     "id": "bet_1758213730895_cdumyn3",
     "groupId": "grp_1758213730895_xx30qup",
     "betType": "MIDDLE",
     "status": "WON",
-    "processedInDailyHistory": false,
-    "profit": 6.60066,
+    "processedInDailyHistory": true,
+    "profit": 6.707520000000001,
     "resolvedAt": "2025-09-19T16:39:22.530Z",
     "notes": "Scor: 1:2 (6:3,3:6,3:6)."
   },
@@ -58,7 +58,7 @@
     "groupId": "grp_1758213569409_khs39s9",
     "betType": "VALUE",
     "status": "LOST",
-    "processedInDailyHistory": false,
+    "processedInDailyHistory": true,
     "profit": -7,
     "resolvedAt": "2025-09-19T16:40:57.164Z"
   },
@@ -82,7 +82,7 @@
     "groupId": "grp_1758213569409_khs39s9",
     "betType": "MIDDLE",
     "status": "VOID",
-    "processedInDailyHistory": false,
+    "processedInDailyHistory": true,
     "profit": 0,
     "resolvedAt": "2025-09-19T16:40:59.982Z",
     "notes": "Scor: 2:0 (6:3,6:4)."
@@ -101,8 +101,10 @@
     "id": "bet_1758213254009_uchw2pv",
     "groupId": "grp_1758213254009_8vwtkp4",
     "betType": "VALUE",
-    "status": "PENDING",
-    "processedInDailyHistory": false
+    "status": "WON",
+    "processedInDailyHistory": true,
+    "profit": 26.909999999999997,
+    "resolvedAt": "2025-09-19T17:07:19.891Z"
   },
   {
     "date": "2025-09-18",
@@ -123,8 +125,11 @@
     "id": "bet_1758213254009_pv7c8ow",
     "groupId": "grp_1758213254009_8vwtkp4",
     "betType": "MIDDLE",
-    "status": "PENDING",
-    "processedInDailyHistory": false
+    "status": "VOID",
+    "processedInDailyHistory": true,
+    "profit": 0,
+    "resolvedAt": "2025-09-19T17:07:23.745Z",
+    "notes": "Scor: 5:0."
   },
   {
     "date": "2025-09-18",
@@ -141,32 +146,32 @@
     "groupId": "grp_1758212959786_4wgqiwg",
     "betType": "VALUE",
     "status": "LOST",
-    "processedInDailyHistory": false,
+    "processedInDailyHistory": true,
     "profit": -12,
     "resolvedAt": "2025-09-19T16:38:24.575Z"
   },
   {
     "date": "2025-09-18",
-    "eventTimestamp": "2025-09-18T18:25",
+    "eventTimestamp": "2025-09-18T16:25",
     "sport": "Tenis",
     "league": "ITF. Fayetteville",
     "event": "Sebastian Eriksson - Micah Braswell",
     "createdByAdminId": "admin_global_001",
     "market": "Sebastian Eriksson castiga",
     "selection": "Sebastian Eriksson castiga",
-    "odds": 2.571,
+    "odds": 2.77,
     "stake": 8.4,
     "middleDetails": {
       "p1": 1.200000000000001,
-      "p2": 1.1999999999999993,
-      "pb": 22.8
+      "p2": 2.8680000000000003,
+      "pb": 24.468000000000004
     },
     "id": "bet_1758212959786_0grupwg",
     "groupId": "grp_1758212959786_4wgqiwg",
     "betType": "MIDDLE",
     "status": "WON",
-    "processedInDailyHistory": false,
-    "profit": 13.196400000000002,
+    "processedInDailyHistory": true,
+    "profit": 14.868,
     "resolvedAt": "2025-09-19T16:38:37.850Z",
     "notes": "Scor: 2:1 (6:7,6:3,7:6)."
   },
@@ -185,32 +190,32 @@
     "groupId": "grp_1758212496744_nxfqt41",
     "betType": "VALUE",
     "status": "LOST",
-    "processedInDailyHistory": false,
+    "processedInDailyHistory": true,
     "profit": -22,
     "resolvedAt": "2025-09-19T16:41:28.039Z"
   },
   {
     "date": "2025-09-18",
-    "eventTimestamp": "2025-09-18T19:30",
+    "eventTimestamp": "2025-09-18T17:30",
     "sport": "Hochei pe gheață",
     "league": "Campionatul Norvegiei. Eliteserien",
     "event": "Storhamar Dragons - Lillehammer",
     "createdByAdminId": "admin_global_001",
     "market": "Total Peste (5.5)",
     "selection": "Total Peste (5.5)",
-    "odds": 2.41,
+    "odds": 2.45,
     "stake": 17.16,
     "middleDetails": {
       "p1": 2.1999999999999993,
-      "p2": 2.1999999999999993,
-      "pb": 43.56
+      "p2": 2.882000000000005,
+      "pb": 44.242000000000004
     },
     "id": "bet_1758212496744_tge7iyu",
     "groupId": "grp_1758212496744_nxfqt41",
     "betType": "MIDDLE",
     "status": "WON",
-    "processedInDailyHistory": false,
-    "profit": 24.195600000000002,
+    "processedInDailyHistory": true,
+    "profit": 24.882000000000005,
     "resolvedAt": "2025-09-19T16:42:29.114Z",
     "notes": "Scor: 5:3 (2:0,1:1,2:2)."
   },
@@ -229,7 +234,7 @@
     "groupId": "grp_1758212179760_9hkcich",
     "betType": "VALUE",
     "status": "LOST",
-    "processedInDailyHistory": false,
+    "processedInDailyHistory": true,
     "profit": -7,
     "resolvedAt": "2025-09-19T16:36:51.629Z"
   },
@@ -253,7 +258,7 @@
     "groupId": "grp_1758212179760_9hkcich",
     "betType": "MIDDLE",
     "status": "VOID",
-    "processedInDailyHistory": false,
+    "processedInDailyHistory": true,
     "profit": 0,
     "resolvedAt": "2025-09-19T16:36:55.687Z",
     "notes": "Scor: 1:2 (1:6,6:3,2:6)."
@@ -272,8 +277,10 @@
     "id": "bet_1758211912065_m9cpvhh",
     "groupId": "grp_1758211912065_x5l44uk",
     "betType": "VALUE",
-    "status": "PENDING",
-    "processedInDailyHistory": false
+    "status": "LOST",
+    "processedInDailyHistory": true,
+    "profit": -30,
+    "resolvedAt": "2025-09-19T17:02:55.144Z"
   },
   {
     "date": "2025-09-18",
@@ -294,8 +301,11 @@
     "id": "bet_1758211912065_qz6l5wc",
     "groupId": "grp_1758211912065_x5l44uk",
     "betType": "MIDDLE",
-    "status": "PENDING",
-    "processedInDailyHistory": false
+    "status": "VOID",
+    "processedInDailyHistory": true,
+    "profit": 0,
+    "resolvedAt": "2025-09-19T17:02:57.293Z",
+    "notes": "Scor: 0:1 (0:0,0:1)."
   },
   {
     "date": "2025-09-18",
@@ -311,30 +321,35 @@
     "id": "bet_1758211743072_faxrpj2",
     "groupId": "grp_1758211743072_0wk2p64",
     "betType": "VALUE",
-    "status": "PENDING",
-    "processedInDailyHistory": false
+    "status": "WON",
+    "processedInDailyHistory": true,
+    "profit": 32.44500000000001,
+    "resolvedAt": "2025-09-19T17:04:52.897Z"
   },
   {
     "date": "2025-09-18",
-    "eventTimestamp": "2025-09-18T20:00",
+    "eventTimestamp": "2025-09-18T18:00",
     "sport": "Baschet",
     "league": "Cupa Europei. Feme",
     "event": "DSK Brandys (Femei) - KSC Szekszard (Femei)",
     "createdByAdminId": "admin_global_001",
     "market": "Handicap KSC Szekszard (Femei) (-10.5)",
     "selection": "Handicap KSC Szekszard (Femei) (-10.5)",
-    "odds": 2.771,
+    "odds": 3.12,
     "stake": 27.95,
     "middleDetails": {
-      "p1": 4.5,
-      "p2": 4.5,
-      "pb": 81.94500000000001
+      "p1": 4.495000000000008,
+      "p2": 14.254000000000005,
+      "pb": 91.69900000000001
     },
     "id": "bet_1758211743072_9zvwhp0",
     "groupId": "grp_1758211743072_0wk2p64",
     "betType": "MIDDLE",
-    "status": "PENDING",
-    "processedInDailyHistory": false
+    "status": "WON",
+    "processedInDailyHistory": true,
+    "notes": "Scor: 69:81 (19:16,19:17,16:30,15:18).",
+    "profit": 59.254000000000005,
+    "resolvedAt": "2025-09-19T17:05:44.128Z"
   },
   {
     "date": "2025-09-18",
@@ -351,7 +366,7 @@
     "groupId": "grp_1758211484673_nwrnwfy",
     "betType": "VALUE",
     "status": "LOST",
-    "processedInDailyHistory": false,
+    "processedInDailyHistory": true,
     "profit": -20,
     "resolvedAt": "2025-09-19T16:40:00.597Z"
   },
@@ -375,7 +390,7 @@
     "groupId": "grp_1758211484673_nwrnwfy",
     "betType": "MIDDLE",
     "status": "VOID",
-    "processedInDailyHistory": false,
+    "processedInDailyHistory": true,
     "profit": 0,
     "resolvedAt": "2025-09-19T16:40:04.330Z",
     "notes": "Scor: 2:1 (4:6,6:2,6:3)."
@@ -395,7 +410,7 @@
     "groupId": "grp_1758210802448_bod83zr",
     "betType": "VALUE",
     "status": "WON",
-    "processedInDailyHistory": false,
+    "processedInDailyHistory": true,
     "profit": 37.410000000000004,
     "resolvedAt": "2025-09-19T16:37:38.947Z"
   },
@@ -419,7 +434,7 @@
     "groupId": "grp_1758210802448_bod83zr",
     "betType": "MIDDLE",
     "status": "LOST",
-    "processedInDailyHistory": false,
+    "processedInDailyHistory": true,
     "profit": -33.11,
     "resolvedAt": "2025-09-19T16:37:49.478Z",
     "notes": "Scor: 3:0 (0:0,3:0)."
@@ -438,8 +453,10 @@
     "id": "bet_1758210435638_1norviz",
     "groupId": "grp_1758210435638_spp61yf",
     "betType": "VALUE",
-    "status": "PENDING",
-    "processedInDailyHistory": false
+    "status": "LOST",
+    "processedInDailyHistory": true,
+    "profit": -6,
+    "resolvedAt": "2025-09-19T17:06:38.628Z"
   },
   {
     "date": "2025-09-18",
@@ -460,8 +477,11 @@
     "id": "bet_1758210435638_t6vep2x",
     "groupId": "grp_1758210435638_spp61yf",
     "betType": "MIDDLE",
-    "status": "PENDING",
-    "processedInDailyHistory": false
+    "status": "VOID",
+    "processedInDailyHistory": true,
+    "profit": 0,
+    "resolvedAt": "2025-09-19T17:06:41.592Z",
+    "notes": "Scor: 6:1 (1:0,0:0,4:1,0:0,0:0,0:0,1:0,0:0,0:0)."
   },
   {
     "date": "2025-09-18",
@@ -478,7 +498,7 @@
     "groupId": "grp_1758210100586_tm6f10y",
     "betType": "VALUE",
     "status": "WON",
-    "processedInDailyHistory": false,
+    "processedInDailyHistory": true,
     "profit": 35.040000000000006,
     "resolvedAt": "2025-09-19T16:34:16.924Z"
   },
@@ -502,7 +522,7 @@
     "groupId": "grp_1758210100586_tm6f10y",
     "betType": "MIDDLE",
     "status": "LOST",
-    "processedInDailyHistory": false,
+    "processedInDailyHistory": true,
     "profit": -31.84,
     "resolvedAt": "2025-09-19T16:35:33.579Z",
     "notes": "Scor: 1:2 (4:6,6:2,4:6)."
