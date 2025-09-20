@@ -13,23 +13,7 @@
       "totalProfitEarned": 0,
       "joinDate": "2025-08-28T10:00:00.000Z",
       "investmentHistory": [],
-      "badges": [
-        {
-          "badgeType": "PLATFORM_VETERAN_30_DAYS",
-          "earnedAt": "2025-09-28T10:00:00.000Z",
-          "details": "Activ de peste 30 de zile"
-        },
-        {
-          "badgeType": "REFERRAL_MADE",
-          "earnedAt": "2025-09-15T14:30:00.000Z",
-          "details": "A recomandat un utilizator nou"
-        },
-        {
-          "badgeType": "GOAL_ACHIEVER",
-          "earnedAt": "2025-09-20T11:00:00.000Z",
-          "details": "A atins obiectivul 'Lansare Platformă'"
-        }
-      ]
+      "badges": []
     },
     "adminPermissions": {}
   },
@@ -72,23 +56,23 @@
       ],
       "badges": [
         {
+          "badgeType": "FIRST_PROFIT",
+          "earnedAt": "2025-09-18T15:32:20.776Z",
+          "details": "Primul profit obținut"
+        },
+        {
+          "badgeType": "MILESTONE_INVESTMENT_1K",
+          "earnedAt": "2025-08-29T12:05:00.000Z",
+          "details": "Total investit a depășit 1,000 EUR"
+        },
+        {
           "badgeType": "PLATFORM_VETERAN_30_DAYS",
-          "earnedAt": "2025-09-28T10:00:00.000Z",
+          "earnedAt": "2025-09-28T12:00:00.000Z",
           "details": "Activ de peste 30 de zile"
-        },
-        {
-          "badgeType": "REFERRAL_MADE",
-          "earnedAt": "2025-09-15T14:30:00.000Z",
-          "details": "A recomandat un utilizator nou"
-        },
-        {
-          "badgeType": "GOAL_ACHIEVER",
-          "earnedAt": "2025-09-20T11:00:00.000Z",
-          "details": "A atins obiectivul 'Lansare Platformă'"
         }
-      ]
-    },
-    "adminPermissions": {}
+      ],
+      "dashboardWidgetsConfig": []
+    }
   },
   {
     "id": "user_1750184862661_2r7nzea",
