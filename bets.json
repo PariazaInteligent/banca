@@ -1,5 +1,46 @@
 [
   {
+    "date": "2025-09-21",
+    "eventTimestamp": "2025-09-21T21:30",
+    "sport": "Fotbal",
+    "league": "Liga FUTVE 2 2025",
+    "event": "Monagas II - Deportivo Miranda FC ",
+    "createdByAdminId": "admin_global_001",
+    "notes": "",
+    "market": "Over 2 ",
+    "selection": "Over 2 ",
+    "odds": 1.67,
+    "stake": 131,
+    "id": "bet_1758483176899_xsyta07",
+    "groupId": "grp_1758483176899_zm3mmv1",
+    "betType": "VALUE",
+    "status": "PENDING",
+    "processedInDailyHistory": false
+  },
+  {
+    "date": "2025-09-21",
+    "eventTimestamp": "2025-09-21T21:30",
+    "sport": "Fotbal",
+    "league": "Liga FUTVE 2 2025",
+    "event": "Monagas II - Deportivo Miranda FC ",
+    "createdByAdminId": "admin_global_001",
+    "notes": "",
+    "market": "Under 2.5 goluri",
+    "selection": "Under 2.5 goluri",
+    "odds": 2.93,
+    "stake": 74.67,
+    "middleDetails": {
+      "p1": 13.100000000000009,
+      "p2": 13.099999999999994,
+      "pb": 231.87
+    },
+    "id": "bet_1758483176899_5n4zd18",
+    "groupId": "grp_1758483176899_zm3mmv1",
+    "betType": "MIDDLE",
+    "status": "PENDING",
+    "processedInDailyHistory": false
+  },
+  {
     "date": "2025-09-19",
     "eventTimestamp": "2025-09-19T21:45",
     "sport": "Fotbal",
