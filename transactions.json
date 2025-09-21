@@ -3,6 +3,429 @@
     "adminId": "admin_global_001",
     "type": "BET_UPDATED",
     "status": "COMPLETED",
+    "description": "Pariul \"Handicap Mantova (+1)\" pentru Mantova - Modena a fost actualizat.",
+    "details": {
+      "betId": "bet_1758308944370_tuav5kf",
+      "groupId": "grp_1758308944370_3h7n4jl",
+      "changedFields": [
+        {
+          "fieldName": "Notițe",
+          "oldValue": "Nespecificat",
+          "newValue": "Scor: 1:3 (1:2,0:1)."
+        }
+      ]
+    },
+    "id": "txn_1758464129995_n863anh",
+    "timestamp": "2025-09-21T14:15:29.995Z"
+  },
+  {
+    "adminId": "admin_global_001",
+    "type": "BET_UPDATED",
+    "status": "COMPLETED",
+    "description": "Pariul \"Handicap Mantova (+1)\" pentru Mantova - Modena a fost actualizat.",
+    "details": {
+      "betId": "bet_1758308944370_tuav5kf",
+      "groupId": "grp_1758308944370_3h7n4jl",
+      "changedFields": [
+        {
+          "fieldName": "Status",
+          "oldValue": "PENDING",
+          "newValue": "LOST"
+        }
+      ]
+    },
+    "id": "txn_1758464118897_i191z79",
+    "timestamp": "2025-09-21T14:15:18.897Z"
+  },
+  {
+    "adminId": "admin_global_001",
+    "type": "BET_UPDATED",
+    "status": "COMPLETED",
+    "description": "Pariul \"Handicap Modena (0)\" pentru Mantova - Modena a fost actualizat.",
+    "details": {
+      "betId": "bet_1758308944370_uksqj95",
+      "groupId": "grp_1758308944370_3h7n4jl",
+      "changedFields": [
+        {
+          "fieldName": "Status",
+          "oldValue": "PENDING",
+          "newValue": "WON"
+        }
+      ]
+    },
+    "id": "txn_1758464102793_kf5a4j5",
+    "timestamp": "2025-09-21T14:15:02.793Z"
+  },
+  {
+    "adminId": "admin_global_001",
+    "type": "BET_UPDATED",
+    "status": "COMPLETED",
+    "description": "Pariul \"Egal\" pentru Leganes - Las Palmas a fost actualizat.",
+    "details": {
+      "betId": "bet_1758311360806_iatbsg1",
+      "groupId": "grp_1758311360806_4yxprhh",
+      "changedFields": [
+        {
+          "fieldName": "Notițe",
+          "oldValue": "Nespecificat",
+          "newValue": "Scor: 0:1 (0:0,0:1)."
+        }
+      ]
+    },
+    "id": "txn_1758464078296_vpgtwjs",
+    "timestamp": "2025-09-21T14:14:38.296Z"
+  },
+  {
+    "adminId": "admin_global_001",
+    "type": "BET_UPDATED",
+    "status": "COMPLETED",
+    "description": "Pariul \"Egal\" pentru Leganes - Las Palmas a fost actualizat.",
+    "details": {
+      "betId": "bet_1758311360806_iatbsg1",
+      "groupId": "grp_1758311360806_4yxprhh",
+      "changedFields": [
+        {
+          "fieldName": "Status",
+          "oldValue": "PENDING",
+          "newValue": "LOST"
+        }
+      ]
+    },
+    "id": "txn_1758464067931_nlr5ilk",
+    "timestamp": "2025-09-21T14:14:27.931Z"
+  },
+  {
+    "adminId": "admin_global_001",
+    "type": "BET_UPDATED",
+    "status": "COMPLETED",
+    "description": "Pariul \"Leganes sau Las Palmas câștigă\" pentru Leganes - Las Palmas a fost actualizat.",
+    "details": {
+      "betId": "bet_1758311360806_qj9kk90",
+      "groupId": "grp_1758311360806_4yxprhh",
+      "changedFields": [
+        {
+          "fieldName": "Status",
+          "oldValue": "PENDING",
+          "newValue": "WON"
+        }
+      ]
+    },
+    "id": "txn_1758464060622_qzdpcxe",
+    "timestamp": "2025-09-21T14:14:20.622Z"
+  },
+  {
+    "adminId": "admin_global_001",
+    "type": "BET_UPDATED",
+    "status": "COMPLETED",
+    "description": "Pariul \"Leganes sau Las Palmas câștigă\" pentru Leganes - Las Palmas a fost actualizat.",
+    "details": {
+      "betId": "bet_1758311360806_qj9kk90",
+      "groupId": "grp_1758311360806_4yxprhh",
+      "changedFields": [
+        {
+          "fieldName": "Cotă",
+          "oldValue": 1.573,
+          "newValue": 1.575
+        },
+        {
+          "fieldName": "Notițe",
+          "oldValue": "Nespecificat",
+          "newValue": ""
+        }
+      ]
+    },
+    "id": "txn_1758464055402_1xr57vz",
+    "timestamp": "2025-09-21T14:14:15.403Z"
+  },
+  {
+    "adminId": "admin_global_001",
+    "type": "BET_UPDATED",
+    "status": "COMPLETED",
+    "description": "Pariul \"New York City +1\" pentru New York City - Charlotte a fost actualizat.",
+    "details": {
+      "betId": "bet_1758310918804_xu6i74u",
+      "groupId": "grp_1758310918804_3cvpllx",
+      "changedFields": [
+        {
+          "fieldName": "Notițe",
+          "oldValue": "Nespecificat",
+          "newValue": "Scor: 2:0 (1:0,1:0)."
+        }
+      ]
+    },
+    "id": "txn_1758463989143_de5gsco",
+    "timestamp": "2025-09-21T14:13:09.143Z"
+  },
+  {
+    "adminId": "admin_global_001",
+    "type": "BET_UPDATED",
+    "status": "COMPLETED",
+    "description": "Pariul \"New York City +1\" pentru New York City - Charlotte a fost actualizat.",
+    "details": {
+      "betId": "bet_1758310918804_xu6i74u",
+      "groupId": "grp_1758310918804_3cvpllx",
+      "changedFields": [
+        {
+          "fieldName": "Status",
+          "oldValue": "PENDING",
+          "newValue": "VOID"
+        }
+      ]
+    },
+    "id": "txn_1758463977949_lcr36vc",
+    "timestamp": "2025-09-21T14:12:57.949Z"
+  },
+  {
+    "adminId": "admin_global_001",
+    "type": "BET_UPDATED",
+    "status": "COMPLETED",
+    "description": "Pariul \" Charlotte castiga\" pentru New York City - Charlotte a fost actualizat.",
+    "details": {
+      "betId": "bet_1758310918804_cmkgo0v",
+      "groupId": "grp_1758310918804_3cvpllx",
+      "changedFields": [
+        {
+          "fieldName": "Status",
+          "oldValue": "PENDING",
+          "newValue": "LOST"
+        }
+      ]
+    },
+    "id": "txn_1758463975016_vu0aaxq",
+    "timestamp": "2025-09-21T14:12:55.016Z"
+  },
+  {
+    "adminId": "admin_global_001",
+    "type": "BET_UPDATED",
+    "status": "COMPLETED",
+    "description": "Pariul \"Victorie Panserraikos\" pentru Panserraikos - Atromitos a fost actualizat.",
+    "details": {
+      "betId": "bet_1758310536596_yjr0mcr",
+      "groupId": "grp_1758310536596_5x4eiwo",
+      "changedFields": [
+        {
+          "fieldName": "Notițe",
+          "oldValue": "",
+          "newValue": "Scor: 1:1 (0:1,1:0)."
+        }
+      ]
+    },
+    "id": "txn_1758463942938_vmsi2kt",
+    "timestamp": "2025-09-21T14:12:22.938Z"
+  },
+  {
+    "adminId": "admin_global_001",
+    "type": "BET_UPDATED",
+    "status": "COMPLETED",
+    "description": "Pariul \"Victorie Panserraikos\" pentru Panserraikos - Atromitos a fost actualizat.",
+    "details": {
+      "betId": "bet_1758310536596_yjr0mcr",
+      "groupId": "grp_1758310536596_5x4eiwo",
+      "changedFields": [
+        {
+          "fieldName": "Status",
+          "oldValue": "PENDING",
+          "newValue": "LOST"
+        }
+      ]
+    },
+    "id": "txn_1758463931190_6zv7gda",
+    "timestamp": "2025-09-21T14:12:11.190Z"
+  },
+  {
+    "adminId": "admin_global_001",
+    "type": "BET_UPDATED",
+    "status": "COMPLETED",
+    "description": "Pariul \"Egal\" pentru Panserraikos - Atromitos a fost actualizat.",
+    "details": {
+      "betId": "bet_1758310536596_5btfd8g",
+      "groupId": "grp_1758310536596_5x4eiwo",
+      "changedFields": [
+        {
+          "fieldName": "Status",
+          "oldValue": "PENDING",
+          "newValue": "WON"
+        }
+      ]
+    },
+    "id": "txn_1758463921540_qt7k88d",
+    "timestamp": "2025-09-21T14:12:01.540Z"
+  },
+  {
+    "adminId": "admin_global_001",
+    "type": "BET_UPDATED",
+    "status": "COMPLETED",
+    "description": "Pariul \" Leeds United castiga\" pentru Wolverhampton Wanderers - Leeds United a fost actualizat.",
+    "details": {
+      "betId": "bet_1758311213869_7enj95y",
+      "groupId": "grp_1758311213869_acagytu",
+      "changedFields": [
+        {
+          "fieldName": "Notițe",
+          "oldValue": "Nespecificat",
+          "newValue": "Scor: 1:3 (1:3,0:0)."
+        }
+      ]
+    },
+    "id": "txn_1758463897005_wmo5b4c",
+    "timestamp": "2025-09-21T14:11:37.005Z"
+  },
+  {
+    "adminId": "admin_global_001",
+    "type": "BET_UPDATED",
+    "status": "COMPLETED",
+    "description": "Pariul \" Leeds United castiga\" pentru Wolverhampton Wanderers - Leeds United a fost actualizat.",
+    "details": {
+      "betId": "bet_1758311213869_7enj95y",
+      "groupId": "grp_1758311213869_acagytu",
+      "changedFields": [
+        {
+          "fieldName": "Status",
+          "oldValue": "PENDING",
+          "newValue": "WON"
+        }
+      ]
+    },
+    "id": "txn_1758463884730_2hvmvxw",
+    "timestamp": "2025-09-21T14:11:24.730Z"
+  },
+  {
+    "adminId": "admin_global_001",
+    "type": "BET_UPDATED",
+    "status": "COMPLETED",
+    "description": "Pariul \"Wolverhampton Wanderers +1.5 handicap asiatic\" pentru Wolverhampton Wanderers - Leeds United a fost actualizat.",
+    "details": {
+      "betId": "bet_1758311213869_2srvzpb",
+      "groupId": "grp_1758311213869_acagytu",
+      "changedFields": [
+        {
+          "fieldName": "Status",
+          "oldValue": "PENDING",
+          "newValue": "LOST"
+        }
+      ]
+    },
+    "id": "txn_1758463874963_ep79dzc",
+    "timestamp": "2025-09-21T14:11:14.963Z"
+  },
+  {
+    "adminId": "admin_global_001",
+    "type": "BET_UPDATED",
+    "status": "COMPLETED",
+    "description": "Pariul \"Total Sub 4.5 goluri\" pentru Norwich City - Wrexham a fost actualizat.",
+    "details": {
+      "betId": "bet_1758310388460_g7hahq8",
+      "groupId": "grp_1758310388460_q0nthga",
+      "changedFields": [
+        {
+          "fieldName": "Notițe",
+          "oldValue": "Nespecificat",
+          "newValue": "Scor: 2:3 (1:0,1:3)."
+        }
+      ]
+    },
+    "id": "txn_1758463845355_jkepueq",
+    "timestamp": "2025-09-21T14:10:45.355Z"
+  },
+  {
+    "adminId": "admin_global_001",
+    "type": "BET_UPDATED",
+    "status": "COMPLETED",
+    "description": "Pariul \"Total Sub 4.5 goluri\" pentru Norwich City - Wrexham a fost actualizat.",
+    "details": {
+      "betId": "bet_1758310388460_g7hahq8",
+      "groupId": "grp_1758310388460_q0nthga",
+      "changedFields": [
+        {
+          "fieldName": "Status",
+          "oldValue": "PENDING",
+          "newValue": "LOST"
+        }
+      ]
+    },
+    "id": "txn_1758463834589_o60t54j",
+    "timestamp": "2025-09-21T14:10:34.589Z"
+  },
+  {
+    "adminId": "admin_global_001",
+    "type": "BET_UPDATED",
+    "status": "COMPLETED",
+    "description": "Pariul \"Total Peste (3)\" pentru Norwich City - Wrexham a fost actualizat.",
+    "details": {
+      "betId": "bet_1758310388460_sasng20",
+      "groupId": "grp_1758310388460_q0nthga",
+      "changedFields": [
+        {
+          "fieldName": "Status",
+          "oldValue": "PENDING",
+          "newValue": "WON"
+        }
+      ]
+    },
+    "id": "txn_1758463823286_jziurux",
+    "timestamp": "2025-09-21T14:10:23.286Z"
+  },
+  {
+    "adminId": "admin_global_001",
+    "type": "BET_UPDATED",
+    "status": "COMPLETED",
+    "description": "Pariul \"Egal\" pentru GAIS - Elfsborg a fost actualizat.",
+    "details": {
+      "betId": "bet_1758311056625_ixppizw",
+      "groupId": "grp_1758311056625_vh4l4il",
+      "changedFields": [
+        {
+          "fieldName": "Notițe",
+          "oldValue": "Nespecificat",
+          "newValue": "Scor: 2:0 (1:0,1:0)."
+        }
+      ]
+    },
+    "id": "txn_1758463792723_m0874fi",
+    "timestamp": "2025-09-21T14:09:52.723Z"
+  },
+  {
+    "adminId": "admin_global_001",
+    "type": "BET_UPDATED",
+    "status": "COMPLETED",
+    "description": "Pariul \"Egal\" pentru GAIS - Elfsborg a fost actualizat.",
+    "details": {
+      "betId": "bet_1758311056625_ixppizw",
+      "groupId": "grp_1758311056625_vh4l4il",
+      "changedFields": [
+        {
+          "fieldName": "Status",
+          "oldValue": "PENDING",
+          "newValue": "LOST"
+        }
+      ]
+    },
+    "id": "txn_1758463784600_qdawivu",
+    "timestamp": "2025-09-21T14:09:44.600Z"
+  },
+  {
+    "adminId": "admin_global_001",
+    "type": "BET_UPDATED",
+    "status": "COMPLETED",
+    "description": "Pariul \"Elfsborg Câștigă sau Egal\" pentru GAIS - Elfsborg a fost actualizat.",
+    "details": {
+      "betId": "bet_1758311056625_uxxoz4y",
+      "groupId": "grp_1758311056625_vh4l4il",
+      "changedFields": [
+        {
+          "fieldName": "Status",
+          "oldValue": "PENDING",
+          "newValue": "LOST"
+        }
+      ]
+    },
+    "id": "txn_1758463765891_v6l8jlf",
+    "timestamp": "2025-09-21T14:09:25.891Z"
+  },
+  {
+    "adminId": "admin_global_001",
+    "type": "BET_UPDATED",
+    "status": "COMPLETED",
     "description": "Pariul \"Sportivo Trinidense +1.5 handicap asiatic\" pentru Club Olimpia - Sportivo Trinidense a fost actualizat.",
     "details": {
       "betId": "bet_1758308787472_ronegv1",
