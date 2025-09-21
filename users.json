@@ -1,5 +1,5 @@
 [
- {
+  {
     "id": "admin_global_001",
     "email": "admin@pariazainteligent.ro",
     "password": "admin",
@@ -15,7 +15,8 @@
       "investmentHistory": [],
       "badges": []
     },
-    "adminPermissions": {}
+    "adminPermissions": {},
+    "lastLogin": "2025-09-21T14:07:04.358Z"
   },
   {
     "id": "user_001",
@@ -27,10 +28,10 @@
     "isActive": true,
     "profileData": {
       "investedAmount": 1000,
-      "totalProfitEarned": 91.57252000000003,
-      "currentGrossProfit": 91.57252000000003,
+      "totalProfitEarned": 64.27652000000002,
+      "currentGrossProfit": 64.27652000000002,
       "platformFeePaid": 0,
-      "currentNetProfit": 91.57252000000003,
+      "currentNetProfit": 64.27652000000002,
       "joinDate": "2025-08-29T12:00:00.000Z",
       "investmentHistory": [
         {
@@ -51,6 +52,11 @@
         {
           "date": "2025-09-20T14:15:19.320Z",
           "amount": -13.219000000000001,
+          "type": "PROFIT_PAYOUT"
+        },
+        {
+          "date": "2025-09-21T14:20:26.130Z",
+          "amount": -27.296000000000006,
           "type": "PROFIT_PAYOUT"
         }
       ],
