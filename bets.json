@@ -1,22 +1,4 @@
 [
- {
-"date": "2025-09-21",
-"eventTimestamp": "2025-09-21T21:00",
-"sport": "Fotbal",
-"league": "---",
-"event": "FC Barcelona vs Getafe",
-"market": "---",
-"selection": "1x2 (FC Barcelona) - Ordinary Time",
-"odds": 1.29,
-"stake": 35,
-"createdByAdminId": "admin_global_001",
-"notes": "---",
-"id": "bet_13_1",
-"groupId": "grp_14_1",
-"betType": "VALUE",
-"status": "PENDING",
-"processedInDailyHistory": false
-},
   {
     "date": "2025-09-19",
     "eventTimestamp": "2025-09-19T21:45",
