@@ -1,5 +1,46 @@
 [
   {
+    "date": "2025-09-22",
+    "eventTimestamp": "2025-09-22T19:00",
+    "sport": "Baschet",
+    "league": "TBL 2025/2026",
+    "event": "Final Genclik - Yalova Belediye ",
+    "createdByAdminId": "admin_global_001",
+    "notes": "",
+    "market": "Asian hcp +2.5 (Yalova Belediye) ",
+    "selection": "Asian hcp +2.5 (Yalova Belediye) ",
+    "odds": 1.89,
+    "stake": 88,
+    "id": "bet_1758560786587_bt3digm",
+    "groupId": "grp_1758560786587_7o7676y",
+    "betType": "VALUE",
+    "status": "PENDING",
+    "processedInDailyHistory": false
+  },
+  {
+    "date": "2025-09-22",
+    "eventTimestamp": "2025-09-22T17:00",
+    "sport": "Baschet",
+    "league": "TBL 2025/2026",
+    "event": "Final Genclik - Yalova Belediye ",
+    "createdByAdminId": "admin_global_001",
+    "notes": "",
+    "market": "Asian hcp -1.5 (Final Genclik)",
+    "selection": "Asian hcp -1.5 (Final Genclik)",
+    "odds": 2.45,
+    "stake": 69.52,
+    "middleDetails": {
+      "p1": 8.799999999999997,
+      "p2": 12.804000000000002,
+      "pb": 179.124
+    },
+    "id": "bet_1758560786587_new0mli",
+    "groupId": "grp_1758560786587_7o7676y",
+    "betType": "MIDDLE",
+    "status": "PENDING",
+    "processedInDailyHistory": false
+  },
+  {
     "date": "2025-09-21",
     "eventTimestamp": "2025-09-21T23:00",
     "sport": "Tenis",
